@@ -1,0 +1,68 @@
+/* Container for the entire log viewer */
+.log-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styling */
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  /* Loading and error states */
+  .loading, .error {
+    text-align: center;
+    color: #d9534f;
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  /* No logs state */
+  .no-logs {
+    text-align: center;
+    font-size: 18px;
+    color: #777;
+  }
+  
+  /* Log list container */
+  .log-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Individual log item styling */
+  .log-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 6px;
+    font-size: 14px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* For better readability, use pre-wrap and give some margin */
+  pre {
+    margin: 0;
+    white-space: pre-wrap;
+    color: #333;
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  
+  /* Highlight the timestamp */
+  .log-item pre:first-child {
+    font-weight: bold;
+    color: #007bff;
+  }
+  

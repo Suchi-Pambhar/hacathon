@@ -1,0 +1,1436 @@
+
+  Timestamp: 2024-09-13 12:49:35
+  CPU Usage: {"user":1811790,"nice":0,"sys":2683742,"idle":369959228,"irq":126289}
+  Memory Usage: Total: 16557891584 bytes, Free: 8151117824 bytes
+  Uptime: 89826.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:49:41
+  CPU Usage: {"user":1811852,"nice":0,"sys":2684070,"idle":370054994,"irq":126289}
+  Memory Usage: Total: 16557891584 bytes, Free: 8141287424 bytes
+  Uptime: 89833 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:49:47
+  CPU Usage: {"user":1811931,"nice":0,"sys":2684398,"idle":370150713,"irq":126305}
+  Memory Usage: Total: 16557891584 bytes, Free: 8140873728 bytes
+  Uptime: 89839 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:49:53
+  CPU Usage: {"user":1813758,"nice":0,"sys":2685308,"idle":370244069,"irq":126305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7865266176 bytes
+  Uptime: 89845 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:49:59
+  CPU Usage: {"user":1814275,"nice":0,"sys":2687603,"idle":370337432,"irq":126305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7866343424 bytes
+  Uptime: 89851.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:05
+  CPU Usage: {"user":1814618,"nice":0,"sys":2688744,"idle":370431883,"irq":126305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7977267200 bytes
+  Uptime: 89857.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:11
+  CPU Usage: {"user":1815042,"nice":0,"sys":2688977,"idle":370527619,"irq":126305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7968866304 bytes
+  Uptime: 89863.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:17
+  CPU Usage: {"user":1815775,"nice":0,"sys":2689432,"idle":370622335,"irq":126305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7961477120 bytes
+  Uptime: 89869.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:23
+  CPU Usage: {"user":1817555,"nice":0,"sys":2691117,"idle":370715289,"irq":126367}
+  Memory Usage: Total: 16557891584 bytes, Free: 8001552384 bytes
+  Uptime: 89875.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:29
+  CPU Usage: {"user":1818664,"nice":0,"sys":2692835,"idle":370808400,"irq":126367}
+  Memory Usage: Total: 16557891584 bytes, Free: 7946547200 bytes
+  Uptime: 89881.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:35
+  CPU Usage: {"user":1819181,"nice":0,"sys":2693117,"idle":370903823,"irq":126383}
+  Memory Usage: Total: 16557891584 bytes, Free: 7886766080 bytes
+  Uptime: 89887.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:41
+  CPU Usage: {"user":1819370,"nice":0,"sys":2693681,"idle":370999055,"irq":126414}
+  Memory Usage: Total: 16557891584 bytes, Free: 7866576896 bytes
+  Uptime: 89893.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:47
+  CPU Usage: {"user":1819588,"nice":0,"sys":2693915,"idle":371094558,"irq":126430}
+  Memory Usage: Total: 16557891584 bytes, Free: 7866707968 bytes
+  Uptime: 89899.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:53
+  CPU Usage: {"user":1819871,"nice":0,"sys":2694307,"idle":371190149,"irq":126430}
+  Memory Usage: Total: 16557891584 bytes, Free: 7844175872 bytes
+  Uptime: 89905.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:50:59
+  CPU Usage: {"user":1820354,"nice":0,"sys":2695839,"idle":371284321,"irq":126508}
+  Memory Usage: Total: 16557891584 bytes, Free: 7961309184 bytes
+  Uptime: 89911.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:05
+  CPU Usage: {"user":1820711,"nice":0,"sys":2696243,"idle":371379695,"irq":126508}
+  Memory Usage: Total: 16557891584 bytes, Free: 7958228992 bytes
+  Uptime: 89917.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:11
+  CPU Usage: {"user":1821196,"nice":0,"sys":2696665,"idle":371474914,"irq":126555}
+  Memory Usage: Total: 16557891584 bytes, Free: 7943557120 bytes
+  Uptime: 89923.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:17
+  CPU Usage: {"user":1821274,"nice":0,"sys":2697009,"idle":371570510,"irq":126571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7952752640 bytes
+  Uptime: 89929.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:23
+  CPU Usage: {"user":1821290,"nice":0,"sys":2697400,"idle":371666211,"irq":126571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7957041152 bytes
+  Uptime: 89935.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:29
+  CPU Usage: {"user":1821852,"nice":0,"sys":2698524,"idle":371760681,"irq":126571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7942234112 bytes
+  Uptime: 89941.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:35
+  CPU Usage: {"user":1822116,"nice":0,"sys":2699213,"idle":371855742,"irq":126571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7963332608 bytes
+  Uptime: 89947.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:41
+  CPU Usage: {"user":1822273,"nice":0,"sys":2699400,"idle":371951351,"irq":126571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7953498112 bytes
+  Uptime: 89953.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:47
+  CPU Usage: {"user":1822555,"nice":0,"sys":2699823,"idle":372047087,"irq":126602}
+  Memory Usage: Total: 16557891584 bytes, Free: 7862292480 bytes
+  Uptime: 89959.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:53
+  CPU Usage: {"user":1822789,"nice":0,"sys":2700149,"idle":372142339,"irq":126633}
+  Memory Usage: Total: 16557891584 bytes, Free: 7832461312 bytes
+  Uptime: 89965.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:51:59
+  CPU Usage: {"user":1822900,"nice":0,"sys":2700430,"idle":372238304,"irq":126633}
+  Memory Usage: Total: 16557891584 bytes, Free: 7833096192 bytes
+  Uptime: 89971.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:05
+  CPU Usage: {"user":1823337,"nice":0,"sys":2701619,"idle":372332712,"irq":126649}
+  Memory Usage: Total: 16557891584 bytes, Free: 7941685248 bytes
+  Uptime: 89977.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:11
+  CPU Usage: {"user":1824151,"nice":0,"sys":2701822,"idle":372427852,"irq":126649}
+  Memory Usage: Total: 16557891584 bytes, Free: 7923265536 bytes
+  Uptime: 89983.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:17
+  CPU Usage: {"user":1825711,"nice":0,"sys":2702728,"idle":372521681,"irq":126726}
+  Memory Usage: Total: 16557891584 bytes, Free: 7921807360 bytes
+  Uptime: 89989.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:23
+  CPU Usage: {"user":1826478,"nice":0,"sys":2703400,"idle":372616320,"irq":126726}
+  Memory Usage: Total: 16557891584 bytes, Free: 7917363200 bytes
+  Uptime: 89995.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:29
+  CPU Usage: {"user":1826820,"nice":0,"sys":2703899,"idle":372711635,"irq":126757}
+  Memory Usage: Total: 16557891584 bytes, Free: 7998627840 bytes
+  Uptime: 90001.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:35
+  CPU Usage: {"user":1826897,"nice":0,"sys":2705164,"idle":372806431,"irq":126773}
+  Memory Usage: Total: 16557891584 bytes, Free: 8010776576 bytes
+  Uptime: 90007.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:41
+  CPU Usage: {"user":1826913,"nice":0,"sys":2705321,"idle":372902494,"irq":126773}
+  Memory Usage: Total: 16557891584 bytes, Free: 8007487488 bytes
+  Uptime: 90013.234 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:47
+  CPU Usage: {"user":1826929,"nice":0,"sys":2705414,"idle":372998573,"irq":126773}
+  Memory Usage: Total: 16557891584 bytes, Free: 7999627264 bytes
+  Uptime: 90019.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:53
+  CPU Usage: {"user":1827055,"nice":0,"sys":2706008,"idle":373094152,"irq":126789}
+  Memory Usage: Total: 16557891584 bytes, Free: 7982899200 bytes
+  Uptime: 90025.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:52:59
+  CPU Usage: {"user":1827070,"nice":0,"sys":2706181,"idle":373189774,"irq":126804}
+  Memory Usage: Total: 16557891584 bytes, Free: 8005423104 bytes
+  Uptime: 90031.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:05
+  CPU Usage: {"user":1827118,"nice":0,"sys":2707165,"idle":373285182,"irq":126804}
+  Memory Usage: Total: 16557891584 bytes, Free: 8006451200 bytes
+  Uptime: 90037.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:11
+  CPU Usage: {"user":1827307,"nice":0,"sys":2707429,"idle":373380541,"irq":126804}
+  Memory Usage: Total: 16557891584 bytes, Free: 7999332352 bytes
+  Uptime: 90043.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:17
+  CPU Usage: {"user":1827947,"nice":0,"sys":2709557,"idle":373474009,"irq":126866}
+  Memory Usage: Total: 16557891584 bytes, Free: 7938605056 bytes
+  Uptime: 90049.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:23
+  CPU Usage: {"user":1828321,"nice":0,"sys":2710243,"idle":373569339,"irq":126898}
+  Memory Usage: Total: 16557891584 bytes, Free: 7926624256 bytes
+  Uptime: 90055.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:29
+  CPU Usage: {"user":1829871,"nice":0,"sys":2710852,"idle":373663116,"irq":126913}
+  Memory Usage: Total: 16557891584 bytes, Free: 7847284736 bytes
+  Uptime: 90061.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:35
+  CPU Usage: {"user":1829995,"nice":0,"sys":2712040,"idle":373758039,"irq":126945}
+  Memory Usage: Total: 16557891584 bytes, Free: 7842603008 bytes
+  Uptime: 90067.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:41
+  CPU Usage: {"user":1830089,"nice":0,"sys":2712369,"idle":373853680,"irq":126960}
+  Memory Usage: Total: 16557891584 bytes, Free: 7853199360 bytes
+  Uptime: 90073.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:47
+  CPU Usage: {"user":1830167,"nice":0,"sys":2712792,"idle":373949444,"irq":127007}
+  Memory Usage: Total: 16557891584 bytes, Free: 7854014464 bytes
+  Uptime: 90079.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:53
+  CPU Usage: {"user":1830620,"nice":0,"sys":2713057,"idle":374044727,"irq":127023}
+  Memory Usage: Total: 16557891584 bytes, Free: 7855083520 bytes
+  Uptime: 90085.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:53:59
+  CPU Usage: {"user":1831900,"nice":0,"sys":2714009,"idle":374138478,"irq":127054}
+  Memory Usage: Total: 16557891584 bytes, Free: 7873003520 bytes
+  Uptime: 90091.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:05
+  CPU Usage: {"user":1832664,"nice":0,"sys":2715759,"idle":374232243,"irq":127086}
+  Memory Usage: Total: 16557891584 bytes, Free: 7837200384 bytes
+  Uptime: 90097.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:11
+  CPU Usage: {"user":1834603,"nice":0,"sys":2716182,"idle":374325916,"irq":127101}
+  Memory Usage: Total: 16557891584 bytes, Free: 7852535808 bytes
+  Uptime: 90103.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:17
+  CPU Usage: {"user":1835368,"nice":0,"sys":2716524,"idle":374420758,"irq":127101}
+  Memory Usage: Total: 16557891584 bytes, Free: 7846367232 bytes
+  Uptime: 90109.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:23
+  CPU Usage: {"user":1835867,"nice":0,"sys":2717259,"idle":374515571,"irq":127117}
+  Memory Usage: Total: 16557891584 bytes, Free: 7919013888 bytes
+  Uptime: 90115.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:29
+  CPU Usage: {"user":1836335,"nice":0,"sys":2718197,"idle":374610336,"irq":127133}
+  Memory Usage: Total: 16557891584 bytes, Free: 7923408896 bytes
+  Uptime: 90121.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:35
+  CPU Usage: {"user":1836556,"nice":0,"sys":2718619,"idle":374705994,"irq":127148}
+  Memory Usage: Total: 16557891584 bytes, Free: 7927476224 bytes
+  Uptime: 90127.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:41
+  CPU Usage: {"user":1836883,"nice":0,"sys":2720008,"idle":374800181,"irq":127258}
+  Memory Usage: Total: 16557891584 bytes, Free: 7934377984 bytes
+  Uptime: 90133.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:47
+  CPU Usage: {"user":1837039,"nice":0,"sys":2720867,"idle":374895539,"irq":127289}
+  Memory Usage: Total: 16557891584 bytes, Free: 7944548352 bytes
+  Uptime: 90139.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:53
+  CPU Usage: {"user":1837350,"nice":0,"sys":2721507,"idle":374990571,"irq":127336}
+  Memory Usage: Total: 16557891584 bytes, Free: 7922675712 bytes
+  Uptime: 90145.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:54:59
+  CPU Usage: {"user":1837680,"nice":0,"sys":2722148,"idle":375085727,"irq":127382}
+  Memory Usage: Total: 16557891584 bytes, Free: 7924269056 bytes
+  Uptime: 90151.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:08
+  CPU Usage: {"user":1844898,"nice":0,"sys":2746227,"idle":378079931,"irq":127756}
+  Memory Usage: Total: 16557891584 bytes, Free: 8332726272 bytes
+  Uptime: 90340.5 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:14
+  CPU Usage: {"user":1845007,"nice":0,"sys":2747399,"idle":378174900,"irq":127756}
+  Memory Usage: Total: 16557891584 bytes, Free: 8313004032 bytes
+  Uptime: 90346.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:20
+  CPU Usage: {"user":1845477,"nice":0,"sys":2748118,"idle":378269744,"irq":127756}
+  Memory Usage: Total: 16557891584 bytes, Free: 8365023232 bytes
+  Uptime: 90352.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:26
+  CPU Usage: {"user":1846492,"nice":0,"sys":2748899,"idle":378364010,"irq":127803}
+  Memory Usage: Total: 16557891584 bytes, Free: 8296435712 bytes
+  Uptime: 90358.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:32
+  CPU Usage: {"user":1846632,"nice":0,"sys":2749196,"idle":378459743,"irq":127835}
+  Memory Usage: Total: 16557891584 bytes, Free: 8304529408 bytes
+  Uptime: 90364.531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:38
+  CPU Usage: {"user":1846758,"nice":0,"sys":2749712,"idle":378555306,"irq":127835}
+  Memory Usage: Total: 16557891584 bytes, Free: 8289390592 bytes
+  Uptime: 90370.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:44
+  CPU Usage: {"user":1847070,"nice":0,"sys":2750337,"idle":378650524,"irq":127881}
+  Memory Usage: Total: 16557891584 bytes, Free: 8285331456 bytes
+  Uptime: 90376.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:50
+  CPU Usage: {"user":1847397,"nice":0,"sys":2751728,"idle":378744993,"irq":127881}
+  Memory Usage: Total: 16557891584 bytes, Free: 8308989952 bytes
+  Uptime: 90382.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:58:56
+  CPU Usage: {"user":1848475,"nice":0,"sys":2752791,"idle":378838868,"irq":127913}
+  Memory Usage: Total: 16557891584 bytes, Free: 8267223040 bytes
+  Uptime: 90388.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:02
+  CPU Usage: {"user":1848490,"nice":0,"sys":2753276,"idle":378934337,"irq":127928}
+  Memory Usage: Total: 16557891584 bytes, Free: 8293556224 bytes
+  Uptime: 90394.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:08
+  CPU Usage: {"user":1848617,"nice":0,"sys":2753651,"idle":379030118,"irq":127928}
+  Memory Usage: Total: 16557891584 bytes, Free: 8294535168 bytes
+  Uptime: 90400.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:14
+  CPU Usage: {"user":1848648,"nice":0,"sys":2753949,"idle":379125727,"irq":127928}
+  Memory Usage: Total: 16557891584 bytes, Free: 8296284160 bytes
+  Uptime: 90406.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:20
+  CPU Usage: {"user":1848648,"nice":0,"sys":2755246,"idle":379220462,"irq":127928}
+  Memory Usage: Total: 16557891584 bytes, Free: 8297693184 bytes
+  Uptime: 90412.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:26
+  CPU Usage: {"user":1848788,"nice":0,"sys":2755573,"idle":379316321,"irq":127944}
+  Memory Usage: Total: 16557891584 bytes, Free: 8376311808 bytes
+  Uptime: 90418.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:32
+  CPU Usage: {"user":1848835,"nice":0,"sys":2756073,"idle":379411650,"irq":127960}
+  Memory Usage: Total: 16557891584 bytes, Free: 8370376704 bytes
+  Uptime: 90424.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:38
+  CPU Usage: {"user":1848913,"nice":0,"sys":2756448,"idle":379507603,"irq":127960}
+  Memory Usage: Total: 16557891584 bytes, Free: 8369418240 bytes
+  Uptime: 90430.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:44
+  CPU Usage: {"user":1849086,"nice":0,"sys":2756979,"idle":379602946,"irq":127960}
+  Memory Usage: Total: 16557891584 bytes, Free: 8372727808 bytes
+  Uptime: 90436.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:50
+  CPU Usage: {"user":1849698,"nice":0,"sys":2758368,"idle":379697116,"irq":127990}
+  Memory Usage: Total: 16557891584 bytes, Free: 8318304256 bytes
+  Uptime: 90442.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 12:59:56
+  CPU Usage: {"user":1851055,"nice":0,"sys":2758698,"idle":379791664,"irq":128006}
+  Memory Usage: Total: 16557891584 bytes, Free: 8265170944 bytes
+  Uptime: 90448.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:02
+  CPU Usage: {"user":1853164,"nice":0,"sys":2759495,"idle":379884711,"irq":128021}
+  Memory Usage: Total: 16557891584 bytes, Free: 8265359360 bytes
+  Uptime: 90454.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:08
+  CPU Usage: {"user":1854290,"nice":0,"sys":2760072,"idle":379979259,"irq":128037}
+  Memory Usage: Total: 16557891584 bytes, Free: 8271843328 bytes
+  Uptime: 90460.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:14
+  CPU Usage: {"user":1854914,"nice":0,"sys":2760899,"idle":380073586,"irq":128052}
+  Memory Usage: Total: 16557891584 bytes, Free: 8369475584 bytes
+  Uptime: 90466.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:20
+  CPU Usage: {"user":1855242,"nice":0,"sys":2762525,"idle":380167821,"irq":128068}
+  Memory Usage: Total: 16557891584 bytes, Free: 8333889536 bytes
+  Uptime: 90472.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:26
+  CPU Usage: {"user":1857134,"nice":0,"sys":2762852,"idle":380261604,"irq":128083}
+  Memory Usage: Total: 16557891584 bytes, Free: 8298795008 bytes
+  Uptime: 90478.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:32
+  CPU Usage: {"user":1858571,"nice":0,"sys":2763055,"idle":380356305,"irq":128083}
+  Memory Usage: Total: 16557891584 bytes, Free: 8250957824 bytes
+  Uptime: 90484.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:38
+  CPU Usage: {"user":1860663,"nice":0,"sys":2763510,"idle":380449759,"irq":128115}
+  Memory Usage: Total: 16557891584 bytes, Free: 8248860672 bytes
+  Uptime: 90490.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:44
+  CPU Usage: {"user":1861086,"nice":0,"sys":2763948,"idle":380544854,"irq":128146}
+  Memory Usage: Total: 16557891584 bytes, Free: 8269492224 bytes
+  Uptime: 90496.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:50
+  CPU Usage: {"user":1861649,"nice":0,"sys":2765446,"idle":380638946,"irq":128146}
+  Memory Usage: Total: 16557891584 bytes, Free: 8332402688 bytes
+  Uptime: 90502.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:00:56
+  CPU Usage: {"user":1861929,"nice":0,"sys":2765618,"idle":380734540,"irq":128161}
+  Memory Usage: Total: 16557891584 bytes, Free: 8347201536 bytes
+  Uptime: 90508.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:02
+  CPU Usage: {"user":1862163,"nice":0,"sys":2766040,"idle":380830119,"irq":128193}
+  Memory Usage: Total: 16557891584 bytes, Free: 8351555584 bytes
+  Uptime: 90514.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:09
+  CPU Usage: {"user":1862585,"nice":0,"sys":2766431,"idle":380925386,"irq":128240}
+  Memory Usage: Total: 16557891584 bytes, Free: 8337526784 bytes
+  Uptime: 90520.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:15
+  CPU Usage: {"user":1862806,"nice":0,"sys":2766698,"idle":381021055,"irq":128255}
+  Memory Usage: Total: 16557891584 bytes, Free: 8343031808 bytes
+  Uptime: 90526.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:21
+  CPU Usage: {"user":1863289,"nice":0,"sys":2767540,"idle":381116009,"irq":128271}
+  Memory Usage: Total: 16557891584 bytes, Free: 8313081856 bytes
+  Uptime: 90532.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:27
+  CPU Usage: {"user":1864243,"nice":0,"sys":2768838,"idle":381209822,"irq":128333}
+  Memory Usage: Total: 16557891584 bytes, Free: 8310923264 bytes
+  Uptime: 90538.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:33
+  CPU Usage: {"user":1864557,"nice":0,"sys":2769134,"idle":381305276,"irq":128349}
+  Memory Usage: Total: 16557891584 bytes, Free: 8353230848 bytes
+  Uptime: 90544.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:39
+  CPU Usage: {"user":1864604,"nice":0,"sys":2769447,"idle":381401116,"irq":128349}
+  Memory Usage: Total: 16557891584 bytes, Free: 8370118656 bytes
+  Uptime: 90550.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:45
+  CPU Usage: {"user":1864634,"nice":0,"sys":2769728,"idle":381496992,"irq":128349}
+  Memory Usage: Total: 16557891584 bytes, Free: 8360931328 bytes
+  Uptime: 90556.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:51
+  CPU Usage: {"user":1864697,"nice":0,"sys":2770149,"idle":381592461,"irq":128365}
+  Memory Usage: Total: 16557891584 bytes, Free: 8375119872 bytes
+  Uptime: 90562.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:01:57
+  CPU Usage: {"user":1865308,"nice":0,"sys":2771291,"idle":381686851,"irq":128365}
+  Memory Usage: Total: 16557891584 bytes, Free: 8331448320 bytes
+  Uptime: 90568.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:03
+  CPU Usage: {"user":1866681,"nice":0,"sys":2771539,"idle":381781401,"irq":128380}
+  Memory Usage: Total: 16557891584 bytes, Free: 8284680192 bytes
+  Uptime: 90574.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:09
+  CPU Usage: {"user":1867898,"nice":0,"sys":2772149,"idle":381875915,"irq":128443}
+  Memory Usage: Total: 16557891584 bytes, Free: 8247062528 bytes
+  Uptime: 90580.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:15
+  CPU Usage: {"user":1868679,"nice":0,"sys":2772478,"idle":381970664,"irq":128443}
+  Memory Usage: Total: 16557891584 bytes, Free: 8319266816 bytes
+  Uptime: 90586.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:21
+  CPU Usage: {"user":1869258,"nice":0,"sys":2773026,"idle":382065929,"irq":128474}
+  Memory Usage: Total: 16557891584 bytes, Free: 8295632896 bytes
+  Uptime: 90592.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:27
+  CPU Usage: {"user":1869587,"nice":0,"sys":2774867,"idle":382159711,"irq":128474}
+  Memory Usage: Total: 16557891584 bytes, Free: 8307638272 bytes
+  Uptime: 90598.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:38
+  CPU Usage: {"user":1871008,"nice":0,"sys":2776071,"idle":382337945,"irq":128490}
+  Memory Usage: Total: 16557891584 bytes, Free: 8306454528 bytes
+  Uptime: 90610.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:44
+  CPU Usage: {"user":1871305,"nice":0,"sys":2776804,"idle":382433039,"irq":128505}
+  Memory Usage: Total: 16557891584 bytes, Free: 8300802048 bytes
+  Uptime: 90616.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:50
+  CPU Usage: {"user":1875540,"nice":0,"sys":2779538,"idle":382522382,"irq":128521}
+  Memory Usage: Total: 16557891584 bytes, Free: 8024838144 bytes
+  Uptime: 90622.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:02:56
+  CPU Usage: {"user":1875650,"nice":0,"sys":2780695,"idle":382617022,"irq":128537}
+  Memory Usage: Total: 16557891584 bytes, Free: 8163426304 bytes
+  Uptime: 90628.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:03:02
+  CPU Usage: {"user":1875761,"nice":0,"sys":2780992,"idle":382712882,"irq":128537}
+  Memory Usage: Total: 16557891584 bytes, Free: 8171200512 bytes
+  Uptime: 90634.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:03:08
+  CPU Usage: {"user":1875808,"nice":0,"sys":2781226,"idle":382808634,"irq":128552}
+  Memory Usage: Total: 16557891584 bytes, Free: 8178774016 bytes
+  Uptime: 90640.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:03:14
+  CPU Usage: {"user":1876322,"nice":0,"sys":2782210,"idle":382903430,"irq":128568}
+  Memory Usage: Total: 16557891584 bytes, Free: 8176791552 bytes
+  Uptime: 90646.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:03:20
+  CPU Usage: {"user":1877493,"nice":0,"sys":2782537,"idle":382997900,"irq":128599}
+  Memory Usage: Total: 16557891584 bytes, Free: 8161943552 bytes
+  Uptime: 90652.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:03:26
+  CPU Usage: {"user":1878306,"nice":0,"sys":2783679,"idle":383091854,"irq":128631}
+  Memory Usage: Total: 16557891584 bytes, Free: 8160415744 bytes
+  Uptime: 90658.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:03:32
+  CPU Usage: {"user":1878384,"nice":0,"sys":2783913,"idle":383187836,"irq":128631}
+  Memory Usage: Total: 16557891584 bytes, Free: 8178892800 bytes
+  Uptime: 90664.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:03:38
+  CPU Usage: {"user":1878961,"nice":0,"sys":2784226,"idle":383283071,"irq":128631}
+  Memory Usage: Total: 16557891584 bytes, Free: 8258154496 bytes
+  Uptime: 90670.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:05:25
+  CPU Usage: {"user":1889040,"nice":0,"sys":2796290,"idle":384978541,"irq":128929}
+  Memory Usage: Total: 16557891584 bytes, Free: 8340606976 bytes
+  Uptime: 90777.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:05:31
+  CPU Usage: {"user":1889242,"nice":0,"sys":2797555,"idle":385073133,"irq":128929}
+  Memory Usage: Total: 16557891584 bytes, Free: 8327802880 bytes
+  Uptime: 90783.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:05:37
+  CPU Usage: {"user":1889415,"nice":0,"sys":2797898,"idle":385168415,"irq":128929}
+  Memory Usage: Total: 16557891584 bytes, Free: 8347770880 bytes
+  Uptime: 90789.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:05:43
+  CPU Usage: {"user":1889696,"nice":0,"sys":2798226,"idle":385263960,"irq":128960}
+  Memory Usage: Total: 16557891584 bytes, Free: 8360312832 bytes
+  Uptime: 90795.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:05:49
+  CPU Usage: {"user":1891226,"nice":0,"sys":2799260,"idle":385357727,"irq":128992}
+  Memory Usage: Total: 16557891584 bytes, Free: 8247169024 bytes
+  Uptime: 90801.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:05:55
+  CPU Usage: {"user":1891945,"nice":0,"sys":2799963,"idle":385452241,"irq":129039}
+  Memory Usage: Total: 16557891584 bytes, Free: 8308006912 bytes
+  Uptime: 90807.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:01
+  CPU Usage: {"user":1892634,"nice":0,"sys":2801118,"idle":385546604,"irq":129054}
+  Memory Usage: Total: 16557891584 bytes, Free: 8239759360 bytes
+  Uptime: 90813.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:07
+  CPU Usage: {"user":1892743,"nice":0,"sys":2801525,"idle":385642104,"irq":129086}
+  Memory Usage: Total: 16557891584 bytes, Free: 8220631040 bytes
+  Uptime: 90819.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:13
+  CPU Usage: {"user":1893337,"nice":0,"sys":2801836,"idle":385737277,"irq":129086}
+  Memory Usage: Total: 16557891584 bytes, Free: 8103206912 bytes
+  Uptime: 90825.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:19
+  CPU Usage: {"user":1893557,"nice":0,"sys":2802117,"idle":385832839,"irq":129101}
+  Memory Usage: Total: 16557891584 bytes, Free: 8272662528 bytes
+  Uptime: 90831.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:25
+  CPU Usage: {"user":1893636,"nice":0,"sys":2802397,"idle":385928929,"irq":129101}
+  Memory Usage: Total: 16557891584 bytes, Free: 8320679936 bytes
+  Uptime: 90837.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:31
+  CPU Usage: {"user":1893931,"nice":0,"sys":2803148,"idle":386024009,"irq":129117}
+  Memory Usage: Total: 16557891584 bytes, Free: 8313192448 bytes
+  Uptime: 90843.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:37
+  CPU Usage: {"user":1894306,"nice":0,"sys":2803961,"idle":386118915,"irq":129117}
+  Memory Usage: Total: 16557891584 bytes, Free: 8302571520 bytes
+  Uptime: 90849.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:43
+  CPU Usage: {"user":1896118,"nice":0,"sys":2804291,"idle":386212976,"irq":129132}
+  Memory Usage: Total: 16557891584 bytes, Free: 8269070336 bytes
+  Uptime: 90855.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:49
+  CPU Usage: {"user":1897493,"nice":0,"sys":2804726,"idle":386307135,"irq":129227}
+  Memory Usage: Total: 16557891584 bytes, Free: 8262873088 bytes
+  Uptime: 90861.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:06:55
+  CPU Usage: {"user":1897867,"nice":0,"sys":2805070,"idle":386402773,"irq":129258}
+  Memory Usage: Total: 16557891584 bytes, Free: 8261922816 bytes
+  Uptime: 90867.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:01
+  CPU Usage: {"user":1899134,"nice":0,"sys":2805743,"idle":386496994,"irq":129289}
+  Memory Usage: Total: 16557891584 bytes, Free: 8308133888 bytes
+  Uptime: 90873.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:07
+  CPU Usage: {"user":1902742,"nice":0,"sys":2807011,"idle":386588213,"irq":129304}
+  Memory Usage: Total: 16557891584 bytes, Free: 7759020032 bytes
+  Uptime: 90879.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:13
+  CPU Usage: {"user":1904181,"nice":0,"sys":2807900,"idle":386681867,"irq":129336}
+  Memory Usage: Total: 16557891584 bytes, Free: 7625424896 bytes
+  Uptime: 90885.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:19
+  CPU Usage: {"user":1907118,"nice":0,"sys":2808791,"idle":386774166,"irq":129414}
+  Memory Usage: Total: 16557891584 bytes, Free: 7373053952 bytes
+  Uptime: 90891.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:25
+  CPU Usage: {"user":1907381,"nice":0,"sys":2809103,"idle":386869899,"irq":129414}
+  Memory Usage: Total: 16557891584 bytes, Free: 7471505408 bytes
+  Uptime: 90897.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:31
+  CPU Usage: {"user":1910944,"nice":0,"sys":2810432,"idle":386961057,"irq":129460}
+  Memory Usage: Total: 16557891584 bytes, Free: 7552184320 bytes
+  Uptime: 90903.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:38
+  CPU Usage: {"user":1913946,"nice":0,"sys":2811478,"idle":387053085,"irq":129460}
+  Memory Usage: Total: 16557891584 bytes, Free: 7122669568 bytes
+  Uptime: 90909.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:44
+  CPU Usage: {"user":1914822,"nice":0,"sys":2811789,"idle":387148306,"irq":129460}
+  Memory Usage: Total: 16557891584 bytes, Free: 7087763456 bytes
+  Uptime: 90915.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:50
+  CPU Usage: {"user":1916182,"nice":0,"sys":2812916,"idle":387241837,"irq":129523}
+  Memory Usage: Total: 16557891584 bytes, Free: 7187050496 bytes
+  Uptime: 90921.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:07:56
+  CPU Usage: {"user":1916854,"nice":0,"sys":2813697,"idle":387336399,"irq":129680}
+  Memory Usage: Total: 16557891584 bytes, Free: 7092817920 bytes
+  Uptime: 90927.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:02
+  CPU Usage: {"user":1918932,"nice":0,"sys":2814618,"idle":387429633,"irq":129805}
+  Memory Usage: Total: 16557891584 bytes, Free: 6985891840 bytes
+  Uptime: 90933.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:08
+  CPU Usage: {"user":1920667,"nice":0,"sys":2816025,"idle":387522553,"irq":129946}
+  Memory Usage: Total: 16557891584 bytes, Free: 6938656768 bytes
+  Uptime: 90939.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:14
+  CPU Usage: {"user":1924227,"nice":0,"sys":2816885,"idle":387614274,"irq":129961}
+  Memory Usage: Total: 16557891584 bytes, Free: 6852788224 bytes
+  Uptime: 90945.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:20
+  CPU Usage: {"user":1924713,"nice":0,"sys":2817088,"idle":387709553,"irq":129977}
+  Memory Usage: Total: 16557891584 bytes, Free: 7072571392 bytes
+  Uptime: 90951.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:26
+  CPU Usage: {"user":1925274,"nice":0,"sys":2817307,"idle":387805038,"irq":129993}
+  Memory Usage: Total: 16557891584 bytes, Free: 7141629952 bytes
+  Uptime: 90957.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:32
+  CPU Usage: {"user":1925538,"nice":0,"sys":2817495,"idle":387900573,"irq":130024}
+  Memory Usage: Total: 16557891584 bytes, Free: 7175860224 bytes
+  Uptime: 90963.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:38
+  CPU Usage: {"user":1925679,"nice":0,"sys":2819182,"idle":387995102,"irq":130086}
+  Memory Usage: Total: 16557891584 bytes, Free: 7195955200 bytes
+  Uptime: 90969.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:44
+  CPU Usage: {"user":1925805,"nice":0,"sys":2819369,"idle":388090788,"irq":130118}
+  Memory Usage: Total: 16557891584 bytes, Free: 7248699392 bytes
+  Uptime: 90975.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:50
+  CPU Usage: {"user":1926054,"nice":0,"sys":2819570,"idle":388186556,"irq":130118}
+  Memory Usage: Total: 16557891584 bytes, Free: 7329071104 bytes
+  Uptime: 90981.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:08:56
+  CPU Usage: {"user":1926086,"nice":0,"sys":2819741,"idle":388282571,"irq":130149}
+  Memory Usage: Total: 16557891584 bytes, Free: 7335944192 bytes
+  Uptime: 90987.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:02
+  CPU Usage: {"user":1926147,"nice":0,"sys":2819944,"idle":388378164,"irq":130164}
+  Memory Usage: Total: 16557891584 bytes, Free: 7359352832 bytes
+  Uptime: 90993.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:08
+  CPU Usage: {"user":1926336,"nice":0,"sys":2822272,"idle":388472008,"irq":130180}
+  Memory Usage: Total: 16557891584 bytes, Free: 7328595968 bytes
+  Uptime: 90999.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:14
+  CPU Usage: {"user":1926524,"nice":0,"sys":2822727,"idle":388567399,"irq":130196}
+  Memory Usage: Total: 16557891584 bytes, Free: 7355006976 bytes
+  Uptime: 91005.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:20
+  CPU Usage: {"user":1926852,"nice":0,"sys":2822868,"idle":388663167,"irq":130227}
+  Memory Usage: Total: 16557891584 bytes, Free: 7331979264 bytes
+  Uptime: 91011.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:26
+  CPU Usage: {"user":1927272,"nice":0,"sys":2823041,"idle":388758494,"irq":130243}
+  Memory Usage: Total: 16557891584 bytes, Free: 7292096512 bytes
+  Uptime: 91017.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:32
+  CPU Usage: {"user":1928523,"nice":0,"sys":2823273,"idle":388853353,"irq":130274}
+  Memory Usage: Total: 16557891584 bytes, Free: 7248388096 bytes
+  Uptime: 91023.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:38
+  CPU Usage: {"user":1929853,"nice":0,"sys":2823522,"idle":388948006,"irq":130305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7234404352 bytes
+  Uptime: 91029.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:44
+  CPU Usage: {"user":1931930,"nice":0,"sys":2824680,"idle":389040789,"irq":130321}
+  Memory Usage: Total: 16557891584 bytes, Free: 7179304960 bytes
+  Uptime: 91035.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:50
+  CPU Usage: {"user":1932524,"nice":0,"sys":2824851,"idle":389136241,"irq":130337}
+  Memory Usage: Total: 16557891584 bytes, Free: 7179325440 bytes
+  Uptime: 91041.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:09:56
+  CPU Usage: {"user":1932946,"nice":0,"sys":2825226,"idle":389231775,"irq":130384}
+  Memory Usage: Total: 16557891584 bytes, Free: 7294898176 bytes
+  Uptime: 91047.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:02
+  CPU Usage: {"user":1933743,"nice":0,"sys":2825711,"idle":389326461,"irq":130399}
+  Memory Usage: Total: 16557891584 bytes, Free: 7302705152 bytes
+  Uptime: 91053.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:08
+  CPU Usage: {"user":1933992,"nice":0,"sys":2826227,"idle":389421947,"irq":130399}
+  Memory Usage: Total: 16557891584 bytes, Free: 7309438976 bytes
+  Uptime: 91059.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:14
+  CPU Usage: {"user":1934164,"nice":0,"sys":2827274,"idle":389516714,"irq":130399}
+  Memory Usage: Total: 16557891584 bytes, Free: 7304314880 bytes
+  Uptime: 91065.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:20
+  CPU Usage: {"user":1934821,"nice":0,"sys":2827945,"idle":389611664,"irq":130462}
+  Memory Usage: Total: 16557891584 bytes, Free: 7296696320 bytes
+  Uptime: 91071.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:26
+  CPU Usage: {"user":1935040,"nice":0,"sys":2828507,"idle":389706961,"irq":130493}
+  Memory Usage: Total: 16557891584 bytes, Free: 7292821504 bytes
+  Uptime: 91077.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:32
+  CPU Usage: {"user":1935962,"nice":0,"sys":2828930,"idle":389801774,"irq":130509}
+  Memory Usage: Total: 16557891584 bytes, Free: 7254806528 bytes
+  Uptime: 91083.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:38
+  CPU Usage: {"user":1937570,"nice":0,"sys":2829225,"idle":389896118,"irq":130540}
+  Memory Usage: Total: 16557891584 bytes, Free: 7229444096 bytes
+  Uptime: 91089.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:44
+  CPU Usage: {"user":1938994,"nice":0,"sys":2830444,"idle":389989445,"irq":130602}
+  Memory Usage: Total: 16557891584 bytes, Free: 7225200640 bytes
+  Uptime: 91095.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:50
+  CPU Usage: {"user":1939071,"nice":0,"sys":2830789,"idle":390085321,"irq":130618}
+  Memory Usage: Total: 16557891584 bytes, Free: 7228395520 bytes
+  Uptime: 91102 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:10:56
+  CPU Usage: {"user":1940026,"nice":0,"sys":2831335,"idle":390179851,"irq":130665}
+  Memory Usage: Total: 16557891584 bytes, Free: 7302287360 bytes
+  Uptime: 91108 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:11:02
+  CPU Usage: {"user":1940273,"nice":0,"sys":2831555,"idle":390275616,"irq":130680}
+  Memory Usage: Total: 16557891584 bytes, Free: 7302983680 bytes
+  Uptime: 91114.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:11:08
+  CPU Usage: {"user":1940695,"nice":0,"sys":2831914,"idle":390370850,"irq":130680}
+  Memory Usage: Total: 16557891584 bytes, Free: 7304228864 bytes
+  Uptime: 91120.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:11:19
+  CPU Usage: {"user":1940912,"nice":0,"sys":2833102,"idle":390548914,"irq":130727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7323922432 bytes
+  Uptime: 91131.234 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:11:25
+  CPU Usage: {"user":1941006,"nice":0,"sys":2833241,"idle":390644881,"irq":130743}
+  Memory Usage: Total: 16557891584 bytes, Free: 7416291328 bytes
+  Uptime: 91137.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:11:31
+  CPU Usage: {"user":1941964,"nice":0,"sys":2833775,"idle":390739460,"irq":130743}
+  Memory Usage: Total: 16557891584 bytes, Free: 7431995392 bytes
+  Uptime: 91143.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:11:37
+  CPU Usage: {"user":1943429,"nice":0,"sys":2834540,"idle":390833446,"irq":130759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7419338752 bytes
+  Uptime: 91149.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:11:43
+  CPU Usage: {"user":1944336,"nice":0,"sys":2835354,"idle":390927762,"irq":130821}
+  Memory Usage: Total: 16557891584 bytes, Free: 7372414976 bytes
+  Uptime: 91155.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:11:49
+  CPU Usage: {"user":1944541,"nice":0,"sys":2836368,"idle":391022525,"irq":130868}
+  Memory Usage: Total: 16557891584 bytes, Free: 7366168576 bytes
+  Uptime: 91161.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:12:25
+  CPU Usage: {"user":1946352,"nice":0,"sys":2839087,"idle":391587197,"irq":130962}
+  Memory Usage: Total: 16557891584 bytes, Free: 7478063104 bytes
+  Uptime: 91196.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:12:31
+  CPU Usage: {"user":1946431,"nice":0,"sys":2839151,"idle":391683368,"irq":130962}
+  Memory Usage: Total: 16557891584 bytes, Free: 7485497344 bytes
+  Uptime: 91202.859 seconds
+  ---------------------------
+  Timestamp: 2024-09-13 13:13:50
+CPU Usage: [{"user":16,"nice":0,"sys":94,"idle":4907,"irq":31,"usage":2.7931854199683044},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5047,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":547,"idle":4468,"irq":0,"usage":10.90727816550349},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":437,"idle":4578,"irq":0,"usage":8.713858424725823}]
+Memory Usage: Total: 16557891584 bytes, Free: 7658086400 bytes
+Uptime: 91281.812 seconds
+---------------------------
+Timestamp: 2024-09-13 13:13:55
+CPU Usage: [{"user":15,"nice":0,"sys":62,"idle":4937,"irq":15,"usage":1.8293895406641478},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.6359300476947536},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0.3179650238473768},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7675310080 bytes
+Uptime: 91286.828 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:00
+CPU Usage: [{"user":31,"nice":0,"sys":63,"idle":4922,"irq":16,"usage":2.1860095389507155},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":15,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874}]
+Memory Usage: Total: 16557891584 bytes, Free: 7667671040 bytes
+Uptime: 91291.843 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:05
+CPU Usage: [{"user":141,"nice":0,"sys":156,"idle":4703,"irq":47,"usage":6.815930255597384},{"user":32,"nice":0,"sys":16,"idle":4938,"irq":0,"usage":0.9626955475330927},{"user":63,"nice":0,"sys":250,"idle":4688,"irq":15,"usage":6.539074960127592},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":15,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.3009630818619583},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":235,"nice":0,"sys":16,"idle":4750,"irq":0,"usage":5.018996200759848},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":31,"nice":0,"sys":16,"idle":4968,"irq":0,"usage":0.9371884346959123},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":172,"nice":0,"sys":31,"idle":4813,"irq":0,"usage":4.0470494417862835},{"user":62,"nice":0,"sys":0,"idle":4937,"irq":0,"usage":1.240248049609922}]
+Memory Usage: Total: 16557891584 bytes, Free: 7666466816 bytes
+Uptime: 91296.843 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:10
+CPU Usage: [{"user":109,"nice":0,"sys":109,"idle":4797,"irq":31,"usage":4.934601664684899},{"user":0,"nice":0,"sys":62,"idle":4953,"irq":0,"usage":1.2362911266201395},{"user":15,"nice":0,"sys":141,"idle":4859,"irq":0,"usage":3.1106679960119643},{"user":15,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.9145129224652087},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4969,"irq":16,"usage":0.639872025594881},{"user":31,"nice":0,"sys":31,"idle":4938,"irq":0,"usage":1.24},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":94,"nice":0,"sys":31,"idle":4891,"irq":0,"usage":2.492025518341308},{"user":0,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.320962888665998},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7658233856 bytes
+Uptime: 91301.859 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:15
+CPU Usage: [{"user":47,"nice":0,"sys":94,"idle":4859,"irq":31,"usage":3.418803418803419},{"user":46,"nice":0,"sys":235,"idle":4734,"irq":0,"usage":5.603190428713859},{"user":141,"nice":0,"sys":15,"idle":4844,"irq":0,"usage":3.1199999999999997},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":219,"nice":0,"sys":32,"idle":4750,"irq":0,"usage":5.018996200759848},{"user":250,"nice":0,"sys":93,"idle":4657,"irq":0,"usage":6.859999999999999},{"user":47,"nice":0,"sys":15,"idle":4938,"irq":0,"usage":1.24},{"user":31,"nice":0,"sys":15,"idle":4953,"irq":0,"usage":0.9201840368073614},{"user":47,"nice":0,"sys":16,"idle":4937,"irq":0,"usage":1.26},{"user":16,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0.3179650238473768},{"user":125,"nice":0,"sys":31,"idle":4859,"irq":0,"usage":3.1106679960119643},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":219,"nice":0,"sys":47,"idle":4734,"irq":0,"usage":5.319999999999999},{"user":63,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":1.2519872813990462},{"user":15,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.6161796859471278},{"user":31,"nice":0,"sys":32,"idle":4938,"irq":0,"usage":1.259748050389922}]
+Memory Usage: Total: 16557891584 bytes, Free: 7575158784 bytes
+Uptime: 91306.859 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:20
+CPU Usage: [{"user":141,"nice":0,"sys":234,"idle":4641,"irq":16,"usage":7.77027027027027},{"user":0,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":63,"nice":0,"sys":16,"idle":4922,"irq":0,"usage":1.5796840631873625},{"user":47,"nice":0,"sys":31,"idle":4937,"irq":0,"usage":1.5553339980059822},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":16,"nice":0,"sys":250,"idle":4735,"irq":0,"usage":5.318936212757448},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":15,"nice":0,"sys":47,"idle":4938,"irq":0,"usage":1.24},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":47,"nice":0,"sys":484,"idle":4468,"irq":0,"usage":10.622124424884976}]
+Memory Usage: Total: 16557891584 bytes, Free: 7639543808 bytes
+Uptime: 91311.875 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:25
+CPU Usage: [{"user":125,"nice":0,"sys":219,"idle":4672,"irq":31,"usage":7.43015652863087},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":62,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":1.2362911266201395},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":31,"idle":5000,"irq":0,"usage":0.6161796859471278},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":16,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0.3180282250049692},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5016,"irq":0,"usage":0.3179650238473768}]
+Memory Usage: Total: 16557891584 bytes, Free: 7642894336 bytes
+Uptime: 91316.89 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:30
+CPU Usage: [{"user":47,"nice":0,"sys":63,"idle":4890,"irq":0,"usage":2.1999999999999997},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":110,"idle":4906,"irq":0,"usage":2.1929824561403506},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":140,"idle":4875,"irq":0,"usage":2.7916251246261217},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":15,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.5983246908655764},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7617343488 bytes
+Uptime: 91321.89 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:35
+CPU Usage: [{"user":15,"nice":0,"sys":156,"idle":4844,"irq":16,"usage":3.716954879745577},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":140,"idle":4844,"irq":0,"usage":3.4097706879361915},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":31,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":31,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":16,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.6378313733306757},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874}]
+Memory Usage: Total: 16557891584 bytes, Free: 7633862656 bytes
+Uptime: 91326.906 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:40
+CPU Usage: [{"user":110,"nice":0,"sys":94,"idle":4797,"irq":0,"usage":4.079184163167366},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":31,"nice":0,"sys":250,"idle":4703,"irq":0,"usage":5.638041733547351},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":16,"idle":4968,"irq":0,"usage":0.64},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":94,"nice":0,"sys":0,"idle":4906,"irq":0,"usage":1.8800000000000001},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4954,"irq":0,"usage":0.9398120375924814},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62}]
+Memory Usage: Total: 16557891584 bytes, Free: 7585116160 bytes
+Uptime: 91331.906 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:45
+CPU Usage: [{"user":140,"nice":0,"sys":62,"idle":4813,"irq":0,"usage":4.027916251246261},{"user":0,"nice":0,"sys":78,"idle":4938,"irq":0,"usage":1.555023923444976},{"user":79,"nice":0,"sys":141,"idle":4812,"irq":0,"usage":4.372019077901431},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":31,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":94,"nice":0,"sys":0,"idle":4922,"irq":0,"usage":1.8740031897926632}]
+Memory Usage: Total: 16557891584 bytes, Free: 7674101760 bytes
+Uptime: 91336.921 seconds
+---------------------------
+Timestamp: 2024-09-13 13:14:50
+CPU Usage: [{"user":157,"nice":0,"sys":94,"idle":4750,"irq":16,"usage":5.3219055212278255},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":46,"nice":0,"sys":15,"idle":4938,"irq":0,"usage":1.220244048809762},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":109,"nice":0,"sys":16,"idle":4875,"irq":0,"usage":2.5},{"user":31,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":47,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":62,"idle":4921,"irq":0,"usage":1.5603120624124824}]
+Memory Usage: Total: 16557891584 bytes, Free: 7679401984 bytes
+Uptime: 91341.921 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:11
+CPU Usage: [{"user":16,"nice":0,"sys":94,"idle":4921,"irq":0,"usage":2.186444046909163},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":15,"nice":0,"sys":16,"idle":5032,"irq":0,"usage":0.612285206399368},{"user":0,"nice":0,"sys":15,"idle":5016,"irq":0,"usage":0.2981514609421586},{"user":0,"nice":0,"sys":15,"idle":5016,"irq":0,"usage":0.2981514609421586},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5046,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":32,"idle":5000,"irq":15,"usage":0.9312462849217357},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0.6143479984145858},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0},{"user":63,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":1.248266296809986}]
+Memory Usage: Total: 16557891584 bytes, Free: 7062515712 bytes
+Uptime: 92203.453 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:16
+CPU Usage: [{"user":219,"nice":0,"sys":234,"idle":4547,"irq":31,"usage":9.620353806400319},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":94,"idle":4906,"irq":0,"usage":1.8800000000000001},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":109,"nice":0,"sys":15,"idle":4891,"irq":0,"usage":2.472582253240279},{"user":94,"nice":0,"sys":219,"idle":4672,"irq":0,"usage":6.2788365095285865},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":0.32199637754075267},{"user":15,"nice":0,"sys":16,"idle":4937,"irq":0,"usage":0.6239935587761675},{"user":109,"nice":0,"sys":0,"idle":4891,"irq":0,"usage":2.18},{"user":0,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0},{"user":31,"nice":0,"sys":16,"idle":4953,"irq":15,"usage":1.2362911266201395},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.3}]
+Memory Usage: Total: 16557891584 bytes, Free: 7003619328 bytes
+Uptime: 92208.453 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:21
+CPU Usage: [{"user":109,"nice":0,"sys":32,"idle":4875,"irq":0,"usage":2.811004784688995},{"user":0,"nice":0,"sys":31,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":235,"nice":0,"sys":140,"idle":4641,"irq":0,"usage":7.476076555023924},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":281,"nice":0,"sys":0,"idle":4734,"irq":0,"usage":5.603190428713859},{"user":141,"nice":0,"sys":79,"idle":4812,"irq":0,"usage":4.372019077901431},{"user":31,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":1.2323593718942556},{"user":0,"nice":0,"sys":31,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":62,"nice":0,"sys":62,"idle":4891,"irq":0,"usage":2.472582253240279},{"user":0,"nice":0,"sys":0,"idle":5047,"irq":0,"usage":0},{"user":219,"nice":0,"sys":0,"idle":4797,"irq":0,"usage":4.366028708133971},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":15,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.6181455633100698}]
+Memory Usage: Total: 16557891584 bytes, Free: 6906683392 bytes
+Uptime: 92213.468 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:26
+CPU Usage: [{"user":31,"nice":0,"sys":109,"idle":4860,"irq":32,"usage":3.418124006359301},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":422,"idle":4578,"irq":0,"usage":8.44},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":16,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.320962888665998},{"user":63,"nice":0,"sys":16,"idle":4922,"irq":0,"usage":1.5796840631873625},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":47,"nice":0,"sys":422,"idle":4531,"irq":0,"usage":9.379999999999999}]
+Memory Usage: Total: 16557891584 bytes, Free: 6895161344 bytes
+Uptime: 92218.468 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:31
+CPU Usage: [{"user":32,"nice":0,"sys":63,"idle":4906,"irq":15,"usage":2.1929824561403506},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":0.641925777331996},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405}]
+Memory Usage: Total: 16557891584 bytes, Free: 6896533504 bytes
+Uptime: 92223.468 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:36
+CPU Usage: [{"user":62,"nice":0,"sys":78,"idle":4875,"irq":16,"usage":3.10077519379845},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":78,"nice":0,"sys":31,"idle":4906,"irq":0,"usage":2.173479561316052},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":62,"nice":0,"sys":16,"idle":4937,"irq":0,"usage":1.5553339980059822},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":16,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.6379585326953748},{"user":16,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0.3170200118882504},{"user":32,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6378313733306757},{"user":16,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0.3179650238473768},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0.2981514609421586},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734}]
+Memory Usage: Total: 16557891584 bytes, Free: 6880448512 bytes
+Uptime: 92228.484 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:41
+CPU Usage: [{"user":31,"nice":0,"sys":78,"idle":4891,"irq":15,"usage":2.472582253240279},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":62,"nice":0,"sys":16,"idle":4922,"irq":0,"usage":1.5599999999999998},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.6219903691813804},{"user":31,"nice":0,"sys":31,"idle":4938,"irq":16,"usage":1.555023923444976},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4968,"irq":0,"usage":0.30102347983142685},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32}]
+Memory Usage: Total: 16557891584 bytes, Free: 6870990848 bytes
+Uptime: 92233.484 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:46
+CPU Usage: [{"user":32,"nice":0,"sys":47,"idle":4937,"irq":0,"usage":1.5749601275917064},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":188,"nice":0,"sys":15,"idle":4813,"irq":0,"usage":4.0470494417862835},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":16,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0.3179650238473768},{"user":94,"nice":0,"sys":78,"idle":4843,"irq":0,"usage":3.429710867397807},{"user":47,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":1.255980861244019},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":15,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0.2981514609421586},{"user":32,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.9567470599960135},{"user":47,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9370015948963316}]
+Memory Usage: Total: 16557891584 bytes, Free: 6958583808 bytes
+Uptime: 92238.5 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:51
+CPU Usage: [{"user":31,"nice":0,"sys":62,"idle":4922,"irq":0,"usage":1.8544366899302094},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":172,"nice":0,"sys":0,"idle":4843,"irq":0,"usage":3.429710867397807},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":31,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":15,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.5982053838484547},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":32,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.639872025594881},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 6955511808 bytes
+Uptime: 92243.515 seconds
+---------------------------
+Timestamp: 2024-09-13 13:29:56
+CPU Usage: [{"user":15,"nice":0,"sys":47,"idle":4937,"irq":16,"usage":1.5553339980059822},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":172,"nice":0,"sys":16,"idle":4813,"irq":0,"usage":3.7592481503699258},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":94,"nice":0,"sys":0,"idle":4906,"irq":0,"usage":1.8800000000000001},{"user":79,"nice":0,"sys":16,"idle":4906,"irq":0,"usage":1.899620075984803},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":0,"nice":0,"sys":359,"idle":4656,"irq":0,"usage":7.158524426719841},{"user":31,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.6219903691813804},{"user":63,"nice":0,"sys":47,"idle":4891,"irq":0,"usage":2.1995600879824035},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":31,"nice":0,"sys":359,"idle":4625,"irq":0,"usage":7.7766699900299106}]
+Memory Usage: Total: 16557891584 bytes, Free: 6967947264 bytes
+Uptime: 92248.531 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:01
+CPU Usage: [{"user":16,"nice":0,"sys":63,"idle":4938,"irq":0,"usage":1.5746462029101058},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":172,"nice":0,"sys":16,"idle":4828,"irq":0,"usage":3.7480063795853265},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":78,"nice":0,"sys":32,"idle":4906,"irq":0,"usage":2.1929824561403506},{"user":171,"nice":0,"sys":0,"idle":4844,"irq":0,"usage":3.4097706879361915},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":16,"usage":0.6359300476947536},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":47,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.620124024804961},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874}]
+Memory Usage: Total: 16557891584 bytes, Free: 6975045632 bytes
+Uptime: 92253.531 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:06
+CPU Usage: [{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":78,"idle":4922,"irq":15,"usage":1.8544366899302094},{"user":171,"nice":0,"sys":0,"idle":4828,"irq":0,"usage":3.4206841368273655},{"user":15,"nice":0,"sys":219,"idle":4766,"irq":0,"usage":4.68},{"user":78,"nice":0,"sys":187,"idle":4735,"irq":0,"usage":5.3},{"user":32,"nice":0,"sys":15,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":31,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":47,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":15,"nice":0,"sys":15,"idle":4969,"irq":0,"usage":0.6001200240048009},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":31,"idle":4953,"irq":0,"usage":0.9201840368073614},{"user":31,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.620124024804961}]
+Memory Usage: Total: 16557891584 bytes, Free: 6980960256 bytes
+Uptime: 92258.531 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:11
+CPU Usage: [{"user":63,"nice":0,"sys":78,"idle":4859,"irq":0,"usage":2.82},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":266,"nice":0,"sys":15,"idle":4719,"irq":0,"usage":5.62},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":32,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":0.9598080383923214},{"user":31,"nice":0,"sys":32,"idle":4937,"irq":0,"usage":1.26},{"user":32,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.639872025594881},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":16,"usage":0.6378313733306757},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":32,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.64},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405}]
+Memory Usage: Total: 16557891584 bytes, Free: 6956584960 bytes
+Uptime: 92263.546 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:16
+CPU Usage: [{"user":187,"nice":0,"sys":297,"idle":4531,"irq":0,"usage":9.651046859421735},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":156,"nice":0,"sys":31,"idle":4828,"irq":0,"usage":3.728813559322034},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":62,"nice":0,"sys":47,"idle":4907,"irq":0,"usage":2.1730462519936204},{"user":46,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9172482552342971},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":31,"nice":0,"sys":16,"idle":4968,"irq":0,"usage":0.9371884346959123},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":31,"nice":0,"sys":15,"idle":4969,"irq":0,"usage":0.9172482552342971}]
+Memory Usage: Total: 16557891584 bytes, Free: 6948261888 bytes
+Uptime: 92268.546 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:21
+CPU Usage: [{"user":141,"nice":0,"sys":171,"idle":4703,"irq":31,"usage":6.797463337296869},{"user":15,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.9172482552342971},{"user":47,"nice":0,"sys":360,"idle":4609,"irq":0,"usage":8.114035087719298},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":15,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":47,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.9371884346959123},{"user":79,"nice":0,"sys":0,"idle":4937,"irq":0,"usage":1.5749601275917064},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":31,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":47,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":250,"nice":0,"sys":62,"idle":4703,"irq":15,"usage":6.500994035785289},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":156,"nice":0,"sys":47,"idle":4812,"irq":16,"usage":4.353011329755516},{"user":32,"nice":0,"sys":156,"idle":4828,"irq":0,"usage":3.7480063795853265},{"user":47,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":78,"nice":0,"sys":0,"idle":4937,"irq":0,"usage":1.5553339980059822}]
+Memory Usage: Total: 16557891584 bytes, Free: 6908219392 bytes
+Uptime: 92273.562 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:26
+CPU Usage: [{"user":125,"nice":0,"sys":157,"idle":4719,"irq":0,"usage":5.638872225554889},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":110,"nice":0,"sys":31,"idle":4860,"irq":0,"usage":2.8194361127774443},{"user":0,"nice":0,"sys":47,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":141,"nice":0,"sys":78,"idle":4781,"irq":0,"usage":4.38},{"user":47,"nice":0,"sys":0,"idle":4954,"irq":0,"usage":0.9398120375924814},{"user":15,"nice":0,"sys":31,"idle":4953,"irq":0,"usage":0.9201840368073614},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":47,"nice":0,"sys":343,"idle":4610,"irq":0,"usage":7.8},{"user":78,"nice":0,"sys":0,"idle":4922,"irq":0,"usage":1.5599999999999998},{"user":469,"nice":0,"sys":63,"idle":4468,"irq":0,"usage":10.639999999999999},{"user":109,"nice":0,"sys":0,"idle":4891,"irq":0,"usage":2.18},{"user":78,"nice":0,"sys":94,"idle":4829,"irq":0,"usage":3.439312137572485},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":63,"idle":4906,"irq":0,"usage":1.8800000000000001},{"user":16,"nice":0,"sys":375,"idle":4609,"irq":0,"usage":7.82}]
+Memory Usage: Total: 16557891584 bytes, Free: 6814896128 bytes
+Uptime: 92278.562 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:31
+CPU Usage: [{"user":31,"nice":0,"sys":125,"idle":4844,"irq":0,"usage":3.1199999999999997},{"user":31,"nice":0,"sys":125,"idle":4844,"irq":0,"usage":3.1199999999999997},{"user":78,"nice":0,"sys":0,"idle":4922,"irq":0,"usage":1.5599999999999998},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":31,"nice":0,"sys":15,"idle":4953,"irq":0,"usage":0.9201840368073614},{"user":156,"nice":0,"sys":31,"idle":4813,"irq":0,"usage":3.74},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.320962888665998},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":78,"nice":0,"sys":0,"idle":4922,"irq":0,"usage":1.5599999999999998}]
+Memory Usage: Total: 16557891584 bytes, Free: 6902964224 bytes
+Uptime: 92283.562 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:36
+CPU Usage: [{"user":16,"nice":0,"sys":140,"idle":4859,"irq":32,"usage":3.7249851396869427},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 6905012224 bytes
+Uptime: 92288.578 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:41
+CPU Usage: [{"user":31,"nice":0,"sys":125,"idle":4860,"irq":0,"usage":3.110047846889952},{"user":16,"nice":0,"sys":47,"idle":4937,"irq":0,"usage":1.26},{"user":31,"nice":0,"sys":47,"idle":4937,"irq":0,"usage":1.5553339980059822},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":32,"nice":0,"sys":63,"idle":4922,"irq":0,"usage":1.8935618895754434},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":250,"idle":4750,"irq":0,"usage":5.303030303030303},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":110,"nice":0,"sys":15,"idle":4891,"irq":0,"usage":2.492025518341308},{"user":32,"nice":0,"sys":16,"idle":4937,"irq":0,"usage":0.962888665997994},{"user":46,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.9174311926605505},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":110,"nice":0,"sys":0,"idle":4906,"irq":0,"usage":2.1929824561403506},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32}]
+Memory Usage: Total: 16557891584 bytes, Free: 6993252352 bytes
+Uptime: 92293.593 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:46
+CPU Usage: [{"user":47,"nice":0,"sys":125,"idle":4828,"irq":15,"usage":3.728813559322034},{"user":16,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":31,"nice":0,"sys":15,"idle":4953,"irq":0,"usage":0.9201840368073614},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4954,"irq":0,"usage":0.9398120375924814},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.639872025594881},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":62,"nice":0,"sys":0,"idle":4938,"irq":0,"usage":1.24},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":31,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.6219903691813804},{"user":78,"nice":0,"sys":0,"idle":4938,"irq":0,"usage":1.555023923444976}]
+Memory Usage: Total: 16557891584 bytes, Free: 6986362880 bytes
+Uptime: 92298.593 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:51
+CPU Usage: [{"user":47,"nice":0,"sys":125,"idle":4844,"irq":31,"usage":4.0221914008321775},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":63,"nice":0,"sys":516,"idle":4422,"irq":0,"usage":11.577684463107378},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":141,"idle":4859,"irq":0,"usage":2.82},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":16,"nice":0,"sys":16,"idle":4968,"irq":0,"usage":0.64},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":78,"nice":0,"sys":16,"idle":4906,"irq":0,"usage":1.8800000000000001},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":32,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.639872025594881},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":15,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.62}]
+Memory Usage: Total: 16557891584 bytes, Free: 6981607424 bytes
+Uptime: 92303.609 seconds
+---------------------------
+Timestamp: 2024-09-13 13:30:56
+CPU Usage: [{"user":15,"nice":0,"sys":78,"idle":4906,"irq":0,"usage":1.860372074414883},{"user":0,"nice":0,"sys":47,"idle":4968,"irq":0,"usage":0.9371884346959123},{"user":0,"nice":0,"sys":297,"idle":4719,"irq":0,"usage":5.921052631578947},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":93,"idle":4891,"irq":0,"usage":1.8659711075441412},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":31,"nice":0,"sys":109,"idle":4860,"irq":0,"usage":2.8000000000000003},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":125,"nice":0,"sys":93,"idle":4781,"irq":0,"usage":4.360872174434887},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":406,"idle":4578,"irq":0,"usage":8.44}]
+Memory Usage: Total: 16557891584 bytes, Free: 6999977984 bytes
+Uptime: 92308.609 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:12
+CPU Usage: [{"user":47,"nice":0,"sys":109,"idle":4875,"irq":31,"usage":3.694192018964836},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":32,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.9538950715421303},{"user":16,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0.3179650238473768},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7085793280 bytes
+Uptime: 92323.828 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:17
+CPU Usage: [{"user":47,"nice":0,"sys":31,"idle":4922,"irq":16,"usage":1.8740031897926632},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":15,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":63,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":1.255980861244019},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7086399488 bytes
+Uptime: 92328.828 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:22
+CPU Usage: [{"user":203,"nice":0,"sys":438,"idle":4359,"irq":93,"usage":14.411937954054585},{"user":62,"nice":0,"sys":93,"idle":4844,"irq":0,"usage":3.1006201240248052},{"user":172,"nice":0,"sys":46,"idle":4781,"irq":0,"usage":4.360872174434887},{"user":62,"nice":0,"sys":0,"idle":4937,"irq":0,"usage":1.240248049609922},{"user":360,"nice":0,"sys":62,"idle":4578,"irq":0,"usage":8.44},{"user":172,"nice":0,"sys":63,"idle":4766,"irq":0,"usage":4.699060187962408},{"user":31,"nice":0,"sys":63,"idle":4906,"irq":47,"usage":2.793738854765207},{"user":0,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":47,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":109,"nice":0,"sys":125,"idle":4765,"irq":0,"usage":4.680936187237447},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":125,"nice":0,"sys":15,"idle":4860,"irq":0,"usage":2.8000000000000003},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 6899048448 bytes
+Uptime: 92333.843 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:27
+CPU Usage: [{"user":406,"nice":0,"sys":187,"idle":4422,"irq":47,"usage":12.643224022125644},{"user":0,"nice":0,"sys":79,"idle":4938,"irq":0,"usage":1.5746462029101058},{"user":94,"nice":0,"sys":16,"idle":4907,"irq":0,"usage":2.1925453458241977},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":171,"nice":0,"sys":93,"idle":4750,"irq":0,"usage":5.265257279617072},{"user":344,"nice":0,"sys":46,"idle":4625,"irq":0,"usage":7.7766699900299106},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":171,"nice":0,"sys":63,"idle":4781,"irq":0,"usage":4.666001994017946},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 6804647936 bytes
+Uptime: 92338.843 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:32
+CPU Usage: [{"user":16,"nice":0,"sys":63,"idle":4938,"irq":0,"usage":1.5746462029101058},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":79,"idle":4937,"irq":0,"usage":1.5749601275917064},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":78,"nice":0,"sys":250,"idle":4687,"irq":0,"usage":6.540378863409771},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.6379585326953748},{"user":0,"nice":0,"sys":47,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":125,"nice":0,"sys":31,"idle":4859,"irq":0,"usage":3.1106679960119643},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":31,"nice":0,"sys":531,"idle":4453,"irq":0,"usage":11.206380857427718}]
+Memory Usage: Total: 16557891584 bytes, Free: 6832893952 bytes
+Uptime: 92343.859 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:37
+CPU Usage: [{"user":63,"nice":0,"sys":109,"idle":4843,"irq":16,"usage":3.736831643808388},{"user":0,"nice":0,"sys":78,"idle":4922,"irq":0,"usage":1.5599999999999998},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":32,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.9567470599960135},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":93,"nice":0,"sys":0,"idle":4907,"irq":0,"usage":1.8599999999999999},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874}]
+Memory Usage: Total: 16557891584 bytes, Free: 6943817728 bytes
+Uptime: 92348.875 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:42
+CPU Usage: [{"user":0,"nice":0,"sys":125,"idle":4875,"irq":78,"usage":3.997636864907444},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4938,"irq":0,"usage":0.9428284854563691},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.9371884346959123},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 6947676160 bytes
+Uptime: 92353.875 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:47
+CPU Usage: [{"user":125,"nice":0,"sys":188,"idle":4688,"irq":62,"usage":7.406675883863321},{"user":16,"nice":0,"sys":15,"idle":4985,"irq":16,"usage":0.9340222575516693},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":31,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.620124024804961},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":94,"nice":0,"sys":0,"idle":4907,"irq":0,"usage":1.8796240751849629},{"user":31,"nice":0,"sys":31,"idle":4953,"irq":0,"usage":1.2362911266201395},{"user":47,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":78,"nice":0,"sys":16,"idle":4907,"irq":0,"usage":1.8796240751849629},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.620124024804961},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":94,"nice":0,"sys":0,"idle":4907,"irq":0,"usage":1.8796240751849629}]
+Memory Usage: Total: 16557891584 bytes, Free: 6933471232 bytes
+Uptime: 92358.875 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:52
+CPU Usage: [{"user":62,"nice":0,"sys":78,"idle":4875,"irq":16,"usage":3.10077519379845},{"user":0,"nice":0,"sys":63,"idle":4937,"irq":0,"usage":1.26},{"user":16,"nice":0,"sys":328,"idle":4672,"irq":0,"usage":6.8580542264752795},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":16,"idle":4968,"irq":0,"usage":0.64},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":31,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.620124024804961},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":32,"nice":0,"sys":31,"idle":4937,"irq":0,"usage":1.26},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":32,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.639872025594881},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.6181455633100698}]
+Memory Usage: Total: 16557891584 bytes, Free: 7039897600 bytes
+Uptime: 92363.89 seconds
+---------------------------
+Timestamp: 2024-09-13 13:31:57
+CPU Usage: [{"user":125,"nice":0,"sys":109,"idle":4766,"irq":16,"usage":4.984051036682616},{"user":0,"nice":0,"sys":47,"idle":4937,"irq":0,"usage":0.9430176565008025},{"user":31,"nice":0,"sys":0,"idle":4968,"irq":0,"usage":0.620124024804961},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.320962888665998},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4969,"irq":0,"usage":0.3009630818619583},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":78,"nice":0,"sys":0,"idle":4922,"irq":0,"usage":1.5599999999999998}]
+Memory Usage: Total: 16557891584 bytes, Free: 7030759424 bytes
+Uptime: 92368.89 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:02
+CPU Usage: [{"user":31,"nice":0,"sys":94,"idle":4890,"irq":15,"usage":2.783300198807157},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":172,"idle":4844,"irq":0,"usage":3.4290271132376398},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":516,"idle":4484,"irq":0,"usage":10.32}]
+Memory Usage: Total: 16557891584 bytes, Free: 7040585728 bytes
+Uptime: 92373.906 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:07
+CPU Usage: [{"user":94,"nice":0,"sys":172,"idle":4735,"irq":47,"usage":6.2004754358161644},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":31,"nice":0,"sys":31,"idle":4938,"irq":0,"usage":1.24},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":125,"nice":0,"sys":15,"idle":4860,"irq":0,"usage":2.8000000000000003},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":47,"nice":0,"sys":31,"idle":4922,"irq":0,"usage":1.5599999999999998},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":47,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.9400000000000001}]
+Memory Usage: Total: 16557891584 bytes, Free: 7027335168 bytes
+Uptime: 92378.906 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:12
+CPU Usage: [{"user":47,"nice":0,"sys":187,"idle":4781,"irq":63,"usage":5.8487593540764085},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":94,"nice":0,"sys":16,"idle":4906,"irq":0,"usage":2.1929824561403506},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":125,"nice":0,"sys":0,"idle":4890,"irq":0,"usage":2.4925224327018944},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":15,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.5982053838484547},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.5983246908655764}]
+Memory Usage: Total: 16557891584 bytes, Free: 7035490304 bytes
+Uptime: 92383.921 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:17
+CPU Usage: [{"user":0,"nice":0,"sys":79,"idle":4922,"irq":15,"usage":1.8740031897926632},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4968,"irq":0,"usage":0.32102728731942215},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.320962888665998},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405}]
+Memory Usage: Total: 16557891584 bytes, Free: 7045066752 bytes
+Uptime: 92388.921 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:22
+CPU Usage: [{"user":16,"nice":0,"sys":109,"idle":4875,"irq":16,"usage":2.811004784688995},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":46,"nice":0,"sys":31,"idle":4922,"irq":16,"usage":1.8544366899302094},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":63,"nice":0,"sys":16,"idle":4922,"irq":0,"usage":1.5796840631873625},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":15,"nice":0,"sys":15,"idle":4953,"irq":0,"usage":0.6020469596628537},{"user":16,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.320962888665998},{"user":110,"nice":0,"sys":0,"idle":4890,"irq":0,"usage":2.1999999999999997},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":31,"idle":4953,"irq":0,"usage":0.6219903691813804},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":62,"nice":0,"sys":16,"idle":4922,"irq":0,"usage":1.5599999999999998}]
+Memory Usage: Total: 16557891584 bytes, Free: 7039754240 bytes
+Uptime: 92393.921 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:27
+CPU Usage: [{"user":31,"nice":0,"sys":125,"idle":4859,"irq":16,"usage":3.418803418803419},{"user":0,"nice":0,"sys":47,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":32,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6378313733306757},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":62,"nice":0,"sys":47,"idle":4906,"irq":0,"usage":2.173479561316052},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":32,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6379585326953748}]
+Memory Usage: Total: 16557891584 bytes, Free: 7032320000 bytes
+Uptime: 92398.937 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:32
+CPU Usage: [{"user":47,"nice":0,"sys":47,"idle":4922,"irq":31,"usage":2.4767188428769566},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":31,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":500,"idle":4516,"irq":0,"usage":9.968102073365232},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":16,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":344,"idle":4672,"irq":0,"usage":6.8580542264752795}]
+Memory Usage: Total: 16557891584 bytes, Free: 7041605632 bytes
+Uptime: 92403.953 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:37
+CPU Usage: [{"user":109,"nice":0,"sys":359,"idle":4531,"irq":31,"usage":9.920477137176938},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":437,"idle":4563,"irq":0,"usage":8.74},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":32,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.639872025594881},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":32,"nice":0,"sys":16,"idle":4968,"irq":0,"usage":0.9569377990430622},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046}]
+Memory Usage: Total: 16557891584 bytes, Free: 7024504832 bytes
+Uptime: 92408.968 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:42
+CPU Usage: [{"user":63,"nice":0,"sys":141,"idle":4813,"irq":31,"usage":4.655309033280507},{"user":0,"nice":0,"sys":32,"idle":4969,"irq":0,"usage":0.639872025594881},{"user":46,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":1.2362911266201395},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":62,"nice":0,"sys":15,"idle":4937,"irq":0,"usage":1.5357000398883127},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":31,"nice":0,"sys":16,"idle":4968,"irq":0,"usage":0.9371884346959123},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":78,"nice":0,"sys":0,"idle":4922,"irq":0,"usage":1.5599999999999998}]
+Memory Usage: Total: 16557891584 bytes, Free: 7031578624 bytes
+Uptime: 92413.968 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:47
+CPU Usage: [{"user":15,"nice":0,"sys":47,"idle":4953,"irq":32,"usage":1.8624925698434713},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":94,"nice":0,"sys":15,"idle":4906,"irq":0,"usage":2.173479561316052},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0.3180282250049692},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7026425856 bytes
+Uptime: 92418.984 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:52
+CPU Usage: [{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0},{"user":46,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.9201840368073614},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":15,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7046250496 bytes
+Uptime: 92423.984 seconds
+---------------------------
+Timestamp: 2024-09-13 13:32:57
+CPU Usage: [{"user":78,"nice":0,"sys":78,"idle":4859,"irq":31,"usage":3.705905667855727},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":109,"nice":0,"sys":16,"idle":4891,"irq":0,"usage":2.492025518341308},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":235,"nice":0,"sys":15,"idle":4766,"irq":0,"usage":4.984051036682616},{"user":0,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":31,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":16,"nice":0,"sys":32,"idle":4969,"irq":16,"usage":1.2716073912179615},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734}]
+Memory Usage: Total: 16557891584 bytes, Free: 7032807424 bytes
+Uptime: 92429 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:02
+CPU Usage: [{"user":63,"nice":0,"sys":63,"idle":4875,"irq":0,"usage":2.519496100779844},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":141,"nice":0,"sys":0,"idle":4860,"irq":0,"usage":2.8194361127774443},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":63,"nice":0,"sys":0,"idle":4938,"irq":0,"usage":1.259748050389922},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":532,"idle":4454,"irq":0,"usage":10.937812437512498},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":375,"idle":4625,"irq":0,"usage":7.5}]
+Memory Usage: Total: 16557891584 bytes, Free: 7028346880 bytes
+Uptime: 92434 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:07
+CPU Usage: [{"user":0,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":15,"nice":0,"sys":16,"idle":4969,"irq":0,"usage":0.62},{"user":31,"nice":0,"sys":63,"idle":4906,"irq":15,"usage":2.173479561316052},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.3009630818619583},{"user":16,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874}]
+Memory Usage: Total: 16557891584 bytes, Free: 7034724352 bytes
+Uptime: 92439.015 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:12
+CPU Usage: [{"user":31,"nice":0,"sys":15,"idle":4953,"irq":0,"usage":0.9201840368073614},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":46,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.9172482552342971},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405}]
+Memory Usage: Total: 16557891584 bytes, Free: 7032868864 bytes
+Uptime: 92444.015 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:17
+CPU Usage: [{"user":47,"nice":0,"sys":79,"idle":4891,"irq":0,"usage":2.5114610324895357},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":63,"nice":0,"sys":15,"idle":4937,"irq":0,"usage":1.5553339980059822},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":32,"nice":0,"sys":15,"idle":4968,"irq":0,"usage":0.9371884346959123},{"user":31,"nice":0,"sys":31,"idle":4953,"irq":0,"usage":1.2362911266201395},{"user":32,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6379585326953748},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":32,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.9538950715421303},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":47,"nice":0,"sys":16,"idle":4953,"irq":16,"usage":1.5699523052464228},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":63,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":1.255980861244019}]
+Memory Usage: Total: 16557891584 bytes, Free: 7040163840 bytes
+Uptime: 92449.031 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:22
+CPU Usage: [{"user":16,"nice":0,"sys":62,"idle":4938,"irq":0,"usage":1.555023923444976},{"user":0,"nice":0,"sys":32,"idle":4985,"irq":16,"usage":0.9537055434134711},{"user":218,"nice":0,"sys":47,"idle":4750,"irq":0,"usage":5.284147557328016},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":32,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6378313733306757},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":32,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6378313733306757},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7029829632 bytes
+Uptime: 92454.046 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:27
+CPU Usage: [{"user":31,"nice":0,"sys":31,"idle":4937,"irq":0,"usage":1.240248049609922},{"user":0,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":141,"nice":0,"sys":47,"idle":4813,"irq":0,"usage":3.7592481503699258},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":32,"idle":4968,"irq":0,"usage":0.64},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":15,"idle":4969,"irq":0,"usage":0.6001200240048009},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":31,"idle":4937,"irq":0,"usage":1.240248049609922},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":15,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.30006001200240046},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7026163712 bytes
+Uptime: 92459.046 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:32
+CPU Usage: [{"user":31,"nice":0,"sys":94,"idle":4891,"irq":0,"usage":2.492025518341308},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":187,"nice":0,"sys":0,"idle":4828,"irq":0,"usage":3.728813559322034},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":125,"idle":4890,"irq":0,"usage":2.4925224327018944},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":16,"nice":0,"sys":94,"idle":4906,"irq":0,"usage":2.1929824561403506},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":31,"nice":0,"sys":109,"idle":4875,"irq":0,"usage":2.7916251246261217}]
+Memory Usage: Total: 16557891584 bytes, Free: 7020158976 bytes
+Uptime: 92464.062 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:37
+CPU Usage: [{"user":0,"nice":0,"sys":109,"idle":4890,"irq":15,"usage":2.4730753889110493},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":63,"nice":0,"sys":0,"idle":4937,"irq":0,"usage":1.26},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":16,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":266,"idle":4735,"irq":0,"usage":5.318936212757448},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":16,"nice":0,"sys":78,"idle":4906,"irq":0,"usage":1.8800000000000001},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0},{"user":0,"nice":0,"sys":125,"idle":4875,"irq":0,"usage":2.5}]
+Memory Usage: Total: 16557891584 bytes, Free: 7012667392 bytes
+Uptime: 92469.062 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:42
+CPU Usage: [{"user":94,"nice":0,"sys":94,"idle":4828,"irq":32,"usage":4.3581616481774965},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":250,"nice":0,"sys":47,"idle":4719,"irq":0,"usage":5.921052631578947},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":31,"nice":0,"sys":31,"idle":4953,"irq":0,"usage":1.2362911266201395},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":62,"nice":0,"sys":16,"idle":4938,"irq":0,"usage":1.555023923444976},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":47,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.6180223285486443}]
+Memory Usage: Total: 16557891584 bytes, Free: 6998323200 bytes
+Uptime: 92474.078 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:47
+CPU Usage: [{"user":15,"nice":0,"sys":31,"idle":4954,"irq":0,"usage":0.9199999999999999},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":156,"nice":0,"sys":31,"idle":4813,"irq":0,"usage":3.74},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":78,"nice":0,"sys":15,"idle":4906,"irq":0,"usage":1.860372074414883},{"user":109,"nice":0,"sys":0,"idle":4891,"irq":0,"usage":2.18},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":16,"nice":0,"sys":31,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":94,"nice":0,"sys":47,"idle":4859,"irq":0,"usage":2.82}]
+Memory Usage: Total: 16557891584 bytes, Free: 6993088512 bytes
+Uptime: 92479.078 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:52
+CPU Usage: [{"user":79,"nice":0,"sys":110,"idle":4828,"irq":93,"usage":5.518590998043052},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405},{"user":297,"nice":0,"sys":31,"idle":4687,"irq":0,"usage":6.540378863409771},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":79,"nice":0,"sys":47,"idle":4890,"irq":0,"usage":2.511961722488038},{"user":31,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.6378313733306757},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5047,"irq":0,"usage":0},{"user":0,"nice":0,"sys":47,"idle":4969,"irq":0,"usage":0.9370015948963316},{"user":0,"nice":0,"sys":0,"idle":5032,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.3199360127974405}]
+Memory Usage: Total: 16557891584 bytes, Free: 6969110528 bytes
+Uptime: 92484.093 seconds
+---------------------------
+Timestamp: 2024-09-13 13:33:57
+CPU Usage: [{"user":125,"nice":0,"sys":62,"idle":4812,"irq":0,"usage":3.7407481496299257},{"user":0,"nice":0,"sys":62,"idle":4953,"irq":0,"usage":1.2362911266201395},{"user":156,"nice":0,"sys":141,"idle":4703,"irq":0,"usage":5.94},{"user":31,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.6219903691813804},{"user":62,"nice":0,"sys":16,"idle":4922,"irq":0,"usage":1.5599999999999998},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":32,"nice":0,"sys":31,"idle":4937,"irq":0,"usage":1.26},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":31,"nice":0,"sys":93,"idle":4875,"irq":0,"usage":2.480496099219844},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":141,"nice":0,"sys":15,"idle":4844,"irq":0,"usage":3.1199999999999997},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":15,"nice":0,"sys":47,"idle":4937,"irq":0,"usage":1.240248049609922},{"user":0,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":47,"nice":0,"sys":15,"idle":4953,"irq":0,"usage":1.2362911266201395}]
+Memory Usage: Total: 16557891584 bytes, Free: 6971088896 bytes
+Uptime: 92489.093 seconds
+---------------------------
+Timestamp: 2024-09-13 13:34:02
+CPU Usage: [{"user":93,"nice":0,"sys":172,"idle":4750,"irq":32,"usage":5.884683970675649},{"user":0,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":219,"nice":0,"sys":16,"idle":4781,"irq":0,"usage":4.685007974481659},{"user":16,"nice":0,"sys":109,"idle":4890,"irq":0,"usage":2.4925224327018944},{"user":16,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.6378313733306757},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":47,"nice":0,"sys":140,"idle":4828,"irq":0,"usage":3.728813559322034},{"user":15,"nice":0,"sys":16,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":94,"nice":0,"sys":0,"idle":4922,"irq":0,"usage":1.8740031897926632},{"user":31,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":0,"nice":0,"sys":63,"idle":4953,"irq":0,"usage":1.255980861244019},{"user":16,"nice":0,"sys":31,"idle":4968,"irq":0,"usage":0.9371884346959123},{"user":31,"nice":0,"sys":31,"idle":4954,"irq":0,"usage":1.2360446570972885},{"user":0,"nice":0,"sys":0,"idle":5031,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":47,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":1.255980861244019}]
+Memory Usage: Total: 16557891584 bytes, Free: 6997504000 bytes
+Uptime: 92494.109 seconds
+---------------------------
+Timestamp: 2024-09-13 13:34:07
+CPU Usage: [{"user":47,"nice":0,"sys":156,"idle":4797,"irq":15,"usage":4.346959122632104},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":63,"nice":0,"sys":531,"idle":4407,"irq":16,"usage":12.158660554116006},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":62,"nice":0,"sys":47,"idle":4890,"irq":0,"usage":2.1804360872174433},{"user":31,"nice":0,"sys":0,"idle":4969,"irq":0,"usage":0.62},{"user":0,"nice":0,"sys":32,"idle":4969,"irq":0,"usage":0.639872025594881},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":31,"nice":0,"sys":485,"idle":4484,"irq":0,"usage":10.32},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":31,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":31,"idle":4969,"irq":0,"usage":0.62},{"user":16,"nice":0,"sys":453,"idle":4531,"irq":0,"usage":9.379999999999999}]
+Memory Usage: Total: 16557891584 bytes, Free: 6985351168 bytes
+Uptime: 92499.109 seconds
+---------------------------
+Timestamp: 2024-09-13 13:34:12
+CPU Usage: [{"user":141,"nice":0,"sys":172,"idle":4703,"irq":32,"usage":6.834389857369255},{"user":0,"nice":0,"sys":32,"idle":4985,"irq":0,"usage":0.6378313733306757},{"user":31,"nice":0,"sys":47,"idle":4937,"irq":0,"usage":1.5553339980059822},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":16,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.6180223285486443},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":47,"nice":0,"sys":16,"idle":4953,"irq":0,"usage":1.255980861244019},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":16,"idle":5000,"irq":0,"usage":0.3189792663476874}]
+Memory Usage: Total: 16557891584 bytes, Free: 7012917248 bytes
+Uptime: 92504.125 seconds
+---------------------------
+Timestamp: 2024-09-13 13:34:17
+CPU Usage: [{"user":31,"nice":0,"sys":63,"idle":4906,"irq":0,"usage":1.8800000000000001},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4984,"irq":0,"usage":0.30006001200240046}]
+Memory Usage: Total: 16557891584 bytes, Free: 7018467328 bytes
+Uptime: 92509.14 seconds
+---------------------------
+Timestamp: 2024-09-13 13:34:22
+CPU Usage: [{"user":78,"nice":0,"sys":94,"idle":4844,"irq":15,"usage":3.716954879745577},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":31,"idle":4984,"irq":0,"usage":0.6181455633100698},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":4985,"irq":0,"usage":0.3},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7024668672 bytes
+Uptime: 92514.14 seconds
+---------------------------
+Timestamp: 2024-09-13 13:34:27
+CPU Usage: [{"user":31,"nice":0,"sys":140,"idle":4828,"irq":0,"usage":3.4206841368273655},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":79,"nice":0,"sys":47,"idle":4875,"irq":0,"usage":2.519496100779844},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":47,"nice":0,"sys":0,"idle":4953,"irq":0,"usage":0.9400000000000001},{"user":16,"nice":0,"sys":0,"idle":4984,"irq":0,"usage":0.32},{"user":0,"nice":0,"sys":16,"idle":4984,"irq":0,"usage":0.32},{"user":16,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.3189792663476874},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":15,"nice":0,"sys":0,"idle":5000,"irq":0,"usage":0.29910269192422734}]
+Memory Usage: Total: 16557891584 bytes, Free: 7000645632 bytes
+Uptime: 92519.14 seconds
+---------------------------
+Timestamp: 2024-09-13 13:34:32
+CPU Usage: [{"user":32,"nice":0,"sys":94,"idle":4891,"irq":47,"usage":3.416271721958926},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":15,"idle":5000,"irq":0,"usage":0.29910269192422734},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":62,"nice":0,"sys":16,"idle":4938,"irq":0,"usage":1.555023923444976},{"user":0,"nice":0,"sys":203,"idle":4797,"irq":0,"usage":4.06},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5015,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0},{"user":0,"nice":0,"sys":0,"idle":5016,"irq":0,"usage":0}]
+Memory Usage: Total: 16557891584 bytes, Free: 7002308608 bytes
+Uptime: 92524.156 seconds
+---------------------------
