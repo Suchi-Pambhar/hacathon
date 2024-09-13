@@ -4223,3 +4223,3969 @@
   Uptime: 93392.859 seconds
   ---------------------------
   
+  Timestamp: 2024-09-13 13:49:07
+  CPU Usage: {"user":2109900,"nice":0,"sys":3024835,"idle":426470399,"irq":138616}
+  Memory Usage: Total: 16557891584 bytes, Free: 7022731264 bytes
+  Uptime: 93398.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:49:13
+  CPU Usage: {"user":2109915,"nice":0,"sys":3026102,"idle":426565178,"irq":138647}
+  Memory Usage: Total: 16557891584 bytes, Free: 7036870656 bytes
+  Uptime: 93404.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:49:19
+  CPU Usage: {"user":2110851,"nice":0,"sys":3027412,"idle":426659197,"irq":138647}
+  Memory Usage: Total: 16557891584 bytes, Free: 7024521216 bytes
+  Uptime: 93410.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:49:25
+  CPU Usage: {"user":2111354,"nice":0,"sys":3027976,"idle":426754009,"irq":138679}
+  Memory Usage: Total: 16557891584 bytes, Free: 7011041280 bytes
+  Uptime: 93416.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:49:31
+  CPU Usage: {"user":2112319,"nice":0,"sys":3028415,"idle":426848727,"irq":138694}
+  Memory Usage: Total: 16557891584 bytes, Free: 7020847104 bytes
+  Uptime: 93422.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:49:37
+  CPU Usage: {"user":2112523,"nice":0,"sys":3028853,"idle":426944291,"irq":138710}
+  Memory Usage: Total: 16557891584 bytes, Free: 7029743616 bytes
+  Uptime: 93428.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:49:43
+  CPU Usage: {"user":2112617,"nice":0,"sys":3029851,"idle":427039241,"irq":138710}
+  Memory Usage: Total: 16557891584 bytes, Free: 7027834880 bytes
+  Uptime: 93434.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:49:49
+  CPU Usage: {"user":2113649,"nice":0,"sys":3030398,"idle":427133683,"irq":138726}
+  Memory Usage: Total: 16557891584 bytes, Free: 6932852736 bytes
+  Uptime: 93440.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:49:55
+  CPU Usage: {"user":2113742,"nice":0,"sys":3030523,"idle":427229478,"irq":138726}
+  Memory Usage: Total: 16557891584 bytes, Free: 6960300032 bytes
+  Uptime: 93446.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:01
+  CPU Usage: {"user":2113821,"nice":0,"sys":3030648,"idle":427325430,"irq":138726}
+  Memory Usage: Total: 16557891584 bytes, Free: 6942724096 bytes
+  Uptime: 93452.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:07
+  CPU Usage: {"user":2113853,"nice":0,"sys":3030757,"idle":427421400,"irq":138726}
+  Memory Usage: Total: 16557891584 bytes, Free: 6955950080 bytes
+  Uptime: 93458.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:13
+  CPU Usage: {"user":2113853,"nice":0,"sys":3032368,"idle":427515976,"irq":138726}
+  Memory Usage: Total: 16557891584 bytes, Free: 7068299264 bytes
+  Uptime: 93464.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:19
+  CPU Usage: {"user":2113914,"nice":0,"sys":3032556,"idle":427611634,"irq":138726}
+  Memory Usage: Total: 16557891584 bytes, Free: 7134146560 bytes
+  Uptime: 93470.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:25
+  CPU Usage: {"user":2114197,"nice":0,"sys":3032822,"idle":427707193,"irq":138757}
+  Memory Usage: Total: 16557891584 bytes, Free: 7107039232 bytes
+  Uptime: 93476.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:31
+  CPU Usage: {"user":2114977,"nice":0,"sys":3033478,"idle":427801526,"irq":138819}
+  Memory Usage: Total: 16557891584 bytes, Free: 7141367808 bytes
+  Uptime: 93482.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:37
+  CPU Usage: {"user":2115008,"nice":0,"sys":3033571,"idle":427897462,"irq":138819}
+  Memory Usage: Total: 16557891584 bytes, Free: 7147618304 bytes
+  Uptime: 93488.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:43
+  CPU Usage: {"user":2115087,"nice":0,"sys":3034431,"idle":427992602,"irq":138819}
+  Memory Usage: Total: 16557891584 bytes, Free: 7145328640 bytes
+  Uptime: 93494.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:49
+  CPU Usage: {"user":2115134,"nice":0,"sys":3034524,"idle":428088584,"irq":138819}
+  Memory Usage: Total: 16557891584 bytes, Free: 7147704320 bytes
+  Uptime: 93500.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:50:55
+  CPU Usage: {"user":2115180,"nice":0,"sys":3034618,"idle":428184476,"irq":138835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7147638784 bytes
+  Uptime: 93506.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:01
+  CPU Usage: {"user":2115571,"nice":0,"sys":3034790,"idle":428280149,"irq":138835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7167623168 bytes
+  Uptime: 93512.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:07
+  CPU Usage: {"user":2115618,"nice":0,"sys":3034899,"idle":428376071,"irq":138835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7176437760 bytes
+  Uptime: 93518.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:13
+  CPU Usage: {"user":2115650,"nice":0,"sys":3035946,"idle":428471307,"irq":138835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7168675840 bytes
+  Uptime: 93524.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:19
+  CPU Usage: {"user":2115682,"nice":0,"sys":3036024,"idle":428567370,"irq":138835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7173902336 bytes
+  Uptime: 93531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:25
+  CPU Usage: {"user":2115712,"nice":0,"sys":3036133,"idle":428663492,"irq":138835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7171047424 bytes
+  Uptime: 93537.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:31
+  CPU Usage: {"user":2116308,"nice":0,"sys":3036772,"idle":428758259,"irq":138866}
+  Memory Usage: Total: 16557891584 bytes, Free: 7148085248 bytes
+  Uptime: 93543.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:37
+  CPU Usage: {"user":2116728,"nice":0,"sys":3037148,"idle":428853760,"irq":138897}
+  Memory Usage: Total: 16557891584 bytes, Free: 7167201280 bytes
+  Uptime: 93549.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:43
+  CPU Usage: {"user":2116916,"nice":0,"sys":3038117,"idle":428948648,"irq":138960}
+  Memory Usage: Total: 16557891584 bytes, Free: 7160254464 bytes
+  Uptime: 93555.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:49
+  CPU Usage: {"user":2117103,"nice":0,"sys":3038665,"idle":429043993,"irq":138975}
+  Memory Usage: Total: 16557891584 bytes, Free: 7167844352 bytes
+  Uptime: 93561.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:51:55
+  CPU Usage: {"user":2117321,"nice":0,"sys":3038836,"idle":429139650,"irq":139022}
+  Memory Usage: Total: 16557891584 bytes, Free: 7160635392 bytes
+  Uptime: 93567.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:01
+  CPU Usage: {"user":2117461,"nice":0,"sys":3038961,"idle":429235680,"irq":139037}
+  Memory Usage: Total: 16557891584 bytes, Free: 7156682752 bytes
+  Uptime: 93573.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:07
+  CPU Usage: {"user":2117524,"nice":0,"sys":3039086,"idle":429331492,"irq":139037}
+  Memory Usage: Total: 16557891584 bytes, Free: 7158153216 bytes
+  Uptime: 93579.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:13
+  CPU Usage: {"user":2117524,"nice":0,"sys":3039181,"idle":429427650,"irq":139037}
+  Memory Usage: Total: 16557891584 bytes, Free: 7157239808 bytes
+  Uptime: 93585.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:19
+  CPU Usage: {"user":2117555,"nice":0,"sys":3040274,"idle":429522526,"irq":139037}
+  Memory Usage: Total: 16557891584 bytes, Free: 7163912192 bytes
+  Uptime: 93591.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:25
+  CPU Usage: {"user":2117617,"nice":0,"sys":3040351,"idle":429618666,"irq":139053}
+  Memory Usage: Total: 16557891584 bytes, Free: 7162273792 bytes
+  Uptime: 93597.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:31
+  CPU Usage: {"user":2117991,"nice":0,"sys":3040510,"idle":429714261,"irq":139084}
+  Memory Usage: Total: 16557891584 bytes, Free: 7163830272 bytes
+  Uptime: 93603.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:37
+  CPU Usage: {"user":2118103,"nice":0,"sys":3040712,"idle":429809978,"irq":139116}
+  Memory Usage: Total: 16557891584 bytes, Free: 7169863680 bytes
+  Uptime: 93609.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:43
+  CPU Usage: {"user":2118134,"nice":0,"sys":3040790,"idle":429906040,"irq":139116}
+  Memory Usage: Total: 16557891584 bytes, Free: 7169609728 bytes
+  Uptime: 93615.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:49
+  CPU Usage: {"user":2118212,"nice":0,"sys":3041933,"idle":430000991,"irq":139116}
+  Memory Usage: Total: 16557891584 bytes, Free: 7168778240 bytes
+  Uptime: 93621.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:52:55
+  CPU Usage: {"user":2118273,"nice":0,"sys":3042057,"idle":430097117,"irq":139147}
+  Memory Usage: Total: 16557891584 bytes, Free: 7169679360 bytes
+  Uptime: 93627.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:01
+  CPU Usage: {"user":2118384,"nice":0,"sys":3042307,"idle":430192964,"irq":139163}
+  Memory Usage: Total: 16557891584 bytes, Free: 7166005248 bytes
+  Uptime: 93633.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:07
+  CPU Usage: {"user":2118508,"nice":0,"sys":3042806,"idle":430288353,"irq":139240}
+  Memory Usage: Total: 16557891584 bytes, Free: 7157424128 bytes
+  Uptime: 93639.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:13
+  CPU Usage: {"user":2119055,"nice":0,"sys":3043509,"idle":430383399,"irq":139335}
+  Memory Usage: Total: 16557891584 bytes, Free: 7122747392 bytes
+  Uptime: 93645.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:19
+  CPU Usage: {"user":2119665,"nice":0,"sys":3044556,"idle":430477680,"irq":139335}
+  Memory Usage: Total: 16557891584 bytes, Free: 7121715200 bytes
+  Uptime: 93651.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:25
+  CPU Usage: {"user":2119665,"nice":0,"sys":3044618,"idle":430573822,"irq":139335}
+  Memory Usage: Total: 16557891584 bytes, Free: 7131729920 bytes
+  Uptime: 93657.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:31
+  CPU Usage: {"user":2119774,"nice":0,"sys":3044790,"idle":430669584,"irq":139350}
+  Memory Usage: Total: 16557891584 bytes, Free: 7170232320 bytes
+  Uptime: 93663.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:37
+  CPU Usage: {"user":2119806,"nice":0,"sys":3044930,"idle":430765523,"irq":139350}
+  Memory Usage: Total: 16557891584 bytes, Free: 7165657088 bytes
+  Uptime: 93669.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:43
+  CPU Usage: {"user":2119821,"nice":0,"sys":3045088,"idle":430861476,"irq":139350}
+  Memory Usage: Total: 16557891584 bytes, Free: 7166947328 bytes
+  Uptime: 93675.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:49
+  CPU Usage: {"user":2119900,"nice":0,"sys":3046041,"idle":430956399,"irq":139366}
+  Memory Usage: Total: 16557891584 bytes, Free: 7173926912 bytes
+  Uptime: 93681.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:53:55
+  CPU Usage: {"user":2119962,"nice":0,"sys":3046119,"idle":431052509,"irq":139382}
+  Memory Usage: Total: 16557891584 bytes, Free: 7180578816 bytes
+  Uptime: 93687.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:01
+  CPU Usage: {"user":2120009,"nice":0,"sys":3046245,"idle":431148462,"irq":139397}
+  Memory Usage: Total: 16557891584 bytes, Free: 7179816960 bytes
+  Uptime: 93693.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:07
+  CPU Usage: {"user":2120352,"nice":0,"sys":3046574,"idle":431243787,"irq":139397}
+  Memory Usage: Total: 16557891584 bytes, Free: 7314391040 bytes
+  Uptime: 93699.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:13
+  CPU Usage: {"user":2120399,"nice":0,"sys":3046699,"idle":431339585,"irq":139413}
+  Memory Usage: Total: 16557891584 bytes, Free: 7313137664 bytes
+  Uptime: 93705.234 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:19
+  CPU Usage: {"user":2120460,"nice":0,"sys":3047774,"idle":431434679,"irq":139429}
+  Memory Usage: Total: 16557891584 bytes, Free: 7307800576 bytes
+  Uptime: 93711.234 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:25
+  CPU Usage: {"user":2120492,"nice":0,"sys":3047948,"idle":431530493,"irq":139429}
+  Memory Usage: Total: 16557891584 bytes, Free: 7317803008 bytes
+  Uptime: 93717.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:31
+  CPU Usage: {"user":2120523,"nice":0,"sys":3048026,"idle":431626462,"irq":139429}
+  Memory Usage: Total: 16557891584 bytes, Free: 7317184512 bytes
+  Uptime: 93723.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:37
+  CPU Usage: {"user":2120617,"nice":0,"sys":3048198,"idle":431722272,"irq":139460}
+  Memory Usage: Total: 16557891584 bytes, Free: 7313383424 bytes
+  Uptime: 93729.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:43
+  CPU Usage: {"user":2120649,"nice":0,"sys":3048322,"idle":431818274,"irq":139460}
+  Memory Usage: Total: 16557891584 bytes, Free: 7315443712 bytes
+  Uptime: 93735.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:49
+  CPU Usage: {"user":2120711,"nice":0,"sys":3048416,"idle":431914462,"irq":139460}
+  Memory Usage: Total: 16557891584 bytes, Free: 7319531520 bytes
+  Uptime: 93741.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:54:55
+  CPU Usage: {"user":2120711,"nice":0,"sys":3049525,"idle":432009321,"irq":139460}
+  Memory Usage: Total: 16557891584 bytes, Free: 7318155264 bytes
+  Uptime: 93747.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:01
+  CPU Usage: {"user":2120727,"nice":0,"sys":3049682,"idle":432105477,"irq":139507}
+  Memory Usage: Total: 16557891584 bytes, Free: 7317671936 bytes
+  Uptime: 93753.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:07
+  CPU Usage: {"user":2121088,"nice":0,"sys":3049884,"idle":432200790,"irq":139507}
+  Memory Usage: Total: 16557891584 bytes, Free: 7318671360 bytes
+  Uptime: 93759.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:13
+  CPU Usage: {"user":2121181,"nice":0,"sys":3050432,"idle":432296477,"irq":139523}
+  Memory Usage: Total: 16557891584 bytes, Free: 7313809408 bytes
+  Uptime: 93765.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:19
+  CPU Usage: {"user":2121586,"nice":0,"sys":3050572,"idle":432391978,"irq":139554}
+  Memory Usage: Total: 16557891584 bytes, Free: 7324622848 bytes
+  Uptime: 93771.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:25
+  CPU Usage: {"user":2121666,"nice":0,"sys":3051602,"idle":432487119,"irq":139554}
+  Memory Usage: Total: 16557891584 bytes, Free: 7316520960 bytes
+  Uptime: 93777.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:31
+  CPU Usage: {"user":2121712,"nice":0,"sys":3051727,"idle":432582806,"irq":139554}
+  Memory Usage: Total: 16557891584 bytes, Free: 7322312704 bytes
+  Uptime: 93783.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:37
+  CPU Usage: {"user":2122196,"nice":0,"sys":3051962,"idle":432678165,"irq":139586}
+  Memory Usage: Total: 16557891584 bytes, Free: 7323308032 bytes
+  Uptime: 93789.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:43
+  CPU Usage: {"user":2122274,"nice":0,"sys":3052118,"idle":432774291,"irq":139648}
+  Memory Usage: Total: 16557891584 bytes, Free: 7314554880 bytes
+  Uptime: 93795.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:49
+  CPU Usage: {"user":2122446,"nice":0,"sys":3052292,"idle":432870117,"irq":139664}
+  Memory Usage: Total: 16557891584 bytes, Free: 7322882048 bytes
+  Uptime: 93801.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:55:55
+  CPU Usage: {"user":2122509,"nice":0,"sys":3053259,"idle":432965103,"irq":139664}
+  Memory Usage: Total: 16557891584 bytes, Free: 7321051136 bytes
+  Uptime: 93807.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:01
+  CPU Usage: {"user":2122665,"nice":0,"sys":3053384,"idle":433060915,"irq":139664}
+  Memory Usage: Total: 16557891584 bytes, Free: 7322316800 bytes
+  Uptime: 93813.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:07
+  CPU Usage: {"user":2122743,"nice":0,"sys":3053588,"idle":433156635,"irq":139679}
+  Memory Usage: Total: 16557891584 bytes, Free: 7326224384 bytes
+  Uptime: 93819.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:13
+  CPU Usage: {"user":2122806,"nice":0,"sys":3053697,"idle":433252711,"irq":139679}
+  Memory Usage: Total: 16557891584 bytes, Free: 7325556736 bytes
+  Uptime: 93825.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:19
+  CPU Usage: {"user":2123117,"nice":0,"sys":3053930,"idle":433348119,"irq":139711}
+  Memory Usage: Total: 16557891584 bytes, Free: 7286931456 bytes
+  Uptime: 93831.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:25
+  CPU Usage: {"user":2124009,"nice":0,"sys":3054915,"idle":433442543,"irq":139758}
+  Memory Usage: Total: 16557891584 bytes, Free: 7280013312 bytes
+  Uptime: 93837.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:31
+  CPU Usage: {"user":2124133,"nice":0,"sys":3055178,"idle":433538381,"irq":139789}
+  Memory Usage: Total: 16557891584 bytes, Free: 7314526208 bytes
+  Uptime: 93843.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:37
+  CPU Usage: {"user":2124242,"nice":0,"sys":3055273,"idle":433633947,"irq":139789}
+  Memory Usage: Total: 16557891584 bytes, Free: 7324708864 bytes
+  Uptime: 93849.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:43
+  CPU Usage: {"user":2124242,"nice":0,"sys":3055366,"idle":433729995,"irq":139789}
+  Memory Usage: Total: 16557891584 bytes, Free: 7319375872 bytes
+  Uptime: 93855.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:49
+  CPU Usage: {"user":2124304,"nice":0,"sys":3055460,"idle":433825931,"irq":139805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7317958656 bytes
+  Uptime: 93861.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:56:55
+  CPU Usage: {"user":2124367,"nice":0,"sys":3056477,"idle":433920962,"irq":139805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7316877312 bytes
+  Uptime: 93867.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:01
+  CPU Usage: {"user":2124808,"nice":0,"sys":3056571,"idle":434016401,"irq":139805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7321419776 bytes
+  Uptime: 93873.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:07
+  CPU Usage: {"user":2124916,"nice":0,"sys":3056742,"idle":434112447,"irq":139805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7320043520 bytes
+  Uptime: 93879.437 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:13
+  CPU Usage: {"user":2124947,"nice":0,"sys":3056852,"idle":434208651,"irq":139805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7319748608 bytes
+  Uptime: 93885.453 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:19
+  CPU Usage: {"user":2125103,"nice":0,"sys":3058352,"idle":434302820,"irq":139868}
+  Memory Usage: Total: 16557891584 bytes, Free: 7279702016 bytes
+  Uptime: 93891.453 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:25
+  CPU Usage: {"user":2125212,"nice":0,"sys":3058664,"idle":434398650,"irq":139868}
+  Memory Usage: Total: 16557891584 bytes, Free: 7280168960 bytes
+  Uptime: 93897.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:31
+  CPU Usage: {"user":2125260,"nice":0,"sys":3059382,"idle":434493995,"irq":139883}
+  Memory Usage: Total: 16557891584 bytes, Free: 7288397824 bytes
+  Uptime: 93903.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:37
+  CPU Usage: {"user":2125337,"nice":0,"sys":3059460,"idle":434590165,"irq":139883}
+  Memory Usage: Total: 16557891584 bytes, Free: 7288381440 bytes
+  Uptime: 93909.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:43
+  CPU Usage: {"user":2125384,"nice":0,"sys":3059635,"idle":434685978,"irq":139914}
+  Memory Usage: Total: 16557891584 bytes, Free: 7284490240 bytes
+  Uptime: 93915.5 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:49
+  CPU Usage: {"user":2125493,"nice":0,"sys":3059791,"idle":434782056,"irq":139930}
+  Memory Usage: Total: 16557891584 bytes, Free: 7284260864 bytes
+  Uptime: 93921.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:57:55
+  CPU Usage: {"user":2125540,"nice":0,"sys":3059869,"idle":434878009,"irq":139930}
+  Memory Usage: Total: 16557891584 bytes, Free: 7291232256 bytes
+  Uptime: 93927.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:01
+  CPU Usage: {"user":2125618,"nice":0,"sys":3060840,"idle":434973132,"irq":139945}
+  Memory Usage: Total: 16557891584 bytes, Free: 7291924480 bytes
+  Uptime: 93933.531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:07
+  CPU Usage: {"user":2125729,"nice":0,"sys":3060963,"idle":435069117,"irq":139992}
+  Memory Usage: Total: 16557891584 bytes, Free: 7285813248 bytes
+  Uptime: 93939.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:13
+  CPU Usage: {"user":2125776,"nice":0,"sys":3061072,"idle":435164882,"irq":140023}
+  Memory Usage: Total: 16557891584 bytes, Free: 7280451584 bytes
+  Uptime: 93945.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:19
+  CPU Usage: {"user":2125823,"nice":0,"sys":3061166,"idle":435260789,"irq":140023}
+  Memory Usage: Total: 16557891584 bytes, Free: 7285075968 bytes
+  Uptime: 93951.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:25
+  CPU Usage: {"user":2125870,"nice":0,"sys":3061274,"idle":435357070,"irq":140023}
+  Memory Usage: Total: 16557891584 bytes, Free: 7285399552 bytes
+  Uptime: 93957.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:31
+  CPU Usage: {"user":2126196,"nice":0,"sys":3062337,"idle":435451665,"irq":140023}
+  Memory Usage: Total: 16557891584 bytes, Free: 7298396160 bytes
+  Uptime: 93963.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:37
+  CPU Usage: {"user":2126337,"nice":0,"sys":3062433,"idle":435547774,"irq":140023}
+  Memory Usage: Total: 16557891584 bytes, Free: 7291682816 bytes
+  Uptime: 93969.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:43
+  CPU Usage: {"user":2126384,"nice":0,"sys":3062542,"idle":435643743,"irq":140039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7287238656 bytes
+  Uptime: 93975.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:49
+  CPU Usage: {"user":2126492,"nice":0,"sys":3062619,"idle":435739773,"irq":140039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7289610240 bytes
+  Uptime: 93981.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:58:55
+  CPU Usage: {"user":2126554,"nice":0,"sys":3062682,"idle":435835524,"irq":140039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7298002944 bytes
+  Uptime: 93987.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:01
+  CPU Usage: {"user":2126648,"nice":0,"sys":3063636,"idle":435930775,"irq":140039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7288446976 bytes
+  Uptime: 93993.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:07
+  CPU Usage: {"user":2126821,"nice":0,"sys":3063823,"idle":436026537,"irq":140039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7427072000 bytes
+  Uptime: 93999.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:13
+  CPU Usage: {"user":2127057,"nice":0,"sys":3065040,"idle":436121368,"irq":140055}
+  Memory Usage: Total: 16557891584 bytes, Free: 7448154112 bytes
+  Uptime: 94005.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:19
+  CPU Usage: {"user":2128055,"nice":0,"sys":3065243,"idle":436216117,"irq":140055}
+  Memory Usage: Total: 16557891584 bytes, Free: 7396294656 bytes
+  Uptime: 94011.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:25
+  CPU Usage: {"user":2128807,"nice":0,"sys":3065369,"idle":436311444,"irq":140071}
+  Memory Usage: Total: 16557891584 bytes, Free: 7396290560 bytes
+  Uptime: 94017.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:31
+  CPU Usage: {"user":2129492,"nice":0,"sys":3066401,"idle":436405633,"irq":140086}
+  Memory Usage: Total: 16557891584 bytes, Free: 7395053568 bytes
+  Uptime: 94023.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:37
+  CPU Usage: {"user":2129728,"nice":0,"sys":3066619,"idle":436501261,"irq":140117}
+  Memory Usage: Total: 16557891584 bytes, Free: 7385718784 bytes
+  Uptime: 94029.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:43
+  CPU Usage: {"user":2129851,"nice":0,"sys":3066729,"idle":436597307,"irq":140117}
+  Memory Usage: Total: 16557891584 bytes, Free: 7419199488 bytes
+  Uptime: 94035.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:49
+  CPU Usage: {"user":2129930,"nice":0,"sys":3066868,"idle":436692992,"irq":140149}
+  Memory Usage: Total: 16557891584 bytes, Free: 7421747200 bytes
+  Uptime: 94041.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 13:59:55
+  CPU Usage: {"user":2130464,"nice":0,"sys":3067024,"idle":436788634,"irq":140196}
+  Memory Usage: Total: 16557891584 bytes, Free: 7429840896 bytes
+  Uptime: 94047.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:01
+  CPU Usage: {"user":2130511,"nice":0,"sys":3067634,"idle":436883963,"irq":140212}
+  Memory Usage: Total: 16557891584 bytes, Free: 7421538304 bytes
+  Uptime: 94053.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:07
+  CPU Usage: {"user":2130574,"nice":0,"sys":3067947,"idle":436979696,"irq":140212}
+  Memory Usage: Total: 16557891584 bytes, Free: 7428063232 bytes
+  Uptime: 94059.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:14
+  CPU Usage: {"user":2130681,"nice":0,"sys":3068728,"idle":437074962,"irq":140212}
+  Memory Usage: Total: 16557891584 bytes, Free: 7531995136 bytes
+  Uptime: 94065.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:20
+  CPU Usage: {"user":2130697,"nice":0,"sys":3068853,"idle":437170836,"irq":140228}
+  Memory Usage: Total: 16557891584 bytes, Free: 7556612096 bytes
+  Uptime: 94071.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:26
+  CPU Usage: {"user":2130729,"nice":0,"sys":3068931,"idle":437266963,"irq":140243}
+  Memory Usage: Total: 16557891584 bytes, Free: 7552692224 bytes
+  Uptime: 94077.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:32
+  CPU Usage: {"user":2130744,"nice":0,"sys":3069040,"idle":437362899,"irq":140258}
+  Memory Usage: Total: 16557891584 bytes, Free: 7546687488 bytes
+  Uptime: 94083.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:38
+  CPU Usage: {"user":2130791,"nice":0,"sys":3070148,"idle":437457697,"irq":140274}
+  Memory Usage: Total: 16557891584 bytes, Free: 7546793984 bytes
+  Uptime: 94089.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:44
+  CPU Usage: {"user":2130853,"nice":0,"sys":3070226,"idle":437553791,"irq":140274}
+  Memory Usage: Total: 16557891584 bytes, Free: 7550959616 bytes
+  Uptime: 94095.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:50
+  CPU Usage: {"user":2130869,"nice":0,"sys":3070289,"idle":437649807,"irq":140274}
+  Memory Usage: Total: 16557891584 bytes, Free: 7548698624 bytes
+  Uptime: 94101.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:00:56
+  CPU Usage: {"user":2130869,"nice":0,"sys":3070352,"idle":437745588,"irq":140274}
+  Memory Usage: Total: 16557891584 bytes, Free: 7549444096 bytes
+  Uptime: 94107.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:02
+  CPU Usage: {"user":2131023,"nice":0,"sys":3070509,"idle":437841510,"irq":140274}
+  Memory Usage: Total: 16557891584 bytes, Free: 7546253312 bytes
+  Uptime: 94113.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:08
+  CPU Usage: {"user":2131117,"nice":0,"sys":3071462,"idle":437936682,"irq":140289}
+  Memory Usage: Total: 16557891584 bytes, Free: 7623684096 bytes
+  Uptime: 94119.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:14
+  CPU Usage: {"user":2131195,"nice":0,"sys":3071556,"idle":438032601,"irq":140289}
+  Memory Usage: Total: 16557891584 bytes, Free: 7622131712 bytes
+  Uptime: 94125.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:20
+  CPU Usage: {"user":2131320,"nice":0,"sys":3071665,"idle":438128572,"irq":140289}
+  Memory Usage: Total: 16557891584 bytes, Free: 7621308416 bytes
+  Uptime: 94131.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:26
+  CPU Usage: {"user":2131757,"nice":0,"sys":3071869,"idle":438224319,"irq":140289}
+  Memory Usage: Total: 16557891584 bytes, Free: 7605493760 bytes
+  Uptime: 94137.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:32
+  CPU Usage: {"user":2132963,"nice":0,"sys":3073774,"idle":438317211,"irq":140368}
+  Memory Usage: Total: 16557891584 bytes, Free: 7510929408 bytes
+  Uptime: 94143.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:38
+  CPU Usage: {"user":2132978,"nice":0,"sys":3074898,"idle":438412196,"irq":140368}
+  Memory Usage: Total: 16557891584 bytes, Free: 7515369472 bytes
+  Uptime: 94149.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:44
+  CPU Usage: {"user":2132994,"nice":0,"sys":3075007,"idle":438508322,"irq":140368}
+  Memory Usage: Total: 16557891584 bytes, Free: 7515684864 bytes
+  Uptime: 94155.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:50
+  CPU Usage: {"user":2133071,"nice":0,"sys":3075086,"idle":438604212,"irq":140368}
+  Memory Usage: Total: 16557891584 bytes, Free: 7515459584 bytes
+  Uptime: 94161.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:01:56
+  CPU Usage: {"user":2133118,"nice":0,"sys":3075196,"idle":438700273,"irq":140384}
+  Memory Usage: Total: 16557891584 bytes, Free: 7518867456 bytes
+  Uptime: 94167.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:02
+  CPU Usage: {"user":2133306,"nice":0,"sys":3075397,"idle":438796010,"irq":140400}
+  Memory Usage: Total: 16557891584 bytes, Free: 7508021248 bytes
+  Uptime: 94173.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:08
+  CPU Usage: {"user":2133384,"nice":0,"sys":3076619,"idle":438890617,"irq":140446}
+  Memory Usage: Total: 16557891584 bytes, Free: 7508725760 bytes
+  Uptime: 94179.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:14
+  CPU Usage: {"user":2133415,"nice":0,"sys":3076727,"idle":438986823,"irq":140462}
+  Memory Usage: Total: 16557891584 bytes, Free: 7510204416 bytes
+  Uptime: 94185.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:20
+  CPU Usage: {"user":2133447,"nice":0,"sys":3076822,"idle":439082650,"irq":140462}
+  Memory Usage: Total: 16557891584 bytes, Free: 7506862080 bytes
+  Uptime: 94191.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:26
+  CPU Usage: {"user":2133494,"nice":0,"sys":3076900,"idle":439178445,"irq":140462}
+  Memory Usage: Total: 16557891584 bytes, Free: 7507566592 bytes
+  Uptime: 94197.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:32
+  CPU Usage: {"user":2133572,"nice":0,"sys":3077024,"idle":439274511,"irq":140462}
+  Memory Usage: Total: 16557891584 bytes, Free: 7518732288 bytes
+  Uptime: 94203.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:38
+  CPU Usage: {"user":2133633,"nice":0,"sys":3078070,"idle":439369744,"irq":140462}
+  Memory Usage: Total: 16557891584 bytes, Free: 7506210816 bytes
+  Uptime: 94209.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:44
+  CPU Usage: {"user":2133712,"nice":0,"sys":3078148,"idle":439465710,"irq":140462}
+  Memory Usage: Total: 16557891584 bytes, Free: 7508250624 bytes
+  Uptime: 94215.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:50
+  CPU Usage: {"user":2134133,"nice":0,"sys":3078288,"idle":439561354,"irq":140478}
+  Memory Usage: Total: 16557891584 bytes, Free: 7516536832 bytes
+  Uptime: 94221.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:02:56
+  CPU Usage: {"user":2134165,"nice":0,"sys":3078414,"idle":439657259,"irq":140493}
+  Memory Usage: Total: 16557891584 bytes, Free: 7513673728 bytes
+  Uptime: 94227.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:02
+  CPU Usage: {"user":2134243,"nice":0,"sys":3078492,"idle":439753320,"irq":140493}
+  Memory Usage: Total: 16557891584 bytes, Free: 7522967552 bytes
+  Uptime: 94233.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:08
+  CPU Usage: {"user":2134274,"nice":0,"sys":3078915,"idle":439848930,"irq":140509}
+  Memory Usage: Total: 16557891584 bytes, Free: 7510450176 bytes
+  Uptime: 94239.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:14
+  CPU Usage: {"user":2134305,"nice":0,"sys":3079681,"idle":439944477,"irq":140509}
+  Memory Usage: Total: 16557891584 bytes, Free: 7513161728 bytes
+  Uptime: 94245.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:20
+  CPU Usage: {"user":2134586,"nice":0,"sys":3081072,"idle":440038962,"irq":140525}
+  Memory Usage: Total: 16557891584 bytes, Free: 7503560704 bytes
+  Uptime: 94251.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:26
+  CPU Usage: {"user":2134618,"nice":0,"sys":3081166,"idle":440134821,"irq":140541}
+  Memory Usage: Total: 16557891584 bytes, Free: 7503675392 bytes
+  Uptime: 94257.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:32
+  CPU Usage: {"user":2134759,"nice":0,"sys":3081321,"idle":440230869,"irq":140556}
+  Memory Usage: Total: 16557891584 bytes, Free: 7503486976 bytes
+  Uptime: 94263.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:38
+  CPU Usage: {"user":2134915,"nice":0,"sys":3081508,"idle":440326462,"irq":140587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7502233600 bytes
+  Uptime: 94269.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:44
+  CPU Usage: {"user":2135040,"nice":0,"sys":3082539,"idle":440421386,"irq":140587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7501930496 bytes
+  Uptime: 94275.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:50
+  CPU Usage: {"user":2135119,"nice":0,"sys":3082696,"idle":440517274,"irq":140587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7507025920 bytes
+  Uptime: 94282 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:03:56
+  CPU Usage: {"user":2135166,"nice":0,"sys":3082776,"idle":440613165,"irq":140587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7506698240 bytes
+  Uptime: 94288 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:02
+  CPU Usage: {"user":2135228,"nice":0,"sys":3082854,"idle":440709211,"irq":140587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7507570688 bytes
+  Uptime: 94294.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:08
+  CPU Usage: {"user":2135306,"nice":0,"sys":3082979,"idle":440805340,"irq":140587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7510024192 bytes
+  Uptime: 94300.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:14
+  CPU Usage: {"user":2135353,"nice":0,"sys":3083900,"idle":440900352,"irq":140587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7518109696 bytes
+  Uptime: 94306.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:20
+  CPU Usage: {"user":2135619,"nice":0,"sys":3083994,"idle":440996198,"irq":140587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7515451392 bytes
+  Uptime: 94312.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:26
+  CPU Usage: {"user":2135867,"nice":0,"sys":3084417,"idle":441091619,"irq":140602}
+  Memory Usage: Total: 16557891584 bytes, Free: 7498743808 bytes
+  Uptime: 94318.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:32
+  CPU Usage: {"user":2136212,"nice":0,"sys":3084620,"idle":441187198,"irq":140602}
+  Memory Usage: Total: 16557891584 bytes, Free: 7600726016 bytes
+  Uptime: 94324.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:38
+  CPU Usage: {"user":2136337,"nice":0,"sys":3084744,"idle":441283027,"irq":140632}
+  Memory Usage: Total: 16557891584 bytes, Free: 7597039616 bytes
+  Uptime: 94330.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:44
+  CPU Usage: {"user":2136416,"nice":0,"sys":3085808,"idle":441377994,"irq":140648}
+  Memory Usage: Total: 16557891584 bytes, Free: 7597891584 bytes
+  Uptime: 94336.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:50
+  CPU Usage: {"user":2136697,"nice":0,"sys":3085948,"idle":441473775,"irq":140648}
+  Memory Usage: Total: 16557891584 bytes, Free: 7563476992 bytes
+  Uptime: 94342.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:04:56
+  CPU Usage: {"user":2136961,"nice":0,"sys":3086089,"idle":441569508,"irq":140648}
+  Memory Usage: Total: 16557891584 bytes, Free: 7568871424 bytes
+  Uptime: 94348.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:02
+  CPU Usage: {"user":2137385,"nice":0,"sys":3086260,"idle":441665070,"irq":140695}
+  Memory Usage: Total: 16557891584 bytes, Free: 7570481152 bytes
+  Uptime: 94354.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:08
+  CPU Usage: {"user":2137683,"nice":0,"sys":3086431,"idle":441760837,"irq":140727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7580852224 bytes
+  Uptime: 94360.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:14
+  CPU Usage: {"user":2137964,"nice":0,"sys":3087806,"idle":441855446,"irq":140758}
+  Memory Usage: Total: 16557891584 bytes, Free: 7569645568 bytes
+  Uptime: 94366.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:20
+  CPU Usage: {"user":2138306,"nice":0,"sys":3087946,"idle":441951056,"irq":140773}
+  Memory Usage: Total: 16557891584 bytes, Free: 7573159936 bytes
+  Uptime: 94372.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:26
+  CPU Usage: {"user":2138651,"nice":0,"sys":3088086,"idle":442046837,"irq":140804}
+  Memory Usage: Total: 16557891584 bytes, Free: 7582838784 bytes
+  Uptime: 94378.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:32
+  CPU Usage: {"user":2138776,"nice":0,"sys":3088289,"idle":442142569,"irq":140819}
+  Memory Usage: Total: 16557891584 bytes, Free: 7596732416 bytes
+  Uptime: 94384.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:38
+  CPU Usage: {"user":2138822,"nice":0,"sys":3088429,"idle":442238585,"irq":140835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7594868736 bytes
+  Uptime: 94390.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:44
+  CPU Usage: {"user":2138961,"nice":0,"sys":3089055,"idle":442333930,"irq":140835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7592833024 bytes
+  Uptime: 94396.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:50
+  CPU Usage: {"user":2139541,"nice":0,"sys":3089461,"idle":442428962,"irq":140850}
+  Memory Usage: Total: 16557891584 bytes, Free: 7610433536 bytes
+  Uptime: 94402.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:05:56
+  CPU Usage: {"user":2139634,"nice":0,"sys":3089617,"idle":442524961,"irq":140850}
+  Memory Usage: Total: 16557891584 bytes, Free: 7612940288 bytes
+  Uptime: 94408.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:02
+  CPU Usage: {"user":2140386,"nice":0,"sys":3089836,"idle":442619992,"irq":140866}
+  Memory Usage: Total: 16557891584 bytes, Free: 7540785152 bytes
+  Uptime: 94414.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:08
+  CPU Usage: {"user":2141492,"nice":0,"sys":3090025,"idle":442714945,"irq":140898}
+  Memory Usage: Total: 16557891584 bytes, Free: 7537467392 bytes
+  Uptime: 94420.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:14
+  CPU Usage: {"user":2142775,"nice":0,"sys":3090292,"idle":442809242,"irq":140976}
+  Memory Usage: Total: 16557891584 bytes, Free: 7519522816 bytes
+  Uptime: 94426.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:20
+  CPU Usage: {"user":2142932,"nice":0,"sys":3091306,"idle":442904414,"irq":140992}
+  Memory Usage: Total: 16557891584 bytes, Free: 7531032576 bytes
+  Uptime: 94432.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:26
+  CPU Usage: {"user":2143322,"nice":0,"sys":3091495,"idle":442999759,"irq":141007}
+  Memory Usage: Total: 16557891584 bytes, Free: 7558197248 bytes
+  Uptime: 94438.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:32
+  CPU Usage: {"user":2143479,"nice":0,"sys":3091761,"idle":443095385,"irq":141007}
+  Memory Usage: Total: 16557891584 bytes, Free: 7576461312 bytes
+  Uptime: 94444.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:38
+  CPU Usage: {"user":2143526,"nice":0,"sys":3091838,"idle":443191602,"irq":141007}
+  Memory Usage: Total: 16557891584 bytes, Free: 7579885568 bytes
+  Uptime: 94450.234 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:44
+  CPU Usage: {"user":2143572,"nice":0,"sys":3092117,"idle":443287463,"irq":141039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7588155392 bytes
+  Uptime: 94456.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:50
+  CPU Usage: {"user":2143604,"nice":0,"sys":3093164,"idle":443382386,"irq":141054}
+  Memory Usage: Total: 16557891584 bytes, Free: 7587430400 bytes
+  Uptime: 94462.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:06:56
+  CPU Usage: {"user":2143683,"nice":0,"sys":3093274,"idle":443478508,"irq":141054}
+  Memory Usage: Total: 16557891584 bytes, Free: 7586455552 bytes
+  Uptime: 94468.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:02
+  CPU Usage: {"user":2143745,"nice":0,"sys":3093415,"idle":443574149,"irq":141054}
+  Memory Usage: Total: 16557891584 bytes, Free: 7600054272 bytes
+  Uptime: 94474.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:08
+  CPU Usage: {"user":2144415,"nice":0,"sys":3093586,"idle":443669666,"irq":141069}
+  Memory Usage: Total: 16557891584 bytes, Free: 7544434688 bytes
+  Uptime: 94480.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:14
+  CPU Usage: {"user":2145822,"nice":0,"sys":3093790,"idle":443764086,"irq":141116}
+  Memory Usage: Total: 16557891584 bytes, Free: 7533498368 bytes
+  Uptime: 94486.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:20
+  CPU Usage: {"user":2146024,"nice":0,"sys":3094712,"idle":443858821,"irq":141147}
+  Memory Usage: Total: 16557891584 bytes, Free: 7528218624 bytes
+  Uptime: 94492.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:26
+  CPU Usage: {"user":2146257,"nice":0,"sys":3094883,"idle":443954696,"irq":141179}
+  Memory Usage: Total: 16557891584 bytes, Free: 7563694080 bytes
+  Uptime: 94498.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:32
+  CPU Usage: {"user":2146335,"nice":0,"sys":3094946,"idle":444050524,"irq":141179}
+  Memory Usage: Total: 16557891584 bytes, Free: 7578001408 bytes
+  Uptime: 94504.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:38
+  CPU Usage: {"user":2146476,"nice":0,"sys":3095148,"idle":444146196,"irq":141210}
+  Memory Usage: Total: 16557891584 bytes, Free: 7579398144 bytes
+  Uptime: 94510.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:44
+  CPU Usage: {"user":2146492,"nice":0,"sys":3095258,"idle":444242414,"irq":141226}
+  Memory Usage: Total: 16557891584 bytes, Free: 7580270592 bytes
+  Uptime: 94516.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:50
+  CPU Usage: {"user":2146602,"nice":0,"sys":3096273,"idle":444337228,"irq":141242}
+  Memory Usage: Total: 16557891584 bytes, Free: 7577010176 bytes
+  Uptime: 94522.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:07:56
+  CPU Usage: {"user":2146680,"nice":0,"sys":3096399,"idle":444433305,"irq":141242}
+  Memory Usage: Total: 16557891584 bytes, Free: 7584296960 bytes
+  Uptime: 94528.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:02
+  CPU Usage: {"user":2146804,"nice":0,"sys":3096523,"idle":444529023,"irq":141242}
+  Memory Usage: Total: 16557891584 bytes, Free: 7581052928 bytes
+  Uptime: 94534.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:08
+  CPU Usage: {"user":2146882,"nice":0,"sys":3096601,"idle":444625151,"irq":141242}
+  Memory Usage: Total: 16557891584 bytes, Free: 7579684864 bytes
+  Uptime: 94540.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:14
+  CPU Usage: {"user":2146897,"nice":0,"sys":3096742,"idle":444720947,"irq":141242}
+  Memory Usage: Total: 16557891584 bytes, Free: 7577903104 bytes
+  Uptime: 94546.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:20
+  CPU Usage: {"user":2147007,"nice":0,"sys":3097757,"idle":444816195,"irq":141242}
+  Memory Usage: Total: 16557891584 bytes, Free: 7572639744 bytes
+  Uptime: 94552.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:26
+  CPU Usage: {"user":2147055,"nice":0,"sys":3097866,"idle":444911885,"irq":141242}
+  Memory Usage: Total: 16557891584 bytes, Free: 7574790144 bytes
+  Uptime: 94558.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:32
+  CPU Usage: {"user":2147133,"nice":0,"sys":3098023,"idle":445007839,"irq":141258}
+  Memory Usage: Total: 16557891584 bytes, Free: 7574495232 bytes
+  Uptime: 94564.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:38
+  CPU Usage: {"user":2147210,"nice":0,"sys":3098101,"idle":445104149,"irq":141258}
+  Memory Usage: Total: 16557891584 bytes, Free: 7573557248 bytes
+  Uptime: 94570.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:44
+  CPU Usage: {"user":2147540,"nice":0,"sys":3098195,"idle":445199665,"irq":141258}
+  Memory Usage: Total: 16557891584 bytes, Free: 7583768576 bytes
+  Uptime: 94576.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:50
+  CPU Usage: {"user":2147634,"nice":0,"sys":3098555,"idle":445295445,"irq":141305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7571939328 bytes
+  Uptime: 94582.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:08:56
+  CPU Usage: {"user":2147696,"nice":0,"sys":3099353,"idle":445390494,"irq":141305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7574806528 bytes
+  Uptime: 94588.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:02
+  CPU Usage: {"user":2147743,"nice":0,"sys":3099415,"idle":445486432,"irq":141305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7575265280 bytes
+  Uptime: 94594.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:08
+  CPU Usage: {"user":2147822,"nice":0,"sys":3099509,"idle":445582275,"irq":141321}
+  Memory Usage: Total: 16557891584 bytes, Free: 7572762624 bytes
+  Uptime: 94600.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:14
+  CPU Usage: {"user":2147884,"nice":0,"sys":3099587,"idle":445678414,"irq":141336}
+  Memory Usage: Total: 16557891584 bytes, Free: 7574245376 bytes
+  Uptime: 94606.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:20
+  CPU Usage: {"user":2147932,"nice":0,"sys":3099665,"idle":445774369,"irq":141336}
+  Memory Usage: Total: 16557891584 bytes, Free: 7581925376 bytes
+  Uptime: 94612.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:26
+  CPU Usage: {"user":2148088,"nice":0,"sys":3100726,"idle":445869023,"irq":141367}
+  Memory Usage: Total: 16557891584 bytes, Free: 7578124288 bytes
+  Uptime: 94618.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:32
+  CPU Usage: {"user":2148135,"nice":0,"sys":3100867,"idle":445965088,"irq":141367}
+  Memory Usage: Total: 16557891584 bytes, Free: 7583199232 bytes
+  Uptime: 94624.437 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:38
+  CPU Usage: {"user":2148292,"nice":0,"sys":3101335,"idle":446060431,"irq":141398}
+  Memory Usage: Total: 16557891584 bytes, Free: 7557410816 bytes
+  Uptime: 94630.437 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:44
+  CPU Usage: {"user":2148339,"nice":0,"sys":3101460,"idle":446156508,"irq":141414}
+  Memory Usage: Total: 16557891584 bytes, Free: 7571771392 bytes
+  Uptime: 94636.453 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:50
+  CPU Usage: {"user":2148433,"nice":0,"sys":3101601,"idle":446252446,"irq":141430}
+  Memory Usage: Total: 16557891584 bytes, Free: 7569092608 bytes
+  Uptime: 94642.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:09:56
+  CPU Usage: {"user":2148495,"nice":0,"sys":3102648,"idle":446347460,"irq":141430}
+  Memory Usage: Total: 16557891584 bytes, Free: 7571496960 bytes
+  Uptime: 94648.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:02
+  CPU Usage: {"user":2148574,"nice":0,"sys":3102757,"idle":446443495,"irq":141445}
+  Memory Usage: Total: 16557891584 bytes, Free: 7569461248 bytes
+  Uptime: 94654.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:08
+  CPU Usage: {"user":2148651,"nice":0,"sys":3102897,"idle":446539229,"irq":141461}
+  Memory Usage: Total: 16557891584 bytes, Free: 7578333184 bytes
+  Uptime: 94660.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:14
+  CPU Usage: {"user":2149073,"nice":0,"sys":3103430,"idle":446634430,"irq":141461}
+  Memory Usage: Total: 16557891584 bytes, Free: 7576571904 bytes
+  Uptime: 94666.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:20
+  CPU Usage: {"user":2149275,"nice":0,"sys":3103587,"idle":446730292,"irq":141477}
+  Memory Usage: Total: 16557891584 bytes, Free: 7587418112 bytes
+  Uptime: 94672.5 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:26
+  CPU Usage: {"user":2149336,"nice":0,"sys":3104477,"idle":446825446,"irq":141492}
+  Memory Usage: Total: 16557891584 bytes, Free: 7577718784 bytes
+  Uptime: 94678.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:32
+  CPU Usage: {"user":2149414,"nice":0,"sys":3104539,"idle":446921289,"irq":141492}
+  Memory Usage: Total: 16557891584 bytes, Free: 7580241920 bytes
+  Uptime: 94684.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:38
+  CPU Usage: {"user":2149477,"nice":0,"sys":3104631,"idle":447017195,"irq":141492}
+  Memory Usage: Total: 16557891584 bytes, Free: 7580319744 bytes
+  Uptime: 94690.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:44
+  CPU Usage: {"user":2149524,"nice":0,"sys":3104726,"idle":447113228,"irq":141492}
+  Memory Usage: Total: 16557891584 bytes, Free: 7579201536 bytes
+  Uptime: 94696.531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:50
+  CPU Usage: {"user":2149852,"nice":0,"sys":3104867,"idle":447209243,"irq":141492}
+  Memory Usage: Total: 16557891584 bytes, Free: 7597793280 bytes
+  Uptime: 94702.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:10:56
+  CPU Usage: {"user":2149977,"nice":0,"sys":3105869,"idle":447304369,"irq":141492}
+  Memory Usage: Total: 16557891584 bytes, Free: 7590526976 bytes
+  Uptime: 94708.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:02
+  CPU Usage: {"user":2150069,"nice":0,"sys":3106023,"idle":447400242,"irq":141508}
+  Memory Usage: Total: 16557891584 bytes, Free: 7587971072 bytes
+  Uptime: 94714.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:08
+  CPU Usage: {"user":2150132,"nice":0,"sys":3106102,"idle":447496117,"irq":141508}
+  Memory Usage: Total: 16557891584 bytes, Free: 7586951168 bytes
+  Uptime: 94720.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:14
+  CPU Usage: {"user":2150210,"nice":0,"sys":3106227,"idle":447592230,"irq":141508}
+  Memory Usage: Total: 16557891584 bytes, Free: 7586975744 bytes
+  Uptime: 94726.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:20
+  CPU Usage: {"user":2150257,"nice":0,"sys":3106414,"idle":447688226,"irq":141540}
+  Memory Usage: Total: 16557891584 bytes, Free: 7584952320 bytes
+  Uptime: 94732.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:26
+  CPU Usage: {"user":2150679,"nice":0,"sys":3107366,"idle":447782866,"irq":141555}
+  Memory Usage: Total: 16557891584 bytes, Free: 7563378688 bytes
+  Uptime: 94738.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:32
+  CPU Usage: {"user":2150836,"nice":0,"sys":3108085,"idle":447877946,"irq":141571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7572590592 bytes
+  Uptime: 94744.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:38
+  CPU Usage: {"user":2151242,"nice":0,"sys":3108195,"idle":447973587,"irq":141587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7575441408 bytes
+  Uptime: 94750.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:44
+  CPU Usage: {"user":2151305,"nice":0,"sys":3108336,"idle":448069462,"irq":141634}
+  Memory Usage: Total: 16557891584 bytes, Free: 7579344896 bytes
+  Uptime: 94756.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:50
+  CPU Usage: {"user":2151399,"nice":0,"sys":3108587,"idle":448165289,"irq":141634}
+  Memory Usage: Total: 16557891584 bytes, Free: 7578394624 bytes
+  Uptime: 94762.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:11:56
+  CPU Usage: {"user":2151555,"nice":0,"sys":3108712,"idle":448261102,"irq":141649}
+  Memory Usage: Total: 16557891584 bytes, Free: 7579910144 bytes
+  Uptime: 94768.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:02
+  CPU Usage: {"user":2151587,"nice":0,"sys":3109696,"idle":448356179,"irq":141649}
+  Memory Usage: Total: 16557891584 bytes, Free: 7582212096 bytes
+  Uptime: 94774.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:08
+  CPU Usage: {"user":2151649,"nice":0,"sys":3109789,"idle":448452085,"irq":141649}
+  Memory Usage: Total: 16557891584 bytes, Free: 7581048832 bytes
+  Uptime: 94780.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:14
+  CPU Usage: {"user":2151712,"nice":0,"sys":3109929,"idle":448547978,"irq":141664}
+  Memory Usage: Total: 16557891584 bytes, Free: 7580405760 bytes
+  Uptime: 94786.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:20
+  CPU Usage: {"user":2151946,"nice":0,"sys":3110039,"idle":448643633,"irq":141696}
+  Memory Usage: Total: 16557891584 bytes, Free: 7582478336 bytes
+  Uptime: 94792.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:26
+  CPU Usage: {"user":2152008,"nice":0,"sys":3110180,"idle":448739586,"irq":141711}
+  Memory Usage: Total: 16557891584 bytes, Free: 7581212672 bytes
+  Uptime: 94798.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:32
+  CPU Usage: {"user":2152024,"nice":0,"sys":3111134,"idle":448834758,"irq":141711}
+  Memory Usage: Total: 16557891584 bytes, Free: 7579222016 bytes
+  Uptime: 94804.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:38
+  CPU Usage: {"user":2152071,"nice":0,"sys":3114181,"idle":448927947,"irq":141727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7524040704 bytes
+  Uptime: 94810.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:44
+  CPU Usage: {"user":2152071,"nice":0,"sys":3118619,"idle":449019744,"irq":141727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7850541056 bytes
+  Uptime: 94816.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:51
+  CPU Usage: {"user":2152212,"nice":0,"sys":3118743,"idle":449115507,"irq":141727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7852236800 bytes
+  Uptime: 94822.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:12:57
+  CPU Usage: {"user":2152337,"nice":0,"sys":3118883,"idle":449211399,"irq":141743}
+  Memory Usage: Total: 16557891584 bytes, Free: 7848792064 bytes
+  Uptime: 94828.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:03
+  CPU Usage: {"user":2152352,"nice":0,"sys":3119868,"idle":449306399,"irq":141743}
+  Memory Usage: Total: 16557891584 bytes, Free: 7846559744 bytes
+  Uptime: 94834.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:09
+  CPU Usage: {"user":2152587,"nice":0,"sys":3119945,"idle":449402150,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7855542272 bytes
+  Uptime: 94840.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:15
+  CPU Usage: {"user":2152649,"nice":0,"sys":3120070,"idle":449497994,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7848288256 bytes
+  Uptime: 94846.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:21
+  CPU Usage: {"user":2152743,"nice":0,"sys":3120241,"idle":449593869,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7854288896 bytes
+  Uptime: 94852.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:27
+  CPU Usage: {"user":2152821,"nice":0,"sys":3120382,"idle":449689571,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7846342656 bytes
+  Uptime: 94858.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:33
+  CPU Usage: {"user":2152867,"nice":0,"sys":3121476,"idle":449784494,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7844888576 bytes
+  Uptime: 94864.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:39
+  CPU Usage: {"user":2152993,"nice":0,"sys":3121601,"idle":449880478,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7845982208 bytes
+  Uptime: 94870.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:45
+  CPU Usage: {"user":2153040,"nice":0,"sys":3121679,"idle":449976494,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7846756352 bytes
+  Uptime: 94876.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:51
+  CPU Usage: {"user":2153103,"nice":0,"sys":3121834,"idle":450072430,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7850217472 bytes
+  Uptime: 94882.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:13:57
+  CPU Usage: {"user":2153212,"nice":0,"sys":3121945,"idle":450168556,"irq":141759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7847464960 bytes
+  Uptime: 94888.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:03
+  CPU Usage: {"user":2153244,"nice":0,"sys":3122914,"idle":450263493,"irq":141774}
+  Memory Usage: Total: 16557891584 bytes, Free: 7840542720 bytes
+  Uptime: 94894.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:09
+  CPU Usage: {"user":2153337,"nice":0,"sys":3123039,"idle":450359336,"irq":141774}
+  Memory Usage: Total: 16557891584 bytes, Free: 7841275904 bytes
+  Uptime: 94900.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:15
+  CPU Usage: {"user":2153383,"nice":0,"sys":3123164,"idle":450455304,"irq":141774}
+  Memory Usage: Total: 16557891584 bytes, Free: 7841292288 bytes
+  Uptime: 94906.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:21
+  CPU Usage: {"user":2153430,"nice":0,"sys":3123336,"idle":450551289,"irq":141774}
+  Memory Usage: Total: 16557891584 bytes, Free: 7845675008 bytes
+  Uptime: 94912.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:27
+  CPU Usage: {"user":2153507,"nice":0,"sys":3123476,"idle":450647164,"irq":141774}
+  Memory Usage: Total: 16557891584 bytes, Free: 7838461952 bytes
+  Uptime: 94918.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:33
+  CPU Usage: {"user":2153555,"nice":0,"sys":3123586,"idle":450743258,"irq":141790}
+  Memory Usage: Total: 16557891584 bytes, Free: 7839326208 bytes
+  Uptime: 94924.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:39
+  CPU Usage: {"user":2154008,"nice":0,"sys":3124429,"idle":450838165,"irq":141790}
+  Memory Usage: Total: 16557891584 bytes, Free: 7843332096 bytes
+  Uptime: 94930.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:45
+  CPU Usage: {"user":2154071,"nice":0,"sys":3124507,"idle":450934383,"irq":141805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7843794944 bytes
+  Uptime: 94936.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:51
+  CPU Usage: {"user":2154103,"nice":0,"sys":3124664,"idle":451030103,"irq":141805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7839465472 bytes
+  Uptime: 94942.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:14:57
+  CPU Usage: {"user":2154399,"nice":0,"sys":3125086,"idle":451125729,"irq":141821}
+  Memory Usage: Total: 16557891584 bytes, Free: 7821406208 bytes
+  Uptime: 94948.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:03
+  CPU Usage: {"user":2154649,"nice":0,"sys":3125258,"idle":451221273,"irq":141821}
+  Memory Usage: Total: 16557891584 bytes, Free: 7795847168 bytes
+  Uptime: 94954.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:09
+  CPU Usage: {"user":2155149,"nice":0,"sys":3126681,"idle":451315370,"irq":141837}
+  Memory Usage: Total: 16557891584 bytes, Free: 7785648128 bytes
+  Uptime: 94960.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:15
+  CPU Usage: {"user":2155493,"nice":0,"sys":3127243,"idle":451410447,"irq":141852}
+  Memory Usage: Total: 16557891584 bytes, Free: 7777554432 bytes
+  Uptime: 94966.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:21
+  CPU Usage: {"user":2160461,"nice":0,"sys":3130806,"idle":451498133,"irq":141884}
+  Memory Usage: Total: 16557891584 bytes, Free: 7428722688 bytes
+  Uptime: 94972.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:27
+  CPU Usage: {"user":2162727,"nice":0,"sys":3132211,"idle":451590523,"irq":141977}
+  Memory Usage: Total: 16557891584 bytes, Free: 7252254720 bytes
+  Uptime: 94978.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:33
+  CPU Usage: {"user":2164070,"nice":0,"sys":3133039,"idle":451684305,"irq":141993}
+  Memory Usage: Total: 16557891584 bytes, Free: 7374123008 bytes
+  Uptime: 94984.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:39
+  CPU Usage: {"user":2165898,"nice":0,"sys":3134133,"idle":451777649,"irq":142009}
+  Memory Usage: Total: 16557891584 bytes, Free: 7347970048 bytes
+  Uptime: 94990.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:45
+  CPU Usage: {"user":2165992,"nice":0,"sys":3134212,"idle":451873477,"irq":142009}
+  Memory Usage: Total: 16557891584 bytes, Free: 7355523072 bytes
+  Uptime: 94996.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:51
+  CPU Usage: {"user":2166225,"nice":0,"sys":3134944,"idle":451968760,"irq":142009}
+  Memory Usage: Total: 16557891584 bytes, Free: 7529435136 bytes
+  Uptime: 95002.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:15:57
+  CPU Usage: {"user":2166272,"nice":0,"sys":3135037,"idle":452064650,"irq":142009}
+  Memory Usage: Total: 16557891584 bytes, Free: 7660576768 bytes
+  Uptime: 95008.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:03
+  CPU Usage: {"user":2166885,"nice":0,"sys":3135242,"idle":452160087,"irq":142009}
+  Memory Usage: Total: 16557891584 bytes, Free: 7726907392 bytes
+  Uptime: 95014.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:09
+  CPU Usage: {"user":2166994,"nice":0,"sys":3136306,"idle":452254776,"irq":142009}
+  Memory Usage: Total: 16557891584 bytes, Free: 7729934336 bytes
+  Uptime: 95020.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:15
+  CPU Usage: {"user":2167134,"nice":0,"sys":3136430,"idle":452350713,"irq":142009}
+  Memory Usage: Total: 16557891584 bytes, Free: 7732064256 bytes
+  Uptime: 95026.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:21
+  CPU Usage: {"user":2167228,"nice":0,"sys":3136618,"idle":452446586,"irq":142024}
+  Memory Usage: Total: 16557891584 bytes, Free: 7727513600 bytes
+  Uptime: 95032.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:27
+  CPU Usage: {"user":2167492,"nice":0,"sys":3136742,"idle":452542148,"irq":142024}
+  Memory Usage: Total: 16557891584 bytes, Free: 7736459264 bytes
+  Uptime: 95038.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:33
+  CPU Usage: {"user":2167586,"nice":0,"sys":3136960,"idle":452638027,"irq":142039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7730089984 bytes
+  Uptime: 95044.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:39
+  CPU Usage: {"user":2167929,"nice":0,"sys":3137930,"idle":452732806,"irq":142039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7736250368 bytes
+  Uptime: 95050.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:45
+  CPU Usage: {"user":2168554,"nice":0,"sys":3138164,"idle":452827994,"irq":142055}
+  Memory Usage: Total: 16557891584 bytes, Free: 7693430784 bytes
+  Uptime: 95056.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:51
+  CPU Usage: {"user":2169258,"nice":0,"sys":3138353,"idle":452923320,"irq":142071}
+  Memory Usage: Total: 16557891584 bytes, Free: 7677440000 bytes
+  Uptime: 95062.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:16:57
+  CPU Usage: {"user":2170681,"nice":0,"sys":3138539,"idle":453017710,"irq":142087}
+  Memory Usage: Total: 16557891584 bytes, Free: 7633817600 bytes
+  Uptime: 95068.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:03
+  CPU Usage: {"user":2170977,"nice":0,"sys":3138697,"idle":453113508,"irq":142102}
+  Memory Usage: Total: 16557891584 bytes, Free: 7626956800 bytes
+  Uptime: 95075 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:09
+  CPU Usage: {"user":2171023,"nice":0,"sys":3139038,"idle":453209056,"irq":142117}
+  Memory Usage: Total: 16557891584 bytes, Free: 7627665408 bytes
+  Uptime: 95081 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:15
+  CPU Usage: {"user":2171476,"nice":0,"sys":3140055,"idle":453303635,"irq":142117}
+  Memory Usage: Total: 16557891584 bytes, Free: 7440252928 bytes
+  Uptime: 95087 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:21
+  CPU Usage: {"user":2172633,"nice":0,"sys":3140914,"idle":453397696,"irq":142133}
+  Memory Usage: Total: 16557891584 bytes, Free: 7565750272 bytes
+  Uptime: 95093.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:27
+  CPU Usage: {"user":2173242,"nice":0,"sys":3141774,"idle":453492444,"irq":142149}
+  Memory Usage: Total: 16557891584 bytes, Free: 7555203072 bytes
+  Uptime: 95099.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:33
+  CPU Usage: {"user":2174274,"nice":0,"sys":3142055,"idle":453587023,"irq":142180}
+  Memory Usage: Total: 16557891584 bytes, Free: 7567060992 bytes
+  Uptime: 95105.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:39
+  CPU Usage: {"user":2174632,"nice":0,"sys":3142149,"idle":453682712,"irq":142196}
+  Memory Usage: Total: 16557891584 bytes, Free: 7570849792 bytes
+  Uptime: 95111.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:45
+  CPU Usage: {"user":2174804,"nice":0,"sys":3143178,"idle":453777666,"irq":142212}
+  Memory Usage: Total: 16557891584 bytes, Free: 7568793600 bytes
+  Uptime: 95117.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:51
+  CPU Usage: {"user":2175149,"nice":0,"sys":3143368,"idle":453873071,"irq":142228}
+  Memory Usage: Total: 16557891584 bytes, Free: 7567642624 bytes
+  Uptime: 95123.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:17:57
+  CPU Usage: {"user":2175649,"nice":0,"sys":3143680,"idle":453968432,"irq":142259}
+  Memory Usage: Total: 16557891584 bytes, Free: 7552143360 bytes
+  Uptime: 95129.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:03
+  CPU Usage: {"user":2176085,"nice":0,"sys":3143884,"idle":454063930,"irq":142306}
+  Memory Usage: Total: 16557891584 bytes, Free: 7551569920 bytes
+  Uptime: 95135.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:09
+  CPU Usage: {"user":2176258,"nice":0,"sys":3144042,"idle":454159838,"irq":142322}
+  Memory Usage: Total: 16557891584 bytes, Free: 7533817856 bytes
+  Uptime: 95141.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:15
+  CPU Usage: {"user":2176602,"nice":0,"sys":3145119,"idle":454254431,"irq":142322}
+  Memory Usage: Total: 16557891584 bytes, Free: 7530143744 bytes
+  Uptime: 95147.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:21
+  CPU Usage: {"user":2177040,"nice":0,"sys":3145275,"idle":454350041,"irq":142337}
+  Memory Usage: Total: 16557891584 bytes, Free: 7534256128 bytes
+  Uptime: 95153.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:27
+  CPU Usage: {"user":2177680,"nice":0,"sys":3145462,"idle":454445337,"irq":142353}
+  Memory Usage: Total: 16557891584 bytes, Free: 7561314304 bytes
+  Uptime: 95159.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:33
+  CPU Usage: {"user":2178245,"nice":0,"sys":3145619,"idle":454540697,"irq":142353}
+  Memory Usage: Total: 16557891584 bytes, Free: 7541907456 bytes
+  Uptime: 95165.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:39
+  CPU Usage: {"user":2178776,"nice":0,"sys":3145759,"idle":454636306,"irq":142369}
+  Memory Usage: Total: 16557891584 bytes, Free: 7547129856 bytes
+  Uptime: 95171.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:45
+  CPU Usage: {"user":2179495,"nice":0,"sys":3146883,"idle":454730506,"irq":142369}
+  Memory Usage: Total: 16557891584 bytes, Free: 7519010816 bytes
+  Uptime: 95177.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:51
+  CPU Usage: {"user":2180134,"nice":0,"sys":3146961,"idle":454825993,"irq":142369}
+  Memory Usage: Total: 16557891584 bytes, Free: 7479410688 bytes
+  Uptime: 95183.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:18:57
+  CPU Usage: {"user":2180931,"nice":0,"sys":3147195,"idle":454921086,"irq":142400}
+  Memory Usage: Total: 16557891584 bytes, Free: 7484284928 bytes
+  Uptime: 95189.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:03
+  CPU Usage: {"user":2181478,"nice":0,"sys":3147367,"idle":455016461,"irq":142400}
+  Memory Usage: Total: 16557891584 bytes, Free: 7577149440 bytes
+  Uptime: 95195.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:09
+  CPU Usage: {"user":2181509,"nice":0,"sys":3147493,"idle":455112367,"irq":142415}
+  Memory Usage: Total: 16557891584 bytes, Free: 7585513472 bytes
+  Uptime: 95201.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:15
+  CPU Usage: {"user":2182198,"nice":0,"sys":3149321,"idle":455206181,"irq":142493}
+  Memory Usage: Total: 16557891584 bytes, Free: 7547326464 bytes
+  Uptime: 95207.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:21
+  CPU Usage: {"user":2182822,"nice":0,"sys":3149618,"idle":455301149,"irq":142524}
+  Memory Usage: Total: 16557891584 bytes, Free: 7546941440 bytes
+  Uptime: 95213.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:27
+  CPU Usage: {"user":2183102,"nice":0,"sys":3149788,"idle":455396558,"irq":142524}
+  Memory Usage: Total: 16557891584 bytes, Free: 7543205888 bytes
+  Uptime: 95219.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:33
+  CPU Usage: {"user":2183306,"nice":0,"sys":3150195,"idle":455492432,"irq":142524}
+  Memory Usage: Total: 16557891584 bytes, Free: 7581605888 bytes
+  Uptime: 95225.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:39
+  CPU Usage: {"user":2183807,"nice":0,"sys":3150819,"idle":455587274,"irq":142555}
+  Memory Usage: Total: 16557891584 bytes, Free: 7580241920 bytes
+  Uptime: 95231.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:45
+  CPU Usage: {"user":2183854,"nice":0,"sys":3151648,"idle":455682647,"irq":142571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7581802496 bytes
+  Uptime: 95237.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:51
+  CPU Usage: {"user":2184023,"nice":0,"sys":3152118,"idle":455778040,"irq":142571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7594676224 bytes
+  Uptime: 95243.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:19:57
+  CPU Usage: {"user":2184352,"nice":0,"sys":3152555,"idle":455873510,"irq":142587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7546097664 bytes
+  Uptime: 95249.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:03
+  CPU Usage: {"user":2184962,"nice":0,"sys":3153040,"idle":455968635,"irq":142618}
+  Memory Usage: Total: 16557891584 bytes, Free: 7538339840 bytes
+  Uptime: 95255.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:09
+  CPU Usage: {"user":2186073,"nice":0,"sys":3153447,"idle":456063353,"irq":142649}
+  Memory Usage: Total: 16557891584 bytes, Free: 7508672512 bytes
+  Uptime: 95261.234 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:15
+  CPU Usage: {"user":2187072,"nice":0,"sys":3154336,"idle":456157465,"irq":142696}
+  Memory Usage: Total: 16557891584 bytes, Free: 7487066112 bytes
+  Uptime: 95267.234 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:21
+  CPU Usage: {"user":2187399,"nice":0,"sys":3155539,"idle":456252243,"irq":142696}
+  Memory Usage: Total: 16557891584 bytes, Free: 7689797632 bytes
+  Uptime: 95273.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:27
+  CPU Usage: {"user":2187478,"nice":0,"sys":3155664,"idle":456348228,"irq":142712}
+  Memory Usage: Total: 16557891584 bytes, Free: 7708577792 bytes
+  Uptime: 95279.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:33
+  CPU Usage: {"user":2187852,"nice":0,"sys":3155790,"idle":456443790,"irq":142727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7715397632 bytes
+  Uptime: 95285.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:39
+  CPU Usage: {"user":2187915,"nice":0,"sys":3155915,"idle":456539634,"irq":142727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7711629312 bytes
+  Uptime: 95291.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:45
+  CPU Usage: {"user":2188009,"nice":0,"sys":3156179,"idle":456635384,"irq":142727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7705899008 bytes
+  Uptime: 95297.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:51
+  CPU Usage: {"user":2188071,"nice":0,"sys":3157304,"idle":456730259,"irq":142727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7710044160 bytes
+  Uptime: 95303.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:20:57
+  CPU Usage: {"user":2188164,"nice":0,"sys":3157446,"idle":456826291,"irq":142727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7714947072 bytes
+  Uptime: 95309.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:03
+  CPU Usage: {"user":2188212,"nice":0,"sys":3157540,"idle":456922182,"irq":142727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7714504704 bytes
+  Uptime: 95315.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:09
+  CPU Usage: {"user":2188275,"nice":0,"sys":3157618,"idle":457018040,"irq":142727}
+  Memory Usage: Total: 16557891584 bytes, Free: 7714426880 bytes
+  Uptime: 95321.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:15
+  CPU Usage: {"user":2188338,"nice":0,"sys":3157774,"idle":457113945,"irq":142743}
+  Memory Usage: Total: 16557891584 bytes, Free: 7711330304 bytes
+  Uptime: 95327.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:21
+  CPU Usage: {"user":2188431,"nice":0,"sys":3158681,"idle":457208961,"irq":142759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7709233152 bytes
+  Uptime: 95333.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:27
+  CPU Usage: {"user":2188868,"nice":0,"sys":3159040,"idle":457304304,"irq":142759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7693488128 bytes
+  Uptime: 95339.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:33
+  CPU Usage: {"user":2189087,"nice":0,"sys":3159510,"idle":457399680,"irq":142759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7674155008 bytes
+  Uptime: 95345.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:39
+  CPU Usage: {"user":2189617,"nice":0,"sys":3159930,"idle":457494820,"irq":142774}
+  Memory Usage: Total: 16557891584 bytes, Free: 7661998080 bytes
+  Uptime: 95351.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:45
+  CPU Usage: {"user":2190259,"nice":0,"sys":3160494,"idle":457589698,"irq":142837}
+  Memory Usage: Total: 16557891584 bytes, Free: 7670738944 bytes
+  Uptime: 95357.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:51
+  CPU Usage: {"user":2190571,"nice":0,"sys":3161446,"idle":457684430,"irq":142852}
+  Memory Usage: Total: 16557891584 bytes, Free: 7664136192 bytes
+  Uptime: 95363.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:21:57
+  CPU Usage: {"user":2191244,"nice":0,"sys":3161713,"idle":457779759,"irq":142852}
+  Memory Usage: Total: 16557891584 bytes, Free: 7660015616 bytes
+  Uptime: 95369.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:03
+  CPU Usage: {"user":2191664,"nice":0,"sys":3161821,"idle":457875414,"irq":142852}
+  Memory Usage: Total: 16557891584 bytes, Free: 7646355456 bytes
+  Uptime: 95375.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:09
+  CPU Usage: {"user":2193054,"nice":0,"sys":3162632,"idle":457969524,"irq":142900}
+  Memory Usage: Total: 16557891584 bytes, Free: 7465218048 bytes
+  Uptime: 95381.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:15
+  CPU Usage: {"user":2193415,"nice":0,"sys":3163414,"idle":458064540,"irq":143024}
+  Memory Usage: Total: 16557891584 bytes, Free: 7509692416 bytes
+  Uptime: 95387.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:21
+  CPU Usage: {"user":2193727,"nice":0,"sys":3164385,"idle":458159320,"irq":143024}
+  Memory Usage: Total: 16557891584 bytes, Free: 7493697536 bytes
+  Uptime: 95393.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:27
+  CPU Usage: {"user":2193947,"nice":0,"sys":3164979,"idle":458254757,"irq":143024}
+  Memory Usage: Total: 16557891584 bytes, Free: 7480725504 bytes
+  Uptime: 95399.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:33
+  CPU Usage: {"user":2194305,"nice":0,"sys":3165181,"idle":458350445,"irq":143071}
+  Memory Usage: Total: 16557891584 bytes, Free: 7487946752 bytes
+  Uptime: 95405.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:39
+  CPU Usage: {"user":2194789,"nice":0,"sys":3165729,"idle":458445384,"irq":143087}
+  Memory Usage: Total: 16557891584 bytes, Free: 7556669440 bytes
+  Uptime: 95411.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:45
+  CPU Usage: {"user":2195462,"nice":0,"sys":3166463,"idle":458539978,"irq":143119}
+  Memory Usage: Total: 16557891584 bytes, Free: 7569428480 bytes
+  Uptime: 95417.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:51
+  CPU Usage: {"user":2195744,"nice":0,"sys":3167038,"idle":458635133,"irq":143150}
+  Memory Usage: Total: 16557891584 bytes, Free: 7563927552 bytes
+  Uptime: 95423.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:22:57
+  CPU Usage: {"user":2196743,"nice":0,"sys":3168118,"idle":458729354,"irq":143150}
+  Memory Usage: Total: 16557891584 bytes, Free: 7450464256 bytes
+  Uptime: 95429.437 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:03
+  CPU Usage: {"user":2196838,"nice":0,"sys":3168289,"idle":458825056,"irq":143181}
+  Memory Usage: Total: 16557891584 bytes, Free: 7461629952 bytes
+  Uptime: 95435.437 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:09
+  CPU Usage: {"user":2197165,"nice":0,"sys":3169039,"idle":458920258,"irq":143228}
+  Memory Usage: Total: 16557891584 bytes, Free: 7469199360 bytes
+  Uptime: 95441.453 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:15
+  CPU Usage: {"user":2197290,"nice":0,"sys":3169181,"idle":459016134,"irq":143228}
+  Memory Usage: Total: 16557891584 bytes, Free: 7496187904 bytes
+  Uptime: 95447.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:21
+  CPU Usage: {"user":2197695,"nice":0,"sys":3169385,"idle":459111539,"irq":143259}
+  Memory Usage: Total: 16557891584 bytes, Free: 7488913408 bytes
+  Uptime: 95453.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:27
+  CPU Usage: {"user":2198038,"nice":0,"sys":3170415,"idle":459206181,"irq":143290}
+  Memory Usage: Total: 16557891584 bytes, Free: 7500898304 bytes
+  Uptime: 95459.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:33
+  CPU Usage: {"user":2198211,"nice":0,"sys":3170556,"idle":459302118,"irq":143290}
+  Memory Usage: Total: 16557891584 bytes, Free: 7500005376 bytes
+  Uptime: 95465.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:39
+  CPU Usage: {"user":2198789,"nice":0,"sys":3170851,"idle":459397212,"irq":143337}
+  Memory Usage: Total: 16557891584 bytes, Free: 7516725248 bytes
+  Uptime: 95471.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:45
+  CPU Usage: {"user":2199260,"nice":0,"sys":3171072,"idle":459492883,"irq":143353}
+  Memory Usage: Total: 16557891584 bytes, Free: 7512903680 bytes
+  Uptime: 95477.5 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:51
+  CPU Usage: {"user":2199525,"nice":0,"sys":3171933,"idle":459588008,"irq":143416}
+  Memory Usage: Total: 16557891584 bytes, Free: 7511883776 bytes
+  Uptime: 95483.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:23:57
+  CPU Usage: {"user":2199868,"nice":0,"sys":3173214,"idle":459682385,"irq":143447}
+  Memory Usage: Total: 16557891584 bytes, Free: 7506604032 bytes
+  Uptime: 95489.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:03
+  CPU Usage: {"user":2200056,"nice":0,"sys":3173464,"idle":459778007,"irq":143447}
+  Memory Usage: Total: 16557891584 bytes, Free: 7516827648 bytes
+  Uptime: 95495.531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:09
+  CPU Usage: {"user":2200134,"nice":0,"sys":3173572,"idle":459873900,"irq":143462}
+  Memory Usage: Total: 16557891584 bytes, Free: 7517052928 bytes
+  Uptime: 95501.531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:15
+  CPU Usage: {"user":2200743,"nice":0,"sys":3173774,"idle":459969447,"irq":143494}
+  Memory Usage: Total: 16557891584 bytes, Free: 7467507712 bytes
+  Uptime: 95507.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:21
+  CPU Usage: {"user":2201713,"nice":0,"sys":3173945,"idle":460064538,"irq":143494}
+  Memory Usage: Total: 16557891584 bytes, Free: 7461539840 bytes
+  Uptime: 95513.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:27
+  CPU Usage: {"user":2202960,"nice":0,"sys":3174930,"idle":460158322,"irq":143494}
+  Memory Usage: Total: 16557891584 bytes, Free: 7464648704 bytes
+  Uptime: 95519.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:33
+  CPU Usage: {"user":2203587,"nice":0,"sys":3175557,"idle":460253071,"irq":143509}
+  Memory Usage: Total: 16557891584 bytes, Free: 7427194880 bytes
+  Uptime: 95525.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:39
+  CPU Usage: {"user":2204179,"nice":0,"sys":3176148,"idle":460348085,"irq":143525}
+  Memory Usage: Total: 16557891584 bytes, Free: 7481278464 bytes
+  Uptime: 95531.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:45
+  CPU Usage: {"user":2204273,"nice":0,"sys":3176384,"idle":460443696,"irq":143588}
+  Memory Usage: Total: 16557891584 bytes, Free: 7471816704 bytes
+  Uptime: 95537.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:51
+  CPU Usage: {"user":2205148,"nice":0,"sys":3176806,"idle":460538727,"irq":143588}
+  Memory Usage: Total: 16557891584 bytes, Free: 7389736960 bytes
+  Uptime: 95543.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:24:57
+  CPU Usage: {"user":2205195,"nice":0,"sys":3177932,"idle":460633478,"irq":143618}
+  Memory Usage: Total: 16557891584 bytes, Free: 7395958784 bytes
+  Uptime: 95549.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:03
+  CPU Usage: {"user":2205555,"nice":0,"sys":3178151,"idle":460729010,"irq":143650}
+  Memory Usage: Total: 16557891584 bytes, Free: 7410192384 bytes
+  Uptime: 95555.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:09
+  CPU Usage: {"user":2206589,"nice":0,"sys":3178354,"idle":460824023,"irq":143697}
+  Memory Usage: Total: 16557891584 bytes, Free: 7361175552 bytes
+  Uptime: 95561.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:15
+  CPU Usage: {"user":2207602,"nice":0,"sys":3178978,"idle":460918354,"irq":143759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7360266240 bytes
+  Uptime: 95567.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:21
+  CPU Usage: {"user":2208961,"nice":0,"sys":3179273,"idle":461012976,"irq":143775}
+  Memory Usage: Total: 16557891584 bytes, Free: 7414153216 bytes
+  Uptime: 95573.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:27
+  CPU Usage: {"user":2209820,"nice":0,"sys":3180040,"idle":461107336,"irq":143822}
+  Memory Usage: Total: 16557891584 bytes, Free: 7404060672 bytes
+  Uptime: 95579.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:33
+  CPU Usage: {"user":2210492,"nice":0,"sys":3181430,"idle":461201289,"irq":143837}
+  Memory Usage: Total: 16557891584 bytes, Free: 7419305984 bytes
+  Uptime: 95585.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:39
+  CPU Usage: {"user":2211167,"nice":0,"sys":3181868,"idle":461296385,"irq":143869}
+  Memory Usage: Total: 16557891584 bytes, Free: 7334649856 bytes
+  Uptime: 95591.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:45
+  CPU Usage: {"user":2211977,"nice":0,"sys":3182167,"idle":461391290,"irq":143884}
+  Memory Usage: Total: 16557891584 bytes, Free: 7305097216 bytes
+  Uptime: 95597.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:51
+  CPU Usage: {"user":2212133,"nice":0,"sys":3182386,"idle":461486946,"irq":143915}
+  Memory Usage: Total: 16557891584 bytes, Free: 7302803456 bytes
+  Uptime: 95603.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:25:57
+  CPU Usage: {"user":2212383,"nice":0,"sys":3182992,"idle":461582088,"irq":143947}
+  Memory Usage: Total: 16557891584 bytes, Free: 7339913216 bytes
+  Uptime: 95609.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:03
+  CPU Usage: {"user":2212743,"nice":0,"sys":3184883,"idle":461676041,"irq":143978}
+  Memory Usage: Total: 16557891584 bytes, Free: 7463362560 bytes
+  Uptime: 95615.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:09
+  CPU Usage: {"user":2213259,"nice":0,"sys":3185757,"idle":461770632,"irq":144056}
+  Memory Usage: Total: 16557891584 bytes, Free: 7479357440 bytes
+  Uptime: 95621.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:15
+  CPU Usage: {"user":2213539,"nice":0,"sys":3186319,"idle":461865760,"irq":144119}
+  Memory Usage: Total: 16557891584 bytes, Free: 7465746432 bytes
+  Uptime: 95627.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:21
+  CPU Usage: {"user":2213791,"nice":0,"sys":3186506,"idle":461961463,"irq":144134}
+  Memory Usage: Total: 16557891584 bytes, Free: 7459835904 bytes
+  Uptime: 95633.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:27
+  CPU Usage: {"user":2213962,"nice":0,"sys":3186664,"idle":462057336,"irq":144166}
+  Memory Usage: Total: 16557891584 bytes, Free: 7474978816 bytes
+  Uptime: 95639.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:33
+  CPU Usage: {"user":2214681,"nice":0,"sys":3187868,"idle":462151587,"irq":144244}
+  Memory Usage: Total: 16557891584 bytes, Free: 7471742976 bytes
+  Uptime: 95645.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:39
+  CPU Usage: {"user":2215040,"nice":0,"sys":3188117,"idle":462246994,"irq":144291}
+  Memory Usage: Total: 16557891584 bytes, Free: 7469359104 bytes
+  Uptime: 95651.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:45
+  CPU Usage: {"user":2215290,"nice":0,"sys":3188241,"idle":462342556,"irq":144291}
+  Memory Usage: Total: 16557891584 bytes, Free: 7461408768 bytes
+  Uptime: 95657.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:51
+  CPU Usage: {"user":2215461,"nice":0,"sys":3188367,"idle":462438556,"irq":144291}
+  Memory Usage: Total: 16557891584 bytes, Free: 7467425792 bytes
+  Uptime: 95663.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:26:58
+  CPU Usage: {"user":2215871,"nice":0,"sys":3188444,"idle":462534244,"irq":144291}
+  Memory Usage: Total: 16557891584 bytes, Free: 7441063936 bytes
+  Uptime: 95669.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:04
+  CPU Usage: {"user":2217087,"nice":0,"sys":3189600,"idle":462628023,"irq":144306}
+  Memory Usage: Total: 16557891584 bytes, Free: 7429545984 bytes
+  Uptime: 95675.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:10
+  CPU Usage: {"user":2218257,"nice":0,"sys":3189882,"idle":462722777,"irq":144322}
+  Memory Usage: Total: 16557891584 bytes, Free: 7432429568 bytes
+  Uptime: 95681.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:16
+  CPU Usage: {"user":2219118,"nice":0,"sys":3190320,"idle":462817574,"irq":144353}
+  Memory Usage: Total: 16557891584 bytes, Free: 7420153856 bytes
+  Uptime: 95687.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:22
+  CPU Usage: {"user":2219788,"nice":0,"sys":3191211,"idle":462912211,"irq":144416}
+  Memory Usage: Total: 16557891584 bytes, Free: 7446339584 bytes
+  Uptime: 95693.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:28
+  CPU Usage: {"user":2221147,"nice":0,"sys":3191916,"idle":463006071,"irq":144572}
+  Memory Usage: Total: 16557891584 bytes, Free: 7282352128 bytes
+  Uptime: 95699.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:34
+  CPU Usage: {"user":2221242,"nice":0,"sys":3192946,"idle":463101010,"irq":144604}
+  Memory Usage: Total: 16557891584 bytes, Free: 7322914816 bytes
+  Uptime: 95705.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:40
+  CPU Usage: {"user":2221431,"nice":0,"sys":3193369,"idle":463196665,"irq":144635}
+  Memory Usage: Total: 16557891584 bytes, Free: 7327469568 bytes
+  Uptime: 95711.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:46
+  CPU Usage: {"user":2221932,"nice":0,"sys":3194633,"idle":463291119,"irq":144666}
+  Memory Usage: Total: 16557891584 bytes, Free: 7327375360 bytes
+  Uptime: 95717.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:52
+  CPU Usage: {"user":2222150,"nice":0,"sys":3194977,"idle":463386525,"irq":144698}
+  Memory Usage: Total: 16557891584 bytes, Free: 7351943168 bytes
+  Uptime: 95723.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:27:58
+  CPU Usage: {"user":2222868,"nice":0,"sys":3195165,"idle":463481930,"irq":144713}
+  Memory Usage: Total: 16557891584 bytes, Free: 7411568640 bytes
+  Uptime: 95729.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:04
+  CPU Usage: {"user":2223728,"nice":0,"sys":3195758,"idle":463576432,"irq":144729}
+  Memory Usage: Total: 16557891584 bytes, Free: 7396933632 bytes
+  Uptime: 95735.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:10
+  CPU Usage: {"user":2225102,"nice":0,"sys":3196492,"idle":463670587,"irq":144760}
+  Memory Usage: Total: 16557891584 bytes, Free: 7385313280 bytes
+  Uptime: 95741.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:16
+  CPU Usage: {"user":2227071,"nice":0,"sys":3196697,"idle":463764385,"irq":144823}
+  Memory Usage: Total: 16557891584 bytes, Free: 7362191360 bytes
+  Uptime: 95747.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:22
+  CPU Usage: {"user":2228386,"nice":0,"sys":3197384,"idle":463858679,"irq":144870}
+  Memory Usage: Total: 16557891584 bytes, Free: 7348723712 bytes
+  Uptime: 95753.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:28
+  CPU Usage: {"user":2228759,"nice":0,"sys":3197713,"idle":463954196,"irq":144885}
+  Memory Usage: Total: 16557891584 bytes, Free: 7460753408 bytes
+  Uptime: 95759.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:34
+  CPU Usage: {"user":2229133,"nice":0,"sys":3198258,"idle":464049274,"irq":144885}
+  Memory Usage: Total: 16557891584 bytes, Free: 7462072320 bytes
+  Uptime: 95765.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:40
+  CPU Usage: {"user":2229211,"nice":0,"sys":3199290,"idle":464144164,"irq":144885}
+  Memory Usage: Total: 16557891584 bytes, Free: 7465328640 bytes
+  Uptime: 95771.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:46
+  CPU Usage: {"user":2229696,"nice":0,"sys":3199587,"idle":464239415,"irq":144916}
+  Memory Usage: Total: 16557891584 bytes, Free: 7442649088 bytes
+  Uptime: 95777.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:52
+  CPU Usage: {"user":2230444,"nice":0,"sys":3200023,"idle":464334415,"irq":144995}
+  Memory Usage: Total: 16557891584 bytes, Free: 7445192704 bytes
+  Uptime: 95783.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:28:58
+  CPU Usage: {"user":2230869,"nice":0,"sys":3200243,"idle":464430101,"irq":144995}
+  Memory Usage: Total: 16557891584 bytes, Free: 7442141184 bytes
+  Uptime: 95789.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:04
+  CPU Usage: {"user":2231008,"nice":0,"sys":3200461,"idle":464525837,"irq":144995}
+  Memory Usage: Total: 16557891584 bytes, Free: 7457193984 bytes
+  Uptime: 95795.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:10
+  CPU Usage: {"user":2231352,"nice":0,"sys":3201647,"idle":464620351,"irq":145026}
+  Memory Usage: Total: 16557891584 bytes, Free: 7382958080 bytes
+  Uptime: 95801.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:16
+  CPU Usage: {"user":2232525,"nice":0,"sys":3201961,"idle":464714885,"irq":145057}
+  Memory Usage: Total: 16557891584 bytes, Free: 7402196992 bytes
+  Uptime: 95807.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:22
+  CPU Usage: {"user":2233354,"nice":0,"sys":3202354,"idle":464809713,"irq":145072}
+  Memory Usage: Total: 16557891584 bytes, Free: 7397474304 bytes
+  Uptime: 95813.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:28
+  CPU Usage: {"user":2234837,"nice":0,"sys":3203198,"idle":464903510,"irq":145135}
+  Memory Usage: Total: 16557891584 bytes, Free: 7379881984 bytes
+  Uptime: 95819.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:34
+  CPU Usage: {"user":2235945,"nice":0,"sys":3204150,"idle":464997619,"irq":145182}
+  Memory Usage: Total: 16557891584 bytes, Free: 7420354560 bytes
+  Uptime: 95825.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:40
+  CPU Usage: {"user":2236899,"nice":0,"sys":3205118,"idle":465091899,"irq":145243}
+  Memory Usage: Total: 16557891584 bytes, Free: 7361531904 bytes
+  Uptime: 95831.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:46
+  CPU Usage: {"user":2237131,"nice":0,"sys":3205307,"idle":465187523,"irq":145275}
+  Memory Usage: Total: 16557891584 bytes, Free: 7366795264 bytes
+  Uptime: 95837.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:52
+  CPU Usage: {"user":2237836,"nice":0,"sys":3205882,"idle":465282431,"irq":145306}
+  Memory Usage: Total: 16557891584 bytes, Free: 7424204800 bytes
+  Uptime: 95843.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:29:58
+  CPU Usage: {"user":2237993,"nice":0,"sys":3206103,"idle":465377962,"irq":145306}
+  Memory Usage: Total: 16557891584 bytes, Free: 7411720192 bytes
+  Uptime: 95849.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:04
+  CPU Usage: {"user":2259038,"nice":0,"sys":3213679,"idle":465445462,"irq":145368}
+  Memory Usage: Total: 16557891584 bytes, Free: 7216365568 bytes
+  Uptime: 95855.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:10
+  CPU Usage: {"user":2277040,"nice":0,"sys":3221618,"idle":465515713,"irq":145555}
+  Memory Usage: Total: 16557891584 bytes, Free: 7339749376 bytes
+  Uptime: 95861.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:16
+  CPU Usage: {"user":2306790,"nice":0,"sys":3233773,"idle":465569713,"irq":145837}
+  Memory Usage: Total: 16557891584 bytes, Free: 7209009152 bytes
+  Uptime: 95867.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:22
+  CPU Usage: {"user":2341744,"nice":0,"sys":3246382,"idle":465618588,"irq":146008}
+  Memory Usage: Total: 16557891584 bytes, Free: 7281164288 bytes
+  Uptime: 95873.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:28
+  CPU Usage: {"user":2364992,"nice":0,"sys":3255086,"idle":465682602,"irq":146147}
+  Memory Usage: Total: 16557891584 bytes, Free: 7368781824 bytes
+  Uptime: 95879.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:34
+  CPU Usage: {"user":2386509,"nice":0,"sys":3262962,"idle":465749179,"irq":146226}
+  Memory Usage: Total: 16557891584 bytes, Free: 7414231040 bytes
+  Uptime: 95885.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:40
+  CPU Usage: {"user":2411288,"nice":0,"sys":3271726,"idle":465811664,"irq":146461}
+  Memory Usage: Total: 16557891584 bytes, Free: 7374405632 bytes
+  Uptime: 95891.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:46
+  CPU Usage: {"user":2438619,"nice":0,"sys":3280777,"idle":465872353,"irq":146586}
+  Memory Usage: Total: 16557891584 bytes, Free: 7291166720 bytes
+  Uptime: 95898.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:52
+  CPU Usage: {"user":2469695,"nice":0,"sys":3290087,"idle":465927072,"irq":146680}
+  Memory Usage: Total: 16557891584 bytes, Free: 7299944448 bytes
+  Uptime: 95903.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:30:58
+  CPU Usage: {"user":2494055,"nice":0,"sys":3298477,"idle":465990604,"irq":146852}
+  Memory Usage: Total: 16557891584 bytes, Free: 7508262912 bytes
+  Uptime: 95910 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:04
+  CPU Usage: {"user":2516446,"nice":0,"sys":3306650,"idle":466056227,"irq":146944}
+  Memory Usage: Total: 16557891584 bytes, Free: 7568080896 bytes
+  Uptime: 95916.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:10
+  CPU Usage: {"user":2536431,"nice":0,"sys":3314788,"idle":466124259,"irq":146992}
+  Memory Usage: Total: 16557891584 bytes, Free: 7547125760 bytes
+  Uptime: 95922.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:16
+  CPU Usage: {"user":2564461,"nice":0,"sys":3326538,"idle":466182118,"irq":147070}
+  Memory Usage: Total: 16557891584 bytes, Free: 7378219008 bytes
+  Uptime: 95928.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:22
+  CPU Usage: {"user":2599539,"nice":0,"sys":3337070,"idle":466231242,"irq":147147}
+  Memory Usage: Total: 16557891584 bytes, Free: 7307522048 bytes
+  Uptime: 95934.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:28
+  CPU Usage: {"user":2622476,"nice":0,"sys":3344901,"idle":466296774,"irq":147397}
+  Memory Usage: Total: 16557891584 bytes, Free: 7410884608 bytes
+  Uptime: 95940.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:34
+  CPU Usage: {"user":2642538,"nice":0,"sys":3350945,"idle":466366931,"irq":147476}
+  Memory Usage: Total: 16557891584 bytes, Free: 7458263040 bytes
+  Uptime: 95946.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:40
+  CPU Usage: {"user":2663665,"nice":0,"sys":3358181,"idle":466434727,"irq":147555}
+  Memory Usage: Total: 16557891584 bytes, Free: 7462793216 bytes
+  Uptime: 95952.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:46
+  CPU Usage: {"user":2693150,"nice":0,"sys":3367650,"idle":466493088,"irq":147711}
+  Memory Usage: Total: 16557891584 bytes, Free: 7258308608 bytes
+  Uptime: 95958.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:52
+  CPU Usage: {"user":2726055,"nice":0,"sys":3377384,"idle":466545586,"irq":147869}
+  Memory Usage: Total: 16557891584 bytes, Free: 7183605760 bytes
+  Uptime: 95964.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:31:58
+  CPU Usage: {"user":2746118,"nice":0,"sys":3385339,"idle":466613742,"irq":147931}
+  Memory Usage: Total: 16557891584 bytes, Free: 7419183104 bytes
+  Uptime: 95970.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:04
+  CPU Usage: {"user":2769708,"nice":0,"sys":3394759,"idle":466676635,"irq":148072}
+  Memory Usage: Total: 16557891584 bytes, Free: 7502311424 bytes
+  Uptime: 95976.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:10
+  CPU Usage: {"user":2794759,"nice":0,"sys":3403149,"idle":466739509,"irq":148277}
+  Memory Usage: Total: 16557891584 bytes, Free: 7489912832 bytes
+  Uptime: 95982.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:16
+  CPU Usage: {"user":2827868,"nice":0,"sys":3414964,"idle":466791619,"irq":148464}
+  Memory Usage: Total: 16557891584 bytes, Free: 7351828480 bytes
+  Uptime: 95988.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:22
+  CPU Usage: {"user":2854070,"nice":0,"sys":3423837,"idle":466852071,"irq":148620}
+  Memory Usage: Total: 16557891584 bytes, Free: 7324618752 bytes
+  Uptime: 95994.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:28
+  CPU Usage: {"user":2876617,"nice":0,"sys":3432429,"idle":466917134,"irq":148699}
+  Memory Usage: Total: 16557891584 bytes, Free: 7423311872 bytes
+  Uptime: 96000.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:34
+  CPU Usage: {"user":2897744,"nice":0,"sys":3440303,"idle":466984304,"irq":148730}
+  Memory Usage: Total: 16557891584 bytes, Free: 7495786496 bytes
+  Uptime: 96006.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:40
+  CPU Usage: {"user":2919166,"nice":0,"sys":3449228,"idle":467050228,"irq":148839}
+  Memory Usage: Total: 16557891584 bytes, Free: 7488466944 bytes
+  Uptime: 96012.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:46
+  CPU Usage: {"user":2947977,"nice":0,"sys":3460977,"idle":467108588,"irq":148947}
+  Memory Usage: Total: 16557891584 bytes, Free: 7316234240 bytes
+  Uptime: 96018.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:52
+  CPU Usage: {"user":2979744,"nice":0,"sys":3471948,"idle":467159884,"irq":149133}
+  Memory Usage: Total: 16557891584 bytes, Free: 7411974144 bytes
+  Uptime: 96024.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:32:58
+  CPU Usage: {"user":3000181,"nice":0,"sys":3480554,"idle":467226977,"irq":149227}
+  Memory Usage: Total: 16557891584 bytes, Free: 7518097408 bytes
+  Uptime: 96030.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:04
+  CPU Usage: {"user":3023323,"nice":0,"sys":3487679,"idle":467292651,"irq":149289}
+  Memory Usage: Total: 16557891584 bytes, Free: 7541116928 bytes
+  Uptime: 96036.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:10
+  CPU Usage: {"user":3043666,"nice":0,"sys":3495022,"idle":467361507,"irq":149351}
+  Memory Usage: Total: 16557891584 bytes, Free: 7545126912 bytes
+  Uptime: 96042.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:16
+  CPU Usage: {"user":3072117,"nice":0,"sys":3504463,"idle":467422053,"irq":149493}
+  Memory Usage: Total: 16557891584 bytes, Free: 7374090240 bytes
+  Uptime: 96048.531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:22
+  CPU Usage: {"user":3102447,"nice":0,"sys":3514008,"idle":467475960,"irq":149775}
+  Memory Usage: Total: 16557891584 bytes, Free: 7368781824 bytes
+  Uptime: 96054.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:28
+  CPU Usage: {"user":3121652,"nice":0,"sys":3520541,"idle":467546494,"irq":149853}
+  Memory Usage: Total: 16557891584 bytes, Free: 7439515648 bytes
+  Uptime: 96060.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:34
+  CPU Usage: {"user":3142494,"nice":0,"sys":3527369,"idle":467614744,"irq":150010}
+  Memory Usage: Total: 16557891584 bytes, Free: 7441088512 bytes
+  Uptime: 96066.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:40
+  CPU Usage: {"user":3166149,"nice":0,"sys":3536539,"idle":467677884,"irq":150104}
+  Memory Usage: Total: 16557891584 bytes, Free: 7516123136 bytes
+  Uptime: 96072.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:46
+  CPU Usage: {"user":3193072,"nice":0,"sys":3546337,"idle":467740040,"irq":150244}
+  Memory Usage: Total: 16557891584 bytes, Free: 7392153600 bytes
+  Uptime: 96078.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:52
+  CPU Usage: {"user":3223602,"nice":0,"sys":3557368,"idle":467792180,"irq":150384}
+  Memory Usage: Total: 16557891584 bytes, Free: 7390404608 bytes
+  Uptime: 96084.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:33:58
+  CPU Usage: {"user":3245526,"nice":0,"sys":3565790,"idle":467857839,"irq":150447}
+  Memory Usage: Total: 16557891584 bytes, Free: 7504584704 bytes
+  Uptime: 96090.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:04
+  CPU Usage: {"user":3264836,"nice":0,"sys":3573057,"idle":467927462,"irq":150525}
+  Memory Usage: Total: 16557891584 bytes, Free: 7604301824 bytes
+  Uptime: 96096.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:10
+  CPU Usage: {"user":3284118,"nice":0,"sys":3580101,"idle":467997696,"irq":150696}
+  Memory Usage: Total: 16557891584 bytes, Free: 7568453632 bytes
+  Uptime: 96102.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:16
+  CPU Usage: {"user":3308899,"nice":0,"sys":3588823,"idle":468061930,"irq":150853}
+  Memory Usage: Total: 16557891584 bytes, Free: 7369641984 bytes
+  Uptime: 96108.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:22
+  CPU Usage: {"user":3337615,"nice":0,"sys":3598759,"idle":468117634,"irq":150900}
+  Memory Usage: Total: 16557891584 bytes, Free: 7408164864 bytes
+  Uptime: 96114.437 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:28
+  CPU Usage: {"user":3360822,"nice":0,"sys":3606992,"idle":468182540,"irq":150993}
+  Memory Usage: Total: 16557891584 bytes, Free: 7498133504 bytes
+  Uptime: 96120.453 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:34
+  CPU Usage: {"user":3381119,"nice":0,"sys":3614337,"idle":468250916,"irq":151040}
+  Memory Usage: Total: 16557891584 bytes, Free: 7588462592 bytes
+  Uptime: 96126.453 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:40
+  CPU Usage: {"user":3402370,"nice":0,"sys":3621759,"idle":468318275,"irq":151072}
+  Memory Usage: Total: 16557891584 bytes, Free: 7563218944 bytes
+  Uptime: 96132.453 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:46
+  CPU Usage: {"user":3429976,"nice":0,"sys":3633119,"idle":468377164,"irq":151228}
+  Memory Usage: Total: 16557891584 bytes, Free: 7359676416 bytes
+  Uptime: 96138.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:52
+  CPU Usage: {"user":3460303,"nice":0,"sys":3643149,"idle":468431165,"irq":151385}
+  Memory Usage: Total: 16557891584 bytes, Free: 7403085824 bytes
+  Uptime: 96144.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:34:58
+  CPU Usage: {"user":3483805,"nice":0,"sys":3653602,"idle":468493477,"irq":151494}
+  Memory Usage: Total: 16557891584 bytes, Free: 7502614528 bytes
+  Uptime: 96150.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:04
+  CPU Usage: {"user":3505429,"nice":0,"sys":3661524,"idle":468560259,"irq":151510}
+  Memory Usage: Total: 16557891584 bytes, Free: 7578259456 bytes
+  Uptime: 96156.5 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:10
+  CPU Usage: {"user":3528588,"nice":0,"sys":3669117,"idle":468625477,"irq":151542}
+  Memory Usage: Total: 16557891584 bytes, Free: 7569666048 bytes
+  Uptime: 96162.5 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:16
+  CPU Usage: {"user":3556993,"nice":0,"sys":3678211,"idle":468684554,"irq":151588}
+  Memory Usage: Total: 16557891584 bytes, Free: 7420567552 bytes
+  Uptime: 96168.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:22
+  CPU Usage: {"user":3586073,"nice":0,"sys":3689711,"idle":468739573,"irq":151759}
+  Memory Usage: Total: 16557891584 bytes, Free: 7600144384 bytes
+  Uptime: 96174.515 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:28
+  CPU Usage: {"user":3606383,"nice":0,"sys":3697744,"idle":468807507,"irq":151789}
+  Memory Usage: Total: 16557891584 bytes, Free: 7737040896 bytes
+  Uptime: 96180.531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:34
+  CPU Usage: {"user":3631089,"nice":0,"sys":3705570,"idle":468871039,"irq":151900}
+  Memory Usage: Total: 16557891584 bytes, Free: 7713132544 bytes
+  Uptime: 96186.531 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:40
+  CPU Usage: {"user":3652429,"nice":0,"sys":3711759,"idle":468939760,"irq":151992}
+  Memory Usage: Total: 16557891584 bytes, Free: 7688388608 bytes
+  Uptime: 96192.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:46
+  CPU Usage: {"user":3684414,"nice":0,"sys":3720727,"idle":468995976,"irq":152149}
+  Memory Usage: Total: 16557891584 bytes, Free: 7552016384 bytes
+  Uptime: 96198.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:52
+  CPU Usage: {"user":3716306,"nice":0,"sys":3729461,"idle":469050320,"irq":152259}
+  Memory Usage: Total: 16557891584 bytes, Free: 7460868096 bytes
+  Uptime: 96204.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:35:58
+  CPU Usage: {"user":3740259,"nice":0,"sys":3739164,"idle":469112993,"irq":152383}
+  Memory Usage: Total: 16557891584 bytes, Free: 7621201920 bytes
+  Uptime: 96210.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:04
+  CPU Usage: {"user":3758915,"nice":0,"sys":3746852,"idle":469182663,"irq":152556}
+  Memory Usage: Total: 16557891584 bytes, Free: 7725105152 bytes
+  Uptime: 96216.578 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:10
+  CPU Usage: {"user":3780134,"nice":0,"sys":3755133,"idle":469249368,"irq":152634}
+  Memory Usage: Total: 16557891584 bytes, Free: 7678341120 bytes
+  Uptime: 96222.593 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:16
+  CPU Usage: {"user":3805385,"nice":0,"sys":3764821,"idle":469310916,"irq":152822}
+  Memory Usage: Total: 16557891584 bytes, Free: 7520272384 bytes
+  Uptime: 96228.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:22
+  CPU Usage: {"user":3844306,"nice":0,"sys":3775587,"idle":469357162,"irq":153039}
+  Memory Usage: Total: 16557891584 bytes, Free: 7489617920 bytes
+  Uptime: 96234.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:28
+  CPU Usage: {"user":3864399,"nice":0,"sys":3783978,"idle":469424727,"irq":153117}
+  Memory Usage: Total: 16557891584 bytes, Free: 7690346496 bytes
+  Uptime: 96240.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:34
+  CPU Usage: {"user":3887789,"nice":0,"sys":3792711,"idle":469488901,"irq":153211}
+  Memory Usage: Total: 16557891584 bytes, Free: 7687196672 bytes
+  Uptime: 96246.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:40
+  CPU Usage: {"user":3908086,"nice":0,"sys":3801088,"idle":469556150,"irq":153289}
+  Memory Usage: Total: 16557891584 bytes, Free: 7613181952 bytes
+  Uptime: 96252.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:47
+  CPU Usage: {"user":3941710,"nice":0,"sys":3812116,"idle":469611025,"irq":153445}
+  Memory Usage: Total: 16557891584 bytes, Free: 7443132416 bytes
+  Uptime: 96259 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:52
+  CPU Usage: {"user":3967791,"nice":0,"sys":3820804,"idle":469669322,"irq":153601}
+  Memory Usage: Total: 16557891584 bytes, Free: 7652741120 bytes
+  Uptime: 96264.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:36:58
+  CPU Usage: {"user":3967995,"nice":0,"sys":3821101,"idle":469765027,"irq":153617}
+  Memory Usage: Total: 16557891584 bytes, Free: 7734988800 bytes
+  Uptime: 96270.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:04
+  CPU Usage: {"user":3968259,"nice":0,"sys":3822147,"idle":469859898,"irq":153617}
+  Memory Usage: Total: 16557891584 bytes, Free: 7743799296 bytes
+  Uptime: 96276.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:11
+  CPU Usage: {"user":3968306,"nice":0,"sys":3822319,"idle":469956088,"irq":153617}
+  Memory Usage: Total: 16557891584 bytes, Free: 7770677248 bytes
+  Uptime: 96282.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:17
+  CPU Usage: {"user":3968588,"nice":0,"sys":3824539,"idle":470049478,"irq":153617}
+  Memory Usage: Total: 16557891584 bytes, Free: 7745679360 bytes
+  Uptime: 96288.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:23
+  CPU Usage: {"user":3970165,"nice":0,"sys":3826150,"idle":470142569,"irq":153649}
+  Memory Usage: Total: 16557891584 bytes, Free: 7650349056 bytes
+  Uptime: 96294.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:29
+  CPU Usage: {"user":3970306,"nice":0,"sys":3826338,"idle":470238448,"irq":153649}
+  Memory Usage: Total: 16557891584 bytes, Free: 7685193728 bytes
+  Uptime: 96300.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:35
+  CPU Usage: {"user":3970368,"nice":0,"sys":3827461,"idle":470333368,"irq":153664}
+  Memory Usage: Total: 16557891584 bytes, Free: 7664336896 bytes
+  Uptime: 96306.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:41
+  CPU Usage: {"user":3970447,"nice":0,"sys":3828508,"idle":470428509,"irq":153679}
+  Memory Usage: Total: 16557891584 bytes, Free: 7677853696 bytes
+  Uptime: 96312.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:47
+  CPU Usage: {"user":3970541,"nice":0,"sys":3830211,"idle":470522651,"irq":153679}
+  Memory Usage: Total: 16557891584 bytes, Free: 7686922240 bytes
+  Uptime: 96318.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:53
+  CPU Usage: {"user":3970666,"nice":0,"sys":3831416,"idle":470617554,"irq":153710}
+  Memory Usage: Total: 16557891584 bytes, Free: 7702118400 bytes
+  Uptime: 96324.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:37:59
+  CPU Usage: {"user":3971353,"nice":0,"sys":3832369,"idle":470711946,"irq":153726}
+  Memory Usage: Total: 16557891584 bytes, Free: 7611138048 bytes
+  Uptime: 96330.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:05
+  CPU Usage: {"user":3971525,"nice":0,"sys":3834164,"idle":470805900,"irq":153726}
+  Memory Usage: Total: 16557891584 bytes, Free: 7678496768 bytes
+  Uptime: 96336.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:11
+  CPU Usage: {"user":3972087,"nice":0,"sys":3835585,"idle":470900261,"irq":153835}
+  Memory Usage: Total: 16557891584 bytes, Free: 7694024704 bytes
+  Uptime: 96342.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:17
+  CPU Usage: {"user":3972431,"nice":0,"sys":3837554,"idle":470993978,"irq":153898}
+  Memory Usage: Total: 16557891584 bytes, Free: 7757512704 bytes
+  Uptime: 96348.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:23
+  CPU Usage: {"user":3973134,"nice":0,"sys":3838772,"idle":471088290,"irq":153960}
+  Memory Usage: Total: 16557891584 bytes, Free: 7756210176 bytes
+  Uptime: 96354.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:29
+  CPU Usage: {"user":3973492,"nice":0,"sys":3839883,"idle":471182962,"irq":153992}
+  Memory Usage: Total: 16557891584 bytes, Free: 7760424960 bytes
+  Uptime: 96360.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:35
+  CPU Usage: {"user":3974102,"nice":0,"sys":3841835,"idle":471276477,"irq":154055}
+  Memory Usage: Total: 16557891584 bytes, Free: 7756271616 bytes
+  Uptime: 96366.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:41
+  CPU Usage: {"user":3974416,"nice":0,"sys":3842914,"idle":471371367,"irq":154132}
+  Memory Usage: Total: 16557891584 bytes, Free: 7750139904 bytes
+  Uptime: 96372.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:47
+  CPU Usage: {"user":3974992,"nice":0,"sys":3844663,"idle":471465055,"irq":154179}
+  Memory Usage: Total: 16557891584 bytes, Free: 7747280896 bytes
+  Uptime: 96378.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:53
+  CPU Usage: {"user":3975554,"nice":0,"sys":3845787,"idle":471559448,"irq":154195}
+  Memory Usage: Total: 16557891584 bytes, Free: 7732580352 bytes
+  Uptime: 96384.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:38:59
+  CPU Usage: {"user":3975931,"nice":0,"sys":3846850,"idle":471654134,"irq":154195}
+  Memory Usage: Total: 16557891584 bytes, Free: 7771271168 bytes
+  Uptime: 96390.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:05
+  CPU Usage: {"user":3976713,"nice":0,"sys":3848538,"idle":471747774,"irq":154210}
+  Memory Usage: Total: 16557891584 bytes, Free: 7726026752 bytes
+  Uptime: 96396.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:11
+  CPU Usage: {"user":3977072,"nice":0,"sys":3850041,"idle":471842306,"irq":154241}
+  Memory Usage: Total: 16557891584 bytes, Free: 7727337472 bytes
+  Uptime: 96402.89 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:17
+  CPU Usage: {"user":3977398,"nice":0,"sys":3852196,"idle":471935978,"irq":154273}
+  Memory Usage: Total: 16557891584 bytes, Free: 7711092736 bytes
+  Uptime: 96408.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:23
+  CPU Usage: {"user":3977681,"nice":0,"sys":3853510,"idle":472030524,"irq":154288}
+  Memory Usage: Total: 16557891584 bytes, Free: 7714971648 bytes
+  Uptime: 96414.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:29
+  CPU Usage: {"user":3977711,"nice":0,"sys":3854585,"idle":472125399,"irq":154320}
+  Memory Usage: Total: 16557891584 bytes, Free: 7746838528 bytes
+  Uptime: 96420.906 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:35
+  CPU Usage: {"user":3978321,"nice":0,"sys":3854742,"idle":472220791,"irq":154320}
+  Memory Usage: Total: 16557891584 bytes, Free: 7818117120 bytes
+  Uptime: 96426.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:41
+  CPU Usage: {"user":3978947,"nice":0,"sys":3856178,"idle":472314725,"irq":154320}
+  Memory Usage: Total: 16557891584 bytes, Free: 7821877248 bytes
+  Uptime: 96432.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:47
+  CPU Usage: {"user":3979151,"nice":0,"sys":3856430,"idle":472410383,"irq":154336}
+  Memory Usage: Total: 16557891584 bytes, Free: 7828246528 bytes
+  Uptime: 96438.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:53
+  CPU Usage: {"user":3979369,"nice":0,"sys":3856618,"idle":472505820,"irq":154336}
+  Memory Usage: Total: 16557891584 bytes, Free: 7817887744 bytes
+  Uptime: 96444.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:39:59
+  CPU Usage: {"user":3979759,"nice":0,"sys":3858117,"idle":472600337,"irq":154383}
+  Memory Usage: Total: 16557891584 bytes, Free: 7833169920 bytes
+  Uptime: 96450.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:05
+  CPU Usage: {"user":3980866,"nice":0,"sys":3859994,"idle":472693541,"irq":154430}
+  Memory Usage: Total: 16557891584 bytes, Free: 7605125120 bytes
+  Uptime: 96456.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:11
+  CPU Usage: {"user":3981055,"nice":0,"sys":3862416,"idle":472786900,"irq":154461}
+  Memory Usage: Total: 16557891584 bytes, Free: 7672995840 bytes
+  Uptime: 96462.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:17
+  CPU Usage: {"user":3981759,"nice":0,"sys":3863883,"idle":472881071,"irq":154477}
+  Memory Usage: Total: 16557891584 bytes, Free: 7671357440 bytes
+  Uptime: 96468.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:23
+  CPU Usage: {"user":3981961,"nice":0,"sys":3865852,"idle":472974868,"irq":154525}
+  Memory Usage: Total: 16557891584 bytes, Free: 7801405440 bytes
+  Uptime: 96474.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:29
+  CPU Usage: {"user":3982148,"nice":0,"sys":3867665,"idle":473069087,"irq":154540}
+  Memory Usage: Total: 16557891584 bytes, Free: 7841095680 bytes
+  Uptime: 96480.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:35
+  CPU Usage: {"user":3982415,"nice":0,"sys":3868649,"idle":473164070,"irq":154571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7916363776 bytes
+  Uptime: 96487 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:41
+  CPU Usage: {"user":3982540,"nice":0,"sys":3872181,"idle":473256415,"irq":154587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7925882880 bytes
+  Uptime: 96493 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:47
+  CPU Usage: {"user":3982649,"nice":0,"sys":3873382,"idle":473351431,"irq":154587}
+  Memory Usage: Total: 16557891584 bytes, Free: 7932375040 bytes
+  Uptime: 96499.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:53
+  CPU Usage: {"user":3982867,"nice":0,"sys":3874414,"idle":473446366,"irq":154603}
+  Memory Usage: Total: 16557891584 bytes, Free: 7878066176 bytes
+  Uptime: 96505.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:40:59
+  CPU Usage: {"user":3983509,"nice":0,"sys":3875931,"idle":473540226,"irq":154665}
+  Memory Usage: Total: 16557891584 bytes, Free: 7858958336 bytes
+  Uptime: 96511.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:05
+  CPU Usage: {"user":3983759,"nice":0,"sys":3877025,"idle":473634897,"irq":154681}
+  Memory Usage: Total: 16557891584 bytes, Free: 7858749440 bytes
+  Uptime: 96517.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:11
+  CPU Usage: {"user":3984289,"nice":0,"sys":3878757,"idle":473728788,"irq":154728}
+  Memory Usage: Total: 16557891584 bytes, Free: 7870320640 bytes
+  Uptime: 96523.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:17
+  CPU Usage: {"user":3984790,"nice":0,"sys":3879569,"idle":473823508,"irq":154743}
+  Memory Usage: Total: 16557891584 bytes, Free: 7874637824 bytes
+  Uptime: 96529.046 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:23
+  CPU Usage: {"user":3985322,"nice":0,"sys":3880273,"idle":473918619,"irq":154790}
+  Memory Usage: Total: 16557891584 bytes, Free: 7910461440 bytes
+  Uptime: 96535.062 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:29
+  CPU Usage: {"user":3985870,"nice":0,"sys":3880476,"idle":474014010,"irq":154805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7935873024 bytes
+  Uptime: 96541.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:35
+  CPU Usage: {"user":3986977,"nice":0,"sys":3880663,"idle":474108775,"irq":154821}
+  Memory Usage: Total: 16557891584 bytes, Free: 7875424256 bytes
+  Uptime: 96547.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:41
+  CPU Usage: {"user":3988885,"nice":0,"sys":3881600,"idle":474201928,"irq":154837}
+  Memory Usage: Total: 16557891584 bytes, Free: 7816753152 bytes
+  Uptime: 96553.078 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:47
+  CPU Usage: {"user":3990461,"nice":0,"sys":3881883,"idle":474296352,"irq":154852}
+  Memory Usage: Total: 16557891584 bytes, Free: 7808581632 bytes
+  Uptime: 96559.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:53
+  CPU Usage: {"user":3991993,"nice":0,"sys":3882070,"idle":474390602,"irq":154852}
+  Memory Usage: Total: 16557891584 bytes, Free: 7797760000 bytes
+  Uptime: 96565.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:41:59
+  CPU Usage: {"user":3993055,"nice":0,"sys":3882477,"idle":474485273,"irq":154915}
+  Memory Usage: Total: 16557891584 bytes, Free: 7780548608 bytes
+  Uptime: 96571.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:05
+  CPU Usage: {"user":3994211,"nice":0,"sys":3883711,"idle":474578992,"irq":154931}
+  Memory Usage: Total: 16557891584 bytes, Free: 7771914240 bytes
+  Uptime: 96577.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:11
+  CPU Usage: {"user":3994945,"nice":0,"sys":3884211,"idle":474673961,"irq":154946}
+  Memory Usage: Total: 16557891584 bytes, Free: 7760793600 bytes
+  Uptime: 96583.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:17
+  CPU Usage: {"user":3995258,"nice":0,"sys":3885555,"idle":474768304,"irq":155008}
+  Memory Usage: Total: 16557891584 bytes, Free: 7972921344 bytes
+  Uptime: 96589.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:23
+  CPU Usage: {"user":3995431,"nice":0,"sys":3885790,"idle":474863961,"irq":155071}
+  Memory Usage: Total: 16557891584 bytes, Free: 7973408768 bytes
+  Uptime: 96595.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:29
+  CPU Usage: {"user":3995932,"nice":0,"sys":3886038,"idle":474959383,"irq":155087}
+  Memory Usage: Total: 16557891584 bytes, Free: 7953453056 bytes
+  Uptime: 96601.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:35
+  CPU Usage: {"user":3997179,"nice":0,"sys":3886258,"idle":475054226,"irq":155087}
+  Memory Usage: Total: 16557891584 bytes, Free: 7899475968 bytes
+  Uptime: 96607.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:41
+  CPU Usage: {"user":3999088,"nice":0,"sys":3886492,"idle":475148258,"irq":155102}
+  Memory Usage: Total: 16557891584 bytes, Free: 7902367744 bytes
+  Uptime: 96613.171 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:47
+  CPU Usage: {"user":4000978,"nice":0,"sys":3887290,"idle":475241883,"irq":155133}
+  Memory Usage: Total: 16557891584 bytes, Free: 7790178304 bytes
+  Uptime: 96619.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:53
+  CPU Usage: {"user":4002649,"nice":0,"sys":3887507,"idle":475335993,"irq":155133}
+  Memory Usage: Total: 16557891584 bytes, Free: 7784574976 bytes
+  Uptime: 96625.187 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:42:59
+  CPU Usage: {"user":4003898,"nice":0,"sys":3887618,"idle":475430742,"irq":155133}
+  Memory Usage: Total: 16557891584 bytes, Free: 7789830144 bytes
+  Uptime: 96631.203 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:05
+  CPU Usage: {"user":4003913,"nice":0,"sys":3887713,"idle":475527024,"irq":155149}
+  Memory Usage: Total: 16557891584 bytes, Free: 7801847808 bytes
+  Uptime: 96637.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:11
+  CPU Usage: {"user":4004213,"nice":0,"sys":3887995,"idle":475622479,"irq":155165}
+  Memory Usage: Total: 16557891584 bytes, Free: 7805829120 bytes
+  Uptime: 96643.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:17
+  CPU Usage: {"user":4004931,"nice":0,"sys":3889478,"idle":475716445,"irq":155165}
+  Memory Usage: Total: 16557891584 bytes, Free: 7783235584 bytes
+  Uptime: 96649.234 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:23
+  CPU Usage: {"user":4005008,"nice":0,"sys":3889602,"idle":475812508,"irq":155165}
+  Memory Usage: Total: 16557891584 bytes, Free: 7805534208 bytes
+  Uptime: 96655.25 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:29
+  CPU Usage: {"user":4005320,"nice":0,"sys":3889837,"idle":475908213,"irq":155180}
+  Memory Usage: Total: 16557891584 bytes, Free: 7797723136 bytes
+  Uptime: 96661.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:35
+  CPU Usage: {"user":4005930,"nice":0,"sys":3890416,"idle":476003025,"irq":155196}
+  Memory Usage: Total: 16557891584 bytes, Free: 7780605952 bytes
+  Uptime: 96667.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:41
+  CPU Usage: {"user":4006273,"nice":0,"sys":3890728,"idle":476098680,"irq":155211}
+  Memory Usage: Total: 16557891584 bytes, Free: 7800307712 bytes
+  Uptime: 96673.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:47
+  CPU Usage: {"user":4006477,"nice":0,"sys":3892119,"idle":476193337,"irq":155243}
+  Memory Usage: Total: 16557891584 bytes, Free: 7839412224 bytes
+  Uptime: 96679.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:53
+  CPU Usage: {"user":4006710,"nice":0,"sys":3893462,"idle":476287979,"irq":155274}
+  Memory Usage: Total: 16557891584 bytes, Free: 7954391040 bytes
+  Uptime: 96685.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:43:59
+  CPU Usage: {"user":4007930,"nice":0,"sys":3893728,"idle":476382525,"irq":155352}
+  Memory Usage: Total: 16557891584 bytes, Free: 7888121856 bytes
+  Uptime: 96691.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:05
+  CPU Usage: {"user":4009241,"nice":0,"sys":3893912,"idle":476477306,"irq":155367}
+  Memory Usage: Total: 16557891584 bytes, Free: 7864590336 bytes
+  Uptime: 96697.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:11
+  CPU Usage: {"user":4010229,"nice":0,"sys":3894929,"idle":476571307,"irq":155383}
+  Memory Usage: Total: 16557891584 bytes, Free: 7918800896 bytes
+  Uptime: 96703.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:17
+  CPU Usage: {"user":4012026,"nice":0,"sys":3895851,"idle":476664759,"irq":155414}
+  Memory Usage: Total: 16557891584 bytes, Free: 7874187264 bytes
+  Uptime: 96709.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:23
+  CPU Usage: {"user":4013854,"nice":0,"sys":3895963,"idle":476758853,"irq":155414}
+  Memory Usage: Total: 16557891584 bytes, Free: 7792984064 bytes
+  Uptime: 96715.343 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:29
+  CPU Usage: {"user":4015340,"nice":0,"sys":3896102,"idle":476853463,"irq":155445}
+  Memory Usage: Total: 16557891584 bytes, Free: 7701221376 bytes
+  Uptime: 96721.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:35
+  CPU Usage: {"user":4015558,"nice":0,"sys":3896320,"idle":476949025,"irq":155460}
+  Memory Usage: Total: 16557891584 bytes, Free: 7700467712 bytes
+  Uptime: 96727.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:41
+  CPU Usage: {"user":4016212,"nice":0,"sys":3896586,"idle":477044008,"irq":155475}
+  Memory Usage: Total: 16557891584 bytes, Free: 7898959872 bytes
+  Uptime: 96733.359 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:47
+  CPU Usage: {"user":4018225,"nice":0,"sys":3896946,"idle":477138025,"irq":155491}
+  Memory Usage: Total: 16557891584 bytes, Free: 7864193024 bytes
+  Uptime: 96739.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:53
+  CPU Usage: {"user":4019401,"nice":0,"sys":3897617,"idle":477232166,"irq":155523}
+  Memory Usage: Total: 16557891584 bytes, Free: 7818440704 bytes
+  Uptime: 96745.375 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:44:59
+  CPU Usage: {"user":4021196,"nice":0,"sys":3897790,"idle":477326477,"irq":155539}
+  Memory Usage: Total: 16557891584 bytes, Free: 7771774976 bytes
+  Uptime: 96751.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:05
+  CPU Usage: {"user":4022588,"nice":0,"sys":3898040,"idle":477420804,"irq":155585}
+  Memory Usage: Total: 16557891584 bytes, Free: 7713177600 bytes
+  Uptime: 96757.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:11
+  CPU Usage: {"user":4023931,"nice":0,"sys":3898181,"idle":477515604,"irq":155600}
+  Memory Usage: Total: 16557891584 bytes, Free: 7608811520 bytes
+  Uptime: 96763.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:17
+  CPU Usage: {"user":4024040,"nice":0,"sys":3898259,"idle":477611414,"irq":155600}
+  Memory Usage: Total: 16557891584 bytes, Free: 7609749504 bytes
+  Uptime: 96769.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:23
+  CPU Usage: {"user":4024665,"nice":0,"sys":3900289,"idle":477704727,"irq":155616}
+  Memory Usage: Total: 16557891584 bytes, Free: 7717355520 bytes
+  Uptime: 96775.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:29
+  CPU Usage: {"user":4025618,"nice":0,"sys":3901525,"idle":477798759,"irq":155632}
+  Memory Usage: Total: 16557891584 bytes, Free: 8074297344 bytes
+  Uptime: 96781.421 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:35
+  CPU Usage: {"user":4026290,"nice":0,"sys":3902150,"idle":477893695,"irq":155663}
+  Memory Usage: Total: 16557891584 bytes, Free: 8053248000 bytes
+  Uptime: 96787.437 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:41
+  CPU Usage: {"user":4026773,"nice":0,"sys":3902415,"idle":477989027,"irq":155711}
+  Memory Usage: Total: 16557891584 bytes, Free: 8053731328 bytes
+  Uptime: 96793.437 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:47
+  CPU Usage: {"user":4029524,"nice":0,"sys":3904929,"idle":478079947,"irq":155742}
+  Memory Usage: Total: 16557891584 bytes, Free: 7955140608 bytes
+  Uptime: 96799.453 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:53
+  CPU Usage: {"user":4047024,"nice":0,"sys":3912196,"idle":478151496,"irq":155805}
+  Memory Usage: Total: 16557891584 bytes, Free: 8030179328 bytes
+  Uptime: 96805.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:45:59
+  CPU Usage: {"user":4047462,"nice":0,"sys":3913384,"idle":478245854,"irq":155821}
+  Memory Usage: Total: 16557891584 bytes, Free: 8038027264 bytes
+  Uptime: 96811.468 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:05
+  CPU Usage: {"user":4047695,"nice":0,"sys":3913665,"idle":478341462,"irq":155836}
+  Memory Usage: Total: 16557891584 bytes, Free: 8036225024 bytes
+  Uptime: 96817.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:11
+  CPU Usage: {"user":4068961,"nice":0,"sys":3921774,"idle":478408181,"irq":155930}
+  Memory Usage: Total: 16557891584 bytes, Free: 7918977024 bytes
+  Uptime: 96823.484 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:17
+  CPU Usage: {"user":4084584,"nice":0,"sys":3927899,"idle":478482556,"irq":156009}
+  Memory Usage: Total: 16557891584 bytes, Free: 8000135168 bytes
+  Uptime: 96829.5 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:23
+  CPU Usage: {"user":4119102,"nice":0,"sys":3941790,"idle":478531679,"irq":156180}
+  Memory Usage: Total: 16557891584 bytes, Free: 7655243776 bytes
+  Uptime: 96835.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:29
+  CPU Usage: {"user":4153070,"nice":0,"sys":3952352,"idle":478582322,"irq":156275}
+  Memory Usage: Total: 16557891584 bytes, Free: 7570128896 bytes
+  Uptime: 96841.546 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:35
+  CPU Usage: {"user":4176819,"nice":0,"sys":3961445,"idle":478645758,"irq":156415}
+  Memory Usage: Total: 16557891584 bytes, Free: 7767265280 bytes
+  Uptime: 96847.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:41
+  CPU Usage: {"user":4203399,"nice":0,"sys":3970897,"idle":478705884,"irq":156588}
+  Memory Usage: Total: 16557891584 bytes, Free: 7733022720 bytes
+  Uptime: 96853.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:47
+  CPU Usage: {"user":4225569,"nice":0,"sys":3977899,"idle":478772666,"irq":156651}
+  Memory Usage: Total: 16557891584 bytes, Free: 7691780096 bytes
+  Uptime: 96859.562 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:54
+  CPU Usage: {"user":4255603,"nice":0,"sys":3986806,"idle":478833384,"irq":156791}
+  Memory Usage: Total: 16557891584 bytes, Free: 7600635904 bytes
+  Uptime: 96865.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:46:59
+  CPU Usage: {"user":4285557,"nice":0,"sys":3994697,"idle":478888492,"irq":156885}
+  Memory Usage: Total: 16557891584 bytes, Free: 7578296320 bytes
+  Uptime: 96871.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:05
+  CPU Usage: {"user":4309461,"nice":0,"sys":4001994,"idle":478953510,"irq":156978}
+  Memory Usage: Total: 16557891584 bytes, Free: 7793344512 bytes
+  Uptime: 96877.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:11
+  CPU Usage: {"user":4329242,"nice":0,"sys":4008181,"idle":479023428,"irq":157040}
+  Memory Usage: Total: 16557891584 bytes, Free: 7715901440 bytes
+  Uptime: 96883.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:17
+  CPU Usage: {"user":4353026,"nice":0,"sys":4016898,"idle":479086977,"irq":157260}
+  Memory Usage: Total: 16557891584 bytes, Free: 7671857152 bytes
+  Uptime: 96889.609 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:24
+  CPU Usage: {"user":4385446,"nice":0,"sys":4029571,"idle":479138741,"irq":157523}
+  Memory Usage: Total: 16557891584 bytes, Free: 7649288192 bytes
+  Uptime: 96895.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:29
+  CPU Usage: {"user":4414992,"nice":0,"sys":4041680,"idle":479192383,"irq":157728}
+  Memory Usage: Total: 16557891584 bytes, Free: 7686742016 bytes
+  Uptime: 96901.625 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:35
+  CPU Usage: {"user":4430354,"nice":0,"sys":4047320,"idle":479267728,"irq":157789}
+  Memory Usage: Total: 16557891584 bytes, Free: 7887147008 bytes
+  Uptime: 96907.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:41
+  CPU Usage: {"user":4430571,"nice":0,"sys":4047633,"idle":479363242,"irq":157789}
+  Memory Usage: Total: 16557891584 bytes, Free: 7890485248 bytes
+  Uptime: 96913.64 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:47
+  CPU Usage: {"user":4431273,"nice":0,"sys":4047914,"idle":479458508,"irq":157805}
+  Memory Usage: Total: 16557891584 bytes, Free: 7894429696 bytes
+  Uptime: 96919.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:53
+  CPU Usage: {"user":4431352,"nice":0,"sys":4048523,"idle":479553805,"irq":157836}
+  Memory Usage: Total: 16557891584 bytes, Free: 7874609152 bytes
+  Uptime: 96925.656 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:47:59
+  CPU Usage: {"user":4463164,"nice":0,"sys":4061149,"idle":479605400,"irq":157976}
+  Memory Usage: Total: 16557891584 bytes, Free: 7726473216 bytes
+  Uptime: 96931.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:05
+  CPU Usage: {"user":4491508,"nice":0,"sys":4070915,"idle":479663429,"irq":158225}
+  Memory Usage: Total: 16557891584 bytes, Free: 7603441664 bytes
+  Uptime: 96937.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:11
+  CPU Usage: {"user":4515665,"nice":0,"sys":4079226,"idle":479727056,"irq":158351}
+  Memory Usage: Total: 16557891584 bytes, Free: 7689375744 bytes
+  Uptime: 96943.671 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:17
+  CPU Usage: {"user":4533166,"nice":0,"sys":4085994,"idle":479798914,"irq":158445}
+  Memory Usage: Total: 16557891584 bytes, Free: 7809421312 bytes
+  Uptime: 96949.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:23
+  CPU Usage: {"user":4552554,"nice":0,"sys":4093633,"idle":479868007,"irq":158508}
+  Memory Usage: Total: 16557891584 bytes, Free: 7785885696 bytes
+  Uptime: 96955.687 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:29
+  CPU Usage: {"user":4586335,"nice":0,"sys":4103867,"idle":479920086,"irq":158681}
+  Memory Usage: Total: 16557891584 bytes, Free: 7601233920 bytes
+  Uptime: 96961.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:35
+  CPU Usage: {"user":4614836,"nice":0,"sys":4112103,"idle":479979383,"irq":158852}
+  Memory Usage: Total: 16557891584 bytes, Free: 7520780288 bytes
+  Uptime: 96967.703 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:42
+  CPU Usage: {"user":4636589,"nice":0,"sys":4120182,"idle":480045854,"irq":158946}
+  Memory Usage: Total: 16557891584 bytes, Free: 7771779072 bytes
+  Uptime: 96973.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:48
+  CPU Usage: {"user":4659853,"nice":0,"sys":4127618,"idle":480111164,"irq":159025}
+  Memory Usage: Total: 16557891584 bytes, Free: 7867469824 bytes
+  Uptime: 96979.718 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:48:54
+  CPU Usage: {"user":4682148,"nice":0,"sys":4136086,"idle":480176618,"irq":159165}
+  Memory Usage: Total: 16557891584 bytes, Free: 7806369792 bytes
+  Uptime: 96985.734 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:00
+  CPU Usage: {"user":4709820,"nice":0,"sys":4148134,"idle":480233086,"irq":159353}
+  Memory Usage: Total: 16557891584 bytes, Free: 7562866688 bytes
+  Uptime: 96991.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:06
+  CPU Usage: {"user":4741009,"nice":0,"sys":4159369,"idle":480286555,"irq":159526}
+  Memory Usage: Total: 16557891584 bytes, Free: 7669182464 bytes
+  Uptime: 96997.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:12
+  CPU Usage: {"user":4761554,"nice":0,"sys":4167900,"idle":480353681,"irq":159698}
+  Memory Usage: Total: 16557891584 bytes, Free: 7864741888 bytes
+  Uptime: 97003.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:18
+  CPU Usage: {"user":4779086,"nice":0,"sys":4175057,"idle":480424899,"irq":159714}
+  Memory Usage: Total: 16557891584 bytes, Free: 7869952000 bytes
+  Uptime: 97009.75 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:24
+  CPU Usage: {"user":4802556,"nice":0,"sys":4185072,"idle":480487792,"irq":159855}
+  Memory Usage: Total: 16557891584 bytes, Free: 7827050496 bytes
+  Uptime: 97015.765 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:30
+  CPU Usage: {"user":4834695,"nice":0,"sys":4194932,"idle":480543695,"irq":159981}
+  Memory Usage: Total: 16557891584 bytes, Free: 7721943040 bytes
+  Uptime: 97021.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:36
+  CPU Usage: {"user":4864620,"nice":0,"sys":4204429,"idle":480598602,"irq":160090}
+  Memory Usage: Total: 16557891584 bytes, Free: 7644454912 bytes
+  Uptime: 97027.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:42
+  CPU Usage: {"user":4888182,"nice":0,"sys":4211461,"idle":480663962,"irq":160246}
+  Memory Usage: Total: 16557891584 bytes, Free: 7785025536 bytes
+  Uptime: 97033.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:48
+  CPU Usage: {"user":4912963,"nice":0,"sys":4220070,"idle":480726679,"irq":160401}
+  Memory Usage: Total: 16557891584 bytes, Free: 7791333376 bytes
+  Uptime: 97039.781 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:49:54
+  CPU Usage: {"user":4932961,"nice":0,"sys":4228211,"idle":480794602,"irq":160478}
+  Memory Usage: Total: 16557891584 bytes, Free: 7896981504 bytes
+  Uptime: 97045.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:00
+  CPU Usage: {"user":4968821,"nice":0,"sys":4239634,"idle":480843322,"irq":160634}
+  Memory Usage: Total: 16557891584 bytes, Free: 7785431040 bytes
+  Uptime: 97051.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:06
+  CPU Usage: {"user":4994352,"nice":0,"sys":4248038,"idle":480905462,"irq":160775}
+  Memory Usage: Total: 16557891584 bytes, Free: 7663566848 bytes
+  Uptime: 97057.796 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:12
+  CPU Usage: {"user":5017805,"nice":0,"sys":4255351,"idle":480970961,"irq":160885}
+  Memory Usage: Total: 16557891584 bytes, Free: 7767326720 bytes
+  Uptime: 97063.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:18
+  CPU Usage: {"user":5038118,"nice":0,"sys":4261322,"idle":481040759,"irq":160979}
+  Memory Usage: Total: 16557891584 bytes, Free: 7806627840 bytes
+  Uptime: 97069.812 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:24
+  CPU Usage: {"user":5061838,"nice":0,"sys":4270101,"idle":481104524,"irq":161056}
+  Memory Usage: Total: 16557891584 bytes, Free: 7881809920 bytes
+  Uptime: 97075.828 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:30
+  CPU Usage: {"user":5094028,"nice":0,"sys":4278899,"idle":481159760,"irq":161120}
+  Memory Usage: Total: 16557891584 bytes, Free: 7766630400 bytes
+  Uptime: 97081.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:36
+  CPU Usage: {"user":5121776,"nice":0,"sys":4289368,"idle":481217477,"irq":161212}
+  Memory Usage: Total: 16557891584 bytes, Free: 7664807936 bytes
+  Uptime: 97087.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:42
+  CPU Usage: {"user":5140572,"nice":0,"sys":4296509,"idle":481287635,"irq":161290}
+  Memory Usage: Total: 16557891584 bytes, Free: 7823040512 bytes
+  Uptime: 97093.843 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:48
+  CPU Usage: {"user":5163771,"nice":0,"sys":4303696,"idle":481353491,"irq":161368}
+  Memory Usage: Total: 16557891584 bytes, Free: 8015253504 bytes
+  Uptime: 97099.859 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:50:54
+  CPU Usage: {"user":5183961,"nice":0,"sys":4312010,"idle":481421212,"irq":161509}
+  Memory Usage: Total: 16557891584 bytes, Free: 8001298432 bytes
+  Uptime: 97105.875 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:00
+  CPU Usage: {"user":5218725,"nice":0,"sys":4323118,"idle":481474915,"irq":161711}
+  Memory Usage: Total: 16557891584 bytes, Free: 7832776704 bytes
+  Uptime: 97112.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:06
+  CPU Usage: {"user":5248118,"nice":0,"sys":4332807,"idle":481528682,"irq":161820}
+  Memory Usage: Total: 16557891584 bytes, Free: 7834169344 bytes
+  Uptime: 97117.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:12
+  CPU Usage: {"user":5273649,"nice":0,"sys":4342478,"idle":481589838,"irq":161946}
+  Memory Usage: Total: 16557891584 bytes, Free: 7941464064 bytes
+  Uptime: 97123.921 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:18
+  CPU Usage: {"user":5300619,"nice":0,"sys":4348899,"idle":481652633,"irq":162102}
+  Memory Usage: Total: 16557891584 bytes, Free: 7971549184 bytes
+  Uptime: 97129.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:24
+  CPU Usage: {"user":5323243,"nice":0,"sys":4355446,"idle":481719524,"irq":162226}
+  Memory Usage: Total: 16557891584 bytes, Free: 7952007168 bytes
+  Uptime: 97135.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:30
+  CPU Usage: {"user":5353368,"nice":0,"sys":4364602,"idle":481776228,"irq":162305}
+  Memory Usage: Total: 16557891584 bytes, Free: 7708246016 bytes
+  Uptime: 97141.937 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:36
+  CPU Usage: {"user":5383354,"nice":0,"sys":4373180,"idle":481833758,"irq":162446}
+  Memory Usage: Total: 16557891584 bytes, Free: 7659048960 bytes
+  Uptime: 97147.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:42
+  CPU Usage: {"user":5402695,"nice":0,"sys":4380867,"idle":481902775,"irq":162524}
+  Memory Usage: Total: 16557891584 bytes, Free: 8048017408 bytes
+  Uptime: 97153.953 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:48
+  CPU Usage: {"user":5402945,"nice":0,"sys":4381070,"idle":481998619,"irq":162524}
+  Memory Usage: Total: 16557891584 bytes, Free: 8046256128 bytes
+  Uptime: 97159.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:51:54
+  CPU Usage: {"user":5403509,"nice":0,"sys":4382072,"idle":482093118,"irq":162634}
+  Memory Usage: Total: 16557891584 bytes, Free: 8036753408 bytes
+  Uptime: 97165.968 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:00
+  CPU Usage: {"user":5421289,"nice":0,"sys":4389132,"idle":482164275,"irq":162868}
+  Memory Usage: Total: 16557891584 bytes, Free: 7827202048 bytes
+  Uptime: 97171.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:06
+  CPU Usage: {"user":5441634,"nice":0,"sys":4396322,"idle":482233009,"irq":162994}
+  Memory Usage: Total: 16557891584 bytes, Free: 8041328640 bytes
+  Uptime: 97177.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:12
+  CPU Usage: {"user":5463678,"nice":0,"sys":4406133,"idle":482297148,"irq":163072}
+  Memory Usage: Total: 16557891584 bytes, Free: 7987015680 bytes
+  Uptime: 97183.984 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:18
+  CPU Usage: {"user":5500947,"nice":0,"sys":4417540,"idle":482344539,"irq":163291}
+  Memory Usage: Total: 16557891584 bytes, Free: 7781539840 bytes
+  Uptime: 97190 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:24
+  CPU Usage: {"user":5527789,"nice":0,"sys":4425367,"idle":482406134,"irq":163430}
+  Memory Usage: Total: 16557891584 bytes, Free: 7686025216 bytes
+  Uptime: 97196.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:30
+  CPU Usage: {"user":5549383,"nice":0,"sys":4433525,"idle":482472507,"irq":163493}
+  Memory Usage: Total: 16557891584 bytes, Free: 7825965056 bytes
+  Uptime: 97202.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:36
+  CPU Usage: {"user":5571556,"nice":0,"sys":4440821,"idle":482539071,"irq":163571}
+  Memory Usage: Total: 16557891584 bytes, Free: 7836119040 bytes
+  Uptime: 97208.015 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:42
+  CPU Usage: {"user":5594526,"nice":0,"sys":4449337,"idle":482603729,"irq":163679}
+  Memory Usage: Total: 16557891584 bytes, Free: 7883595776 bytes
+  Uptime: 97214.031 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:48
+  CPU Usage: {"user":5626381,"nice":0,"sys":4459210,"idle":482662432,"irq":163820}
+  Memory Usage: Total: 16557891584 bytes, Free: 7684800512 bytes
+  Uptime: 97220.39 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:52:54
+  CPU Usage: {"user":5657430,"nice":0,"sys":4468289,"idle":482714681,"irq":163850}
+  Memory Usage: Total: 16557891584 bytes, Free: 7593992192 bytes
+  Uptime: 97226.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:00
+  CPU Usage: {"user":5678886,"nice":0,"sys":4476041,"idle":482781791,"irq":164055}
+  Memory Usage: Total: 16557891584 bytes, Free: 7719899136 bytes
+  Uptime: 97232.093 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:06
+  CPU Usage: {"user":5702806,"nice":0,"sys":4483759,"idle":482846258,"irq":164133}
+  Memory Usage: Total: 16557891584 bytes, Free: 7682371584 bytes
+  Uptime: 97238.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:12
+  CPU Usage: {"user":5730131,"nice":0,"sys":4493383,"idle":482905399,"irq":164320}
+  Memory Usage: Total: 16557891584 bytes, Free: 8002707456 bytes
+  Uptime: 97244.109 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:18
+  CPU Usage: {"user":5730524,"nice":0,"sys":4494351,"idle":483000134,"irq":164320}
+  Memory Usage: Total: 16557891584 bytes, Free: 8022933504 bytes
+  Uptime: 97250.125 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:24
+  CPU Usage: {"user":5750900,"nice":0,"sys":4500679,"idle":483069819,"irq":164445}
+  Memory Usage: Total: 16557891584 bytes, Free: 7776288768 bytes
+  Uptime: 97256.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:30
+  CPU Usage: {"user":5771245,"nice":0,"sys":4508619,"idle":483137525,"irq":164492}
+  Memory Usage: Total: 16557891584 bytes, Free: 7853441024 bytes
+  Uptime: 97262.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:36
+  CPU Usage: {"user":5789509,"nice":0,"sys":4516132,"idle":483207822,"irq":164508}
+  Memory Usage: Total: 16557891584 bytes, Free: 7946518528 bytes
+  Uptime: 97268.14 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:42
+  CPU Usage: {"user":5812633,"nice":0,"sys":4524414,"idle":483272634,"irq":164539}
+  Memory Usage: Total: 16557891584 bytes, Free: 7863795712 bytes
+  Uptime: 97274.156 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:48
+  CPU Usage: {"user":5839413,"nice":0,"sys":4535243,"idle":483333196,"irq":164634}
+  Memory Usage: Total: 16557891584 bytes, Free: 7751364608 bytes
+  Uptime: 97280.406 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:53:54
+  CPU Usage: {"user":5869962,"nice":0,"sys":4544104,"idle":483388414,"irq":164728}
+  Memory Usage: Total: 16557891584 bytes, Free: 7774830592 bytes
+  Uptime: 97286.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:00
+  CPU Usage: {"user":5895822,"nice":0,"sys":4551866,"idle":483450963,"irq":164775}
+  Memory Usage: Total: 16557891584 bytes, Free: 7863369728 bytes
+  Uptime: 97292.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:06
+  CPU Usage: {"user":5916335,"nice":0,"sys":4558713,"idle":483519647,"irq":164883}
+  Memory Usage: Total: 16557891584 bytes, Free: 7912583168 bytes
+  Uptime: 97298.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:12
+  CPU Usage: {"user":5936573,"nice":0,"sys":4566132,"idle":483587979,"irq":164978}
+  Memory Usage: Total: 16557891584 bytes, Free: 7873699840 bytes
+  Uptime: 97304.218 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:18
+  CPU Usage: {"user":5965665,"nice":0,"sys":4575759,"idle":483646491,"irq":165135}
+  Memory Usage: Total: 16557891584 bytes, Free: 7696744448 bytes
+  Uptime: 97310.328 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:24
+  CPU Usage: {"user":5997086,"nice":0,"sys":4584087,"idle":483702105,"irq":165291}
+  Memory Usage: Total: 16557891584 bytes, Free: 7505031168 bytes
+  Uptime: 97316.265 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:30
+  CPU Usage: {"user":6018319,"nice":0,"sys":4593008,"idle":483768119,"irq":165354}
+  Memory Usage: Total: 16557891584 bytes, Free: 7698030592 bytes
+  Uptime: 97322.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:36
+  CPU Usage: {"user":6042494,"nice":0,"sys":4602084,"idle":483831022,"irq":165432}
+  Memory Usage: Total: 16557891584 bytes, Free: 7940943872 bytes
+  Uptime: 97328.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:42
+  CPU Usage: {"user":6061727,"nice":0,"sys":4609430,"idle":483900557,"irq":165541}
+  Memory Usage: Total: 16557891584 bytes, Free: 7883452416 bytes
+  Uptime: 97334.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:48
+  CPU Usage: {"user":6099903,"nice":0,"sys":4622228,"idle":483945477,"irq":165838}
+  Memory Usage: Total: 16557891584 bytes, Free: 7781449728 bytes
+  Uptime: 97340.281 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:54:54
+  CPU Usage: {"user":6122476,"nice":0,"sys":4632165,"idle":484009275,"irq":165962}
+  Memory Usage: Total: 16557891584 bytes, Free: 7934799872 bytes
+  Uptime: 97346.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:55:00
+  CPU Usage: {"user":6122555,"nice":0,"sys":4632510,"idle":484104900,"irq":165993}
+  Memory Usage: Total: 16557891584 bytes, Free: 7990136832 bytes
+  Uptime: 97352.296 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:55:06
+  CPU Usage: {"user":6123304,"nice":0,"sys":4634244,"idle":484198601,"irq":166071}
+  Memory Usage: Total: 16557891584 bytes, Free: 9167224832 bytes
+  Uptime: 97358.312 seconds
+  ---------------------------
+  
+  Timestamp: 2024-09-13 14:55:12
+  CPU Usage: {"user":6131117,"nice":0,"sys":4636790,"idle":484284163,"irq":166166}
+  Memory Usage: Total: 16557891584 bytes, Free: 8024231936 bytes
+  Uptime: 97364.312 seconds
+  ---------------------------
+  

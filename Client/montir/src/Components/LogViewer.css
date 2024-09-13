@@ -1,4 +1,3 @@
-/* Container for the entire log viewer */
 .log-container {
     max-width: 900px;
     margin: 0 auto;
@@ -9,7 +8,6 @@
     font-family: Arial, sans-serif;
   }
   
-  /* Header styling */
   h1 {
     text-align: center;
     font-size: 24px;
@@ -18,7 +16,6 @@
     font-weight: bold;
   }
   
-  /* Loading and error states */
   .loading, .error {
     text-align: center;
     color: #d9534f;
@@ -26,23 +23,20 @@
     margin: 20px 0;
   }
   
-  /* No logs state */
   .no-logs {
     text-align: center;
     font-size: 18px;
     color: #777;
   }
   
-  /* Log list container */
   .log-list {
     list-style-type: none;
     padding: 0;
     margin: 0;
   }
   
-  /* Individual log item styling */
   .log-item {
-    background-color: #fff;
+    background-color: #a81919;
     border: 1px solid #ddd;
     margin-bottom: 15px;
     padding: 15px;
@@ -51,7 +45,6 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   
-  /* For better readability, use pre-wrap and give some margin */
   pre {
     margin: 0;
     white-space: pre-wrap;
@@ -60,7 +53,27 @@
     line-height: 1.4;
   }
   
-  /* Highlight the timestamp */
+  .log-item pre {
+    margin: 0;
+  }
+  
+  .log-item .timestamp {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .log-item .cpu-usage {
+    color: #ff5722;
+  }
+  
+  .log-item .memory-usage {
+    color: #4caf50;
+  }
+  
+  .log-item .gpu-usage {
+    color: #2196f3;
+  }
+  
   .log-item pre:first-child {
     font-weight: bold;
     color: #007bff;

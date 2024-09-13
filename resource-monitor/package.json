@@ -12,6 +12,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "date-fns": "^3.6.0",
-    "express": "^4.21.0"
+    "express": "^4.21.0",
+    "node-nvidia-smi": "^1.0.0",
+    "systeminformation": "^5.23.5",
+    "ws": "^8.18.0"
   }
 }

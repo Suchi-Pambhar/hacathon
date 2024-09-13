@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
 import './LogViewer.css'; // Import CSS for styling
 
 const LogViewer = () => {
@@ -8,18 +7,26 @@ const LogViewer = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    const fetchLogs = async () => {
-      try {
-        const response = await axios.get('http://localhost:3000/api/logs');
-        setLogs(response.data);
-      } catch (err) {
-        setError('Error fetching logs');
-      } finally {
-        setLoading(false);
-      }
+    const eventSource = new EventSource('http://localhost:3000/events'); // Connect to the SSE endpoint
+
+    eventSource.onopen = () => {
+      console.log('SSE connection established');
+      setLoading(false);
     };
 
-    fetchLogs();
+    eventSource.onmessage = (event) => {
+      const newLog = JSON.parse(event.data).logEntry;
+      setLogs(prevLogs => [newLog, ...prevLogs]); // Prepend new logs
+    };
+
+    eventSource.onerror = (err) => {
+      console.error('SSE error:', err);
+      setError('Error connecting to SSE');
+    };
+
+    return () => {
+      eventSource.close(); // Clean up SSE connection on unmount
+    };
   }, []);
 
   if (loading) return <p className="loading">Loading...</p>;
